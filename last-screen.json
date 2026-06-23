@@ -1,4 +1,40 @@
 {
-  "candidates": [],
-  "generatedAt": null
+  "candidates": [
+    {
+      "symbol": "PHBUSDT",
+      "quoteVolume": 1466402.3978,
+      "priceChangePercent": -70,
+      "cleanliness": 1,
+      "score": 62.84987594862849
+    },
+    {
+      "symbol": "BICOUSDT",
+      "quoteVolume": 8486842.710522,
+      "priceChangePercent": -30.385,
+      "cleanliness": 0.8333333333333314,
+      "score": 44.52745717933142
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "quoteVolume": 16427890.45374,
+      "priceChangePercent": 58.719,
+      "cleanliness": 0.5599481529487995,
+      "score": 42.17830065740634
+    },
+    {
+      "symbol": "TNSRUSDT",
+      "quoteVolume": 10257916.61614,
+      "priceChangePercent": -16.631,
+      "cleanliness": 0.6969696969696965,
+      "score": 34.97140562813199
+    },
+    {
+      "symbol": "WLDUSDT",
+      "quoteVolume": 63362810.14043,
+      "priceChangePercent": -4.397,
+      "cleanliness": 0.6635514018691592,
+      "score": 30.201706403756607
+    }
+  ],
+  "generatedAt": "2026-06-23T01:55:45.643Z"
 }
