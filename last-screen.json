@@ -9,32 +9,32 @@
     },
     {
       "symbol": "TNSRUSDT",
-      "quoteVolume": 9980713.40042,
-      "priceChangePercent": -17.382,
-      "cleanliness": 0.8571428571428595,
-      "score": 41.60006276117051
-    },
-    {
-      "symbol": "REUSDT",
-      "quoteVolume": 51557072.12886,
-      "priceChangePercent": -10.607,
-      "cleanliness": 0.8706896551724137,
-      "score": 40.3233726807749
+      "quoteVolume": 9949395.32701,
+      "priceChangePercent": -17.279,
+      "cleanliness": 0.9499999999999986,
+      "score": 45.28303900620991
     },
     {
       "symbol": "EIGENUSDT",
-      "quoteVolume": 9635503.617052,
-      "priceChangePercent": -11.047,
-      "cleanliness": 0.823529411764709,
-      "score": 38.350438796220125
+      "quoteVolume": 9510114.092468,
+      "priceChangePercent": -10.755,
+      "cleanliness": 0.8260869565217382,
+      "score": 38.36343397902432
     },
     {
-      "symbol": "ENAUSDT",
-      "quoteVolume": 32311332.636369,
-      "priceChangePercent": -3.326,
-      "cleanliness": 0.8461538461538428,
-      "score": 37.09676030723298
+      "symbol": "REUSDT",
+      "quoteVolume": 51412591.90224,
+      "priceChangePercent": -11.368,
+      "cleanliness": 0.8141592920353967,
+      "score": 38.29009253106732
+    },
+    {
+      "symbol": "MMTUSDT",
+      "quoteVolume": 5831590.53819,
+      "priceChangePercent": 19.809,
+      "cleanliness": 0.7051282051282056,
+      "score": 36.177564311920406
     }
   ],
-  "generatedAt": "2026-06-23T02:25:10.155Z"
+  "generatedAt": "2026-06-23T02:32:31.329Z"
 }
