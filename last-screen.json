@@ -2,39 +2,39 @@
   "candidates": [
     {
       "symbol": "PHBUSDT",
-      "quoteVolume": 1466449.0997,
-      "priceChangePercent": -69.388,
+      "quoteVolume": 1466402.3978,
+      "priceChangePercent": -70,
       "cleanliness": 1,
-      "score": 62.66628009797819
+      "score": 62.84987594862849
     },
     {
       "symbol": "HEIUSDT",
-      "quoteVolume": 12782761.16117,
-      "priceChangePercent": 45.093,
-      "cleanliness": 0.8407079646017703,
-      "score": 49.28820598640386
+      "quoteVolume": 12887065.05874,
+      "priceChangePercent": 44.718,
+      "cleanliness": 0.60952380952381,
+      "score": 39.929398587254
     },
     {
-      "symbol": "TONUSDT",
-      "quoteVolume": 29861831.47618,
-      "priceChangePercent": -8.127,
-      "cleanliness": 0.7142857142857052,
-      "score": 33.252063503492536
+      "symbol": "SOLUSDT",
+      "quoteVolume": 159628718.92398,
+      "priceChangePercent": -4.431,
+      "cleanliness": 0.6304347826086675,
+      "score": 29.007624612834906
     },
     {
-      "symbol": "BICOUSDT",
-      "quoteVolume": 9282710.976701,
-      "priceChangePercent": -14.839,
-      "cleanliness": 0.6666666666666686,
-      "score": 33.20866911525276
+      "symbol": "XPLUSDT",
+      "quoteVolume": 28631000.65843,
+      "priceChangePercent": 6.331,
+      "cleanliness": 0.6153846153846158,
+      "score": 28.75173557347089
     },
     {
-      "symbol": "RESOLVUSDT",
-      "quoteVolume": 25919513.60513,
-      "priceChangePercent": 9.589,
-      "cleanliness": 0.6666666666666657,
-      "score": 31.767454720911957
+      "symbol": "ENAUSDT",
+      "quoteVolume": 19077466.990218,
+      "priceChangePercent": -5.326,
+      "cleanliness": 0.5833333333333237,
+      "score": 27.115289546562888
     }
   ],
-  "generatedAt": "2026-06-23T21:37:30.769Z"
+  "generatedAt": "2026-06-23T21:42:31.015Z"
 }
