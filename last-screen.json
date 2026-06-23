@@ -2,39 +2,39 @@
   "candidates": [
     {
       "symbol": "BELUSDT",
-      "quoteVolume": 7459723.05327,
-      "priceChangePercent": -25.113,
-      "cleanliness": 0.8987341772151906,
-      "score": 45.54508389990562
+      "quoteVolume": 7416003.39077,
+      "priceChangePercent": -25.388,
+      "cleanliness": 0.9006622516556291,
+      "score": 45.70394104213699
     },
     {
       "symbol": "BTCUSDT",
-      "quoteVolume": 1274344388.1102972,
-      "priceChangePercent": -3.599,
-      "cleanliness": 0.9108355732824684,
-      "score": 40.244708974528415
+      "quoteVolume": 1275851046.4553044,
+      "priceChangePercent": -3.594,
+      "cleanliness": 0.9169491525423688,
+      "score": 40.487906093944794
+    },
+    {
+      "symbol": "SUIUSDT",
+      "quoteVolume": 33198079.84785,
+      "priceChangePercent": -3.752,
+      "cleanliness": 0.8852459016393386,
+      "score": 38.79176995512211
     },
     {
       "symbol": "ETHUSDT",
-      "quoteVolume": 446644291.38809,
-      "priceChangePercent": -5.044,
-      "cleanliness": 0.8955223880596925,
-      "score": 39.92908405866552
+      "quoteVolume": 447094059.194415,
+      "priceChangePercent": -5.032,
+      "cleanliness": 0.8582183186950935,
+      "score": 38.433452417556666
     },
     {
-      "symbol": "BCHUSDT",
-      "quoteVolume": 21796297.3027,
-      "priceChangePercent": -4.717,
-      "cleanliness": 0.8888888888888924,
-      "score": 39.172170372477666
-    },
-    {
-      "symbol": "WLDUSDT",
-      "quoteVolume": 67750104.3377,
-      "priceChangePercent": -14.017,
-      "cleanliness": 0.7749999999999972,
-      "score": 37.55437299051292
+      "symbol": "DOGEUSDT",
+      "quoteVolume": 50484885.15482,
+      "priceChangePercent": -5.641,
+      "cleanliness": 0.8372093023255799,
+      "score": 37.491620504816744
     }
   ],
-  "generatedAt": "2026-06-23T18:37:34.011Z"
+  "generatedAt": "2026-06-23T18:42:50.771Z"
 }
