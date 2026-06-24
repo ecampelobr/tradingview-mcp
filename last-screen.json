@@ -8,6 +8,13 @@
       "score": 62.84987594862849
     },
     {
+      "symbol": "ATMUSDT",
+      "quoteVolume": 6578808.68943,
+      "priceChangePercent": 40.727,
+      "cleanliness": 0.776041666666667,
+      "score": 45.305210843879365
+    },
+    {
       "symbol": "A2ZUSDT",
       "quoteVolume": 1142385.598803,
       "priceChangePercent": -53.846,
@@ -15,26 +22,19 @@
       "score": 44.63781048255937
     },
     {
+      "symbol": "BELUSDT",
+      "quoteVolume": 4250796.39195,
+      "priceChangePercent": -16.172,
+      "cleanliness": 0.916666666666668,
+      "score": 43.50680775765084
+    },
+    {
       "symbol": "AAVEUSDT",
-      "quoteVolume": 19527319.20906,
-      "priceChangePercent": 6.389,
-      "cleanliness": 0.9132075471698047,
-      "score": 40.632194674484765
-    },
-    {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 30844426.93245,
-      "priceChangePercent": 37.444,
-      "cleanliness": 0.6222222222222241,
-      "score": 38.36884190062053
-    },
-    {
-      "symbol": "ATAUSDT",
-      "quoteVolume": 1027607.4364,
-      "priceChangePercent": -53.846,
-      "cleanliness": 0.5,
-      "score": 37.957348171528366
+      "quoteVolume": 19686422.86475,
+      "priceChangePercent": 7.129,
+      "cleanliness": 0.9770992366412206,
+      "score": 43.41091950850599
     }
   ],
-  "generatedAt": "2026-06-24T15:22:32.220Z"
+  "generatedAt": "2026-06-24T15:27:31.314Z"
 }
