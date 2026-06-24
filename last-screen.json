@@ -15,26 +15,26 @@
       "score": 44.63781048255937
     },
     {
+      "symbol": "BICOUSDT",
+      "quoteVolume": 5158091.524429,
+      "priceChangePercent": -12.153,
+      "cleanliness": 0.8750000000000006,
+      "score": 40.659646713178624
+    },
+    {
       "symbol": "SYNUSDT",
-      "quoteVolume": 26479072.15368,
-      "priceChangePercent": 10.104,
-      "cleanliness": 0.8937499999999979,
-      "score": 41.00807082891001
+      "quoteVolume": 26466994.79238,
+      "priceChangePercent": 10.222,
+      "cleanliness": 0.8321167883211701,
+      "score": 38.578082922424436
     },
     {
       "symbol": "IDUSDT",
-      "quoteVolume": 6275702.9187,
-      "priceChangePercent": 9.235,
-      "cleanliness": 0.8108108108108111,
-      "score": 37.24223114542015
-    },
-    {
-      "symbol": "DYDXUSDT",
-      "quoteVolume": 7464908.3233099,
-      "priceChangePercent": 10.528,
-      "cleanliness": 0.6460348162475865,
-      "score": 31.061699993457808
+      "quoteVolume": 6335503.0996,
+      "priceChangePercent": 9.186,
+      "cleanliness": 0.842105263157894,
+      "score": 38.48054485863431
     }
   ],
-  "generatedAt": "2026-06-24T09:17:31.960Z"
+  "generatedAt": "2026-06-24T09:22:31.039Z"
 }
