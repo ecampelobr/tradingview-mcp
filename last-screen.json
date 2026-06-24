@@ -9,32 +9,32 @@
     },
     {
       "symbol": "SAHARAUSDT",
-      "quoteVolume": 8096435.82306,
-      "priceChangePercent": 20.362,
-      "cleanliness": 0.9195402298850578,
-      "score": 44.96269735873136
+      "quoteVolume": 8315383.4594,
+      "priceChangePercent": 19.052,
+      "cleanliness": 0.8160919540229881,
+      "score": 40.4352428453011
     },
     {
       "symbol": "SYNUSDT",
-      "quoteVolume": 26673703.51391,
-      "priceChangePercent": 10.548,
-      "cleanliness": 0.9224806201550345,
-      "score": 42.29144980206683
+      "quoteVolume": 26617428.44504,
+      "priceChangePercent": 12.794,
+      "cleanliness": 0.7272727272727252,
+      "score": 35.15665891948041
     },
     {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 24324133.13161,
-      "priceChangePercent": 43.894,
-      "cleanliness": 0.6504854368932026,
-      "score": 41.40342868725051
+      "symbol": "BELUSDT",
+      "quoteVolume": 6513536.38648,
+      "priceChangePercent": -14.994,
+      "cleanliness": 0.7096774193548399,
+      "score": 34.92944182726795
     },
     {
-      "symbol": "SPCXBUSDT",
-      "quoteVolume": 46032685.53182,
-      "priceChangePercent": 4.928,
-      "cleanliness": 0.8935361216730032,
-      "score": 39.51876476058947
+      "symbol": "XPLUSDT",
+      "quoteVolume": 29389591.84309,
+      "priceChangePercent": 5.071,
+      "cleanliness": 0.6999999999999986,
+      "score": 31.761758066415215
     }
   ],
-  "generatedAt": "2026-06-24T08:02:30.951Z"
+  "generatedAt": "2026-06-24T08:07:30.872Z"
 }
