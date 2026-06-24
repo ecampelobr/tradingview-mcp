@@ -9,32 +9,32 @@
     },
     {
       "symbol": "SAHARAUSDT",
-      "quoteVolume": 15917213.29065,
-      "priceChangePercent": 13.356,
-      "cleanliness": 0.8399999999999997,
-      "score": 39.76736011075862
+      "quoteVolume": 15965453.9299,
+      "priceChangePercent": 14.571,
+      "cleanliness": 0.9682539682539668,
+      "score": 45.26241311143312
+    },
+    {
+      "symbol": "RESOLVUSDT",
+      "quoteVolume": 7578088.17491,
+      "priceChangePercent": -19.106,
+      "cleanliness": 0.8750000000000006,
+      "score": 42.79566789626168
     },
     {
       "symbol": "MEGAUSDT",
-      "quoteVolume": 395295281.67537,
-      "priceChangePercent": -8.327,
-      "cleanliness": 0.7357142857142838,
-      "score": 34.50574791773542
+      "quoteVolume": 395257871.569411,
+      "priceChangePercent": -8.24,
+      "cleanliness": 0.884353741496601,
+      "score": 40.42521381816646
     },
     {
-      "symbol": "REUSDT",
-      "quoteVolume": 26157469.77163,
-      "priceChangePercent": -17.509,
-      "cleanliness": 0.6473684210526298,
-      "score": 33.37271556173751
-    },
-    {
-      "symbol": "ATMUSDT",
-      "quoteVolume": 9019657.29063,
-      "priceChangePercent": 35.061,
-      "cleanliness": 0.5,
-      "score": 32.604857010942766
+      "symbol": "ETHUSDT",
+      "quoteVolume": 535972292.028547,
+      "priceChangePercent": -3.5,
+      "cleanliness": 0.7999103741877651,
+      "score": 35.66515766912171
     }
   ],
-  "generatedAt": "2026-06-24T20:02:57.494Z"
+  "generatedAt": "2026-06-24T20:07:33.354Z"
 }
