@@ -9,32 +9,32 @@
     },
     {
       "symbol": "XAUTUSDT",
-      "quoteVolume": 30169706.532135,
-      "priceChangePercent": -3.512,
-      "cleanliness": 0.8809101654846282,
-      "score": 38.53387794509827
+      "quoteVolume": 30227371.608616,
+      "priceChangePercent": -3.454,
+      "cleanliness": 0.8631796690307302,
+      "score": 37.80750687678015
     },
     {
       "symbol": "PAXGUSDT",
-      "quoteVolume": 29817649.866866,
-      "priceChangePercent": -3.584,
-      "cleanliness": 0.8374887353559669,
-      "score": 36.81709143746197
+      "quoteVolume": 29833675.580217,
+      "priceChangePercent": -3.545,
+      "cleanliness": 0.8281766296185099,
+      "score": 36.43297721357371
     },
     {
       "symbol": "SOLUSDT",
-      "quoteVolume": 186126885.22965,
-      "priceChangePercent": -5.493,
-      "cleanliness": 0.7239819004524836,
-      "score": 33.08811875099004
+      "quoteVolume": 188464237.88957,
+      "priceChangePercent": -5.582,
+      "cleanliness": 0.7149321266968293,
+      "score": 32.75445375366166
     },
     {
       "symbol": "LINKUSDT",
-      "quoteVolume": 19665925.90154,
-      "priceChangePercent": -5.643,
-      "cleanliness": 0.6511627906976761,
-      "score": 29.927525947447535
+      "quoteVolume": 19706316.74336,
+      "priceChangePercent": -5.699,
+      "cleanliness": 0.7093023255813959,
+      "score": 32.27017466095801
     }
   ],
-  "generatedAt": "2026-06-24T17:52:32.350Z"
+  "generatedAt": "2026-06-24T17:57:32.342Z"
 }
