@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "REUSDT",
-      "quoteVolume": 27035021.6986,
-      "priceChangePercent": -22.105,
-      "cleanliness": 0.8440594059405919,
-      "score": 42.62345425436804
-    },
-    {
-      "symbol": "SYNUSDT",
-      "quoteVolume": 32117382.79489,
-      "priceChangePercent": 19.51,
-      "cleanliness": 0.7008196721311484,
-      "score": 36.13780892962724
-    },
-    {
       "symbol": "ETHUSDT",
-      "quoteVolume": 432933379.478171,
-      "priceChangePercent": -4.284,
-      "cleanliness": 0.7501965408805064,
-      "score": 33.883987956677515
+      "quoteVolume": 437651143.821308,
+      "priceChangePercent": -4.493,
+      "cleanliness": 0.8546255506607958,
+      "score": 38.12526044678789
+    },
+    {
+      "symbol": "REUSDT",
+      "quoteVolume": 26990625.41153,
+      "priceChangePercent": -22.342,
+      "cleanliness": 0.6945812807881779,
+      "score": 36.715215115896996
+    },
+    {
+      "symbol": "HYPERUSDT",
+      "quoteVolume": 14704280.61434,
+      "priceChangePercent": -6.112,
+      "cleanliness": 0.8181818181818188,
+      "score": 36.7111058619128
     },
     {
       "symbol": "WLDUSDT",
-      "quoteVolume": 66284046.7026,
-      "priceChangePercent": -5.284,
-      "cleanliness": 0.7480314960629935,
-      "score": 33.85288254691116
+      "quoteVolume": 66039403.1726,
+      "priceChangePercent": -5.562,
+      "cleanliness": 0.8000000000000044,
+      "score": 36.014540941909125
     }
   ],
-  "generatedAt": "2026-06-24T17:12:31.509Z"
+  "generatedAt": "2026-06-24T17:17:30.872Z"
 }
