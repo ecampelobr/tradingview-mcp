@@ -16,25 +16,25 @@
     },
     {
       "symbol": "GUSDT",
-      "quoteVolume": 10151199.32799,
-      "priceChangePercent": 21.756,
-      "cleanliness": 0.794117647058823,
-      "score": 40.393461089040244
-    },
-    {
-      "symbol": "REUSDT",
-      "quoteVolume": 27655316.04016,
-      "priceChangePercent": -11.757,
-      "cleanliness": 0.6833333333333315,
-      "score": 33.09296692109595
+      "quoteVolume": 10218766.17532,
+      "priceChangePercent": 18.939,
+      "cleanliness": 0.7878787878787873,
+      "score": 39.29967105368763
     },
     {
       "symbol": "ALICEUSDT",
-      "quoteVolume": 4870704.910602,
-      "priceChangePercent": 23.529,
-      "cleanliness": 0.5586592178770939,
-      "score": 31.411346260735463
+      "quoteVolume": 4974907.363584,
+      "priceChangePercent": 20.618,
+      "cleanliness": 0.6249999999999988,
+      "score": 33.194435499482736
+    },
+    {
+      "symbol": "REUSDT",
+      "quoteVolume": 27573343.91008,
+      "priceChangePercent": -11.947,
+      "cleanliness": 0.670588235294115,
+      "score": 32.63977624305045
     }
   ],
-  "generatedAt": "2026-06-24T08:27:31.413Z"
+  "generatedAt": "2026-06-24T08:32:31.886Z"
 }
