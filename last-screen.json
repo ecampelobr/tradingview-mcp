@@ -15,26 +15,26 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "XRPUSDT",
-      "quoteVolume": 76865596.06348,
-      "priceChangePercent": -0.936,
-      "cleanliness": 1,
-      "score": 42.646519599795795
-    },
-    {
-      "symbol": "PAXGUSDT",
-      "quoteVolume": 23374848.876101,
-      "priceChangePercent": -2.688,
-      "cleanliness": 0.9692249240121601,
-      "score": 41.786021604007686
-    },
-    {
       "symbol": "REUSDT",
-      "quoteVolume": 25725645.29765,
-      "priceChangePercent": -10.498,
-      "cleanliness": 0.9073482428115012,
-      "score": 41.66643959566174
+      "quoteVolume": 25740492.85554,
+      "priceChangePercent": -11.541,
+      "cleanliness": 0.9560439560439568,
+      "score": 43.927243299195354
+    },
+    {
+      "symbol": "ALICEUSDT",
+      "quoteVolume": 6844476.453754,
+      "priceChangePercent": 8.48,
+      "cleanliness": 0.8939393939393929,
+      "score": 40.35217782770935
+    },
+    {
+      "symbol": "SAHARAUSDT",
+      "quoteVolume": 13627744.6034,
+      "priceChangePercent": 15.452,
+      "cleanliness": 0.835616438356164,
+      "score": 40.20058473001352
     }
   ],
-  "generatedAt": "2026-06-24T12:52:32.187Z"
+  "generatedAt": "2026-06-24T12:57:31.461Z"
 }
