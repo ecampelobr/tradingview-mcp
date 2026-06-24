@@ -15,13 +15,6 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "XPLUSDT",
-      "quoteVolume": 29440637.74966,
-      "priceChangePercent": 3.321,
-      "cleanliness": 0.9000000000000111,
-      "score": 39.23698416406583
-    },
-    {
       "symbol": "ATAUSDT",
       "quoteVolume": 1027607.4364,
       "priceChangePercent": -53.846,
@@ -29,12 +22,19 @@
       "score": 37.957348171528366
     },
     {
-      "symbol": "IDUSDT",
-      "quoteVolume": 6365433.875,
-      "priceChangePercent": 10.585,
-      "cleanliness": 0.7272727272727267,
-      "score": 34.30755749420604
+      "symbol": "HEIUSDT",
+      "quoteVolume": 26755984.61815,
+      "priceChangePercent": 47.166,
+      "cleanliness": 0.3775510204081635,
+      "score": 31.480067097608778
+    },
+    {
+      "symbol": "XRPUSDT",
+      "quoteVolume": 74811586.37109,
+      "priceChangePercent": -1.316,
+      "cleanliness": 0.6993464052287742,
+      "score": 30.730846868352636
     }
   ],
-  "generatedAt": "2026-06-24T10:37:31.131Z"
+  "generatedAt": "2026-06-24T10:42:33.172Z"
 }
