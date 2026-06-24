@@ -9,32 +9,32 @@
     },
     {
       "symbol": "ETHUSDT",
-      "quoteVolume": 466326464.827313,
-      "priceChangePercent": -5.427,
-      "cleanliness": 0.9716286586460778,
-      "score": 43.09385336477648
-    },
-    {
-      "symbol": "ZECUSDT",
-      "quoteVolume": 72245291.07246,
-      "priceChangePercent": -6.03,
-      "cleanliness": 0.9556585043017894,
-      "score": 42.39298303561963
-    },
-    {
-      "symbol": "SAHARAUSDT",
-      "quoteVolume": 15652570.15366,
-      "priceChangePercent": 10.106,
-      "cleanliness": 0.9298245614035086,
-      "score": 42.383158153821505
+      "quoteVolume": 473222895.363794,
+      "priceChangePercent": -5.789,
+      "cleanliness": 0.9013181984621039,
+      "score": 40.391947663004835
     },
     {
       "symbol": "SOLUSDT",
-      "quoteVolume": 180040710.67764,
-      "priceChangePercent": -5.126,
-      "cleanliness": 0.9398148148148169,
-      "score": 41.60700380816294
+      "quoteVolume": 181138778.09346,
+      "priceChangePercent": -5.473,
+      "cleanliness": 0.8774509803921572,
+      "score": 39.217342645826136
+    },
+    {
+      "symbol": "BTCUSDT",
+      "quoteVolume": 1618651096.6493847,
+      "priceChangePercent": -5.183,
+      "cleanliness": 0.86766576519759,
+      "score": 39.024276581653204
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "quoteVolume": 57817975.9067,
+      "priceChangePercent": -6.958,
+      "cleanliness": 0.8638743455497397,
+      "score": 38.97099268713185
     }
   ],
-  "generatedAt": "2026-06-24T17:42:31.298Z"
+  "generatedAt": "2026-06-24T17:47:32.097Z"
 }
