@@ -15,26 +15,26 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "SAHARAUSDT",
-      "quoteVolume": 14416828.36619,
-      "priceChangePercent": 19.947,
-      "cleanliness": 0.8490566037735848,
-      "score": 42.09402506939342
-    },
-    {
-      "symbol": "AAVEUSDT",
-      "quoteVolume": 19124001.5789,
-      "priceChangePercent": 3.561,
-      "cleanliness": 0.9269406392694078,
-      "score": 40.3303992020402
+      "symbol": "BELUSDT",
+      "quoteVolume": 4354518.31607,
+      "priceChangePercent": -14.915,
+      "cleanliness": 0.9259259259259336,
+      "score": 43.50321907352638
     },
     {
       "symbol": "ATMUSDT",
-      "quoteVolume": 6062927.85503,
-      "priceChangePercent": 36.198,
-      "cleanliness": 0.47715736040609164,
-      "score": 31.980499136375276
+      "quoteVolume": 6096791.41866,
+      "priceChangePercent": 35.896,
+      "cleanliness": 0.6598984771573596,
+      "score": 39.20026948749698
+    },
+    {
+      "symbol": "BTCUSDT",
+      "quoteVolume": 1087833206.479388,
+      "priceChangePercent": -2.391,
+      "cleanliness": 0.6953692819655314,
+      "score": 31.243039972121824
     }
   ],
-  "generatedAt": "2026-06-24T14:47:31.637Z"
+  "generatedAt": "2026-06-24T14:52:31.356Z"
 }
