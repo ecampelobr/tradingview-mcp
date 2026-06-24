@@ -16,25 +16,25 @@
     },
     {
       "symbol": "SAHARAUSDT",
-      "quoteVolume": 14384141.38916,
-      "priceChangePercent": 19.423,
-      "cleanliness": 0.8518518518518516,
-      "score": 42.048339257068584
+      "quoteVolume": 14416828.36619,
+      "priceChangePercent": 19.947,
+      "cleanliness": 0.8490566037735848,
+      "score": 42.09402506939342
     },
     {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 30531883.86467,
-      "priceChangePercent": 38.453,
-      "cleanliness": 0.5510204081632624,
-      "score": 35.82214240706139
+      "symbol": "AAVEUSDT",
+      "quoteVolume": 19124001.5789,
+      "priceChangePercent": 3.561,
+      "cleanliness": 0.9269406392694078,
+      "score": 40.3303992020402
     },
     {
       "symbol": "ATMUSDT",
-      "quoteVolume": 6015219.68164,
-      "priceChangePercent": 36.819,
-      "cleanliness": 0.4974619289340093,
-      "score": 32.97795260520637
+      "quoteVolume": 6062927.85503,
+      "priceChangePercent": 36.198,
+      "cleanliness": 0.47715736040609164,
+      "score": 31.980499136375276
     }
   ],
-  "generatedAt": "2026-06-24T14:42:33.215Z"
+  "generatedAt": "2026-06-24T14:47:31.637Z"
 }
