@@ -15,26 +15,26 @@
       "score": 44.63781048255937
     },
     {
+      "symbol": "BELUSDT",
+      "quoteVolume": 4650289.37871,
+      "priceChangePercent": -14.444,
+      "cleanliness": 0.9428571428571413,
+      "score": 44.0477297080021
+    },
+    {
+      "symbol": "MEGAUSDT",
+      "quoteVolume": 417942059.580336,
+      "priceChangePercent": -5.563,
+      "cleanliness": 0.9017857142857093,
+      "score": 40.326663394992934
+    },
+    {
       "symbol": "GUSDT",
-      "quoteVolume": 9633711.2197,
-      "priceChangePercent": -7.903,
-      "cleanliness": 0.8333333333333327,
-      "score": 37.799371420459615
-    },
-    {
-      "symbol": "PAXGUSDT",
-      "quoteVolume": 22918550.62552,
-      "priceChangePercent": -2.524,
-      "cleanliness": 0.792035398230091,
-      "score": 34.64667207398751
-    },
-    {
-      "symbol": "SYNUSDT",
-      "quoteVolume": 25709452.02431,
-      "priceChangePercent": 13.17,
-      "cleanliness": 0.6457399103139028,
-      "score": 32.00362425859034
+      "quoteVolume": 9529036.27148,
+      "priceChangePercent": -8.537,
+      "cleanliness": 0.8888888888888885,
+      "score": 40.21037024957257
     }
   ],
-  "generatedAt": "2026-06-24T12:42:31.634Z"
+  "generatedAt": "2026-06-24T12:47:31.222Z"
 }
