@@ -15,11 +15,11 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 26670685.91608,
-      "priceChangePercent": 46.215,
-      "cleanliness": 0.5918367346938751,
-      "score": 39.76577964325767
+      "symbol": "XPLUSDT",
+      "quoteVolume": 29440637.74966,
+      "priceChangePercent": 3.321,
+      "cleanliness": 0.9000000000000111,
+      "score": 39.23698416406583
     },
     {
       "symbol": "ATAUSDT",
@@ -29,12 +29,12 @@
       "score": 37.957348171528366
     },
     {
-      "symbol": "RESOLVUSDT",
-      "quoteVolume": 17398387.40738,
-      "priceChangePercent": -18.846,
-      "cleanliness": 0.7142857142857157,
-      "score": 36.39738127052494
+      "symbol": "IDUSDT",
+      "quoteVolume": 6365433.875,
+      "priceChangePercent": 10.585,
+      "cleanliness": 0.7272727272727267,
+      "score": 34.30755749420604
     }
   ],
-  "generatedAt": "2026-06-24T10:32:31.455Z"
+  "generatedAt": "2026-06-24T10:37:31.131Z"
 }
