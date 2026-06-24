@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 17775017.21644,
-      "priceChangePercent": 73.83,
-      "cleanliness": 0.4574468085106385,
-      "score": 42.6218153494402
+      "symbol": "BICOUSDT",
+      "quoteVolume": 8745128.104485,
+      "priceChangePercent": -14.194,
+      "cleanliness": 0.8750000000000006,
+      "score": 41.34072985270922
     },
     {
       "symbol": "SYNUSDT",
-      "quoteVolume": 29484791.4779,
-      "priceChangePercent": 12.243,
-      "cleanliness": 0.7768595041322307,
-      "score": 36.98815958350247
+      "quoteVolume": 29546866.07858,
+      "priceChangePercent": 14.54,
+      "cleanliness": 0.8227848101265807,
+      "score": 39.51454583218214
     },
     {
       "symbol": "ADAUSDT",
-      "quoteVolume": 29754996.25748,
-      "priceChangePercent": -4.013,
-      "cleanliness": 0.8333333333333295,
-      "score": 36.77930130332604
+      "quoteVolume": 29877021.95431,
+      "priceChangePercent": -3.882,
+      "cleanliness": 0.8571428571428543,
+      "score": 37.692915477580215
     },
     {
-      "symbol": "WLDUSDT",
-      "quoteVolume": 68790235.05958,
-      "priceChangePercent": -14.622,
-      "cleanliness": 0.6570048309178755,
-      "score": 33.01805127475228
+      "symbol": "TAOUSDT",
+      "quoteVolume": 281845872.54305,
+      "priceChangePercent": -2.84,
+      "cleanliness": 0.8181818181818276,
+      "score": 36.11427623104242
     }
   ],
-  "generatedAt": "2026-06-24T01:27:31.103Z"
+  "generatedAt": "2026-06-24T01:32:30.857Z"
 }
