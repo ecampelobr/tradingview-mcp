@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "SAHARAUSDT",
-      "quoteVolume": 8315383.4594,
-      "priceChangePercent": 19.052,
-      "cleanliness": 0.8160919540229881,
-      "score": 40.4352428453011
+      "symbol": "ETHUSDT",
+      "quoteVolume": 369150681.534469,
+      "priceChangePercent": -0.601,
+      "cleanliness": 1,
+      "score": 42.7504611023691
     },
     {
-      "symbol": "SYNUSDT",
-      "quoteVolume": 26617428.44504,
-      "priceChangePercent": 12.794,
-      "cleanliness": 0.7272727272727252,
-      "score": 35.15665891948041
+      "symbol": "SOLUSDT",
+      "quoteVolume": 135906956.15266,
+      "priceChangePercent": -1.113,
+      "cleanliness": 0.9772727272727478,
+      "score": 41.86478159667448
+    },
+    {
+      "symbol": "BTCUSDT",
+      "quoteVolume": 1201155395.2761426,
+      "priceChangePercent": -0.286,
+      "cleanliness": 0.9528210587438648,
+      "score": 40.922522108664545
     },
     {
       "symbol": "BELUSDT",
-      "quoteVolume": 6513536.38648,
-      "priceChangePercent": -14.994,
-      "cleanliness": 0.7096774193548399,
-      "score": 34.92944182726795
-    },
-    {
-      "symbol": "XPLUSDT",
-      "quoteVolume": 29389591.84309,
-      "priceChangePercent": 5.071,
-      "cleanliness": 0.6999999999999986,
-      "score": 31.761758066415215
+      "quoteVolume": 6439713.89564,
+      "priceChangePercent": -15.669,
+      "cleanliness": 0.7636363636363647,
+      "score": 37.28881451732535
     }
   ],
-  "generatedAt": "2026-06-24T08:07:30.872Z"
+  "generatedAt": "2026-06-24T08:12:31.400Z"
 }
