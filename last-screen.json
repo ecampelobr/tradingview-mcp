@@ -9,32 +9,32 @@
     },
     {
       "symbol": "BTCUSDT",
-      "quoteVolume": 1814100556.116121,
-      "priceChangePercent": -2.526,
-      "cleanliness": 0.9536979543964994,
-      "score": 41.683316582797815
+      "quoteVolume": 1817903085.9558735,
+      "priceChangePercent": -2.383,
+      "cleanliness": 0.9536839524334999,
+      "score": 41.640129315402405
     },
     {
-      "symbol": "XRPUSDT",
-      "quoteVolume": 122768936.56668,
-      "priceChangePercent": -2.836,
-      "cleanliness": 0.9153439153439243,
-      "score": 39.89128316194771
+      "symbol": "DOGEUSDT",
+      "quoteVolume": 63226374.60584,
+      "priceChangePercent": -3.694,
+      "cleanliness": 0.9537572254335278,
+      "score": 41.59875850137827
     },
     {
-      "symbol": "SOLUSDT",
-      "quoteVolume": 218807339.47596,
-      "priceChangePercent": -1.958,
-      "cleanliness": 0.9170984455958564,
-      "score": 39.77335638948064
+      "symbol": "ATMUSDT",
+      "quoteVolume": 9235926.94007,
+      "priceChangePercent": 32.176,
+      "cleanliness": 0.7413793103448271,
+      "score": 41.39761656043702
     },
     {
-      "symbol": "ADAUSDT",
-      "quoteVolume": 39026463.08808,
-      "priceChangePercent": -3.989,
-      "cleanliness": 0.9069767441860438,
-      "score": 39.75317752551688
+      "symbol": "AAVEUSDT",
+      "quoteVolume": 28559024.28085,
+      "priceChangePercent": 6.912,
+      "cleanliness": 0.9199999999999988,
+      "score": 41.11032300970555
     }
   ],
-  "generatedAt": "2026-06-24T20:42:35.774Z"
+  "generatedAt": "2026-06-24T20:47:35.464Z"
 }
