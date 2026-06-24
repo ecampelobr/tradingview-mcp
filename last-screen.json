@@ -23,18 +23,18 @@
     },
     {
       "symbol": "HEIUSDT",
-      "quoteVolume": 26755984.61815,
-      "priceChangePercent": 47.166,
-      "cleanliness": 0.3775510204081635,
-      "score": 31.480067097608778
+      "quoteVolume": 26830168.96316,
+      "priceChangePercent": 47.232,
+      "cleanliness": 0.5204081632653046,
+      "score": 37.21451355290803
     },
     {
-      "symbol": "XRPUSDT",
-      "quoteVolume": 74811586.37109,
-      "priceChangePercent": -1.316,
-      "cleanliness": 0.6993464052287742,
-      "score": 30.730846868352636
+      "symbol": "REUSDT",
+      "quoteVolume": 25637533.26057,
+      "priceChangePercent": -12.423,
+      "cleanliness": 0.7800000000000022,
+      "score": 37.14956287104127
     }
   ],
-  "generatedAt": "2026-06-24T10:42:33.172Z"
+  "generatedAt": "2026-06-24T10:47:30.648Z"
 }
