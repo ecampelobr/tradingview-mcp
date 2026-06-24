@@ -1,40 +1,40 @@
 {
   "candidates": [
     {
-      "symbol": "REUSDT",
-      "quoteVolume": 27085449.45321,
-      "priceChangePercent": -22.616,
-      "cleanliness": 0.9095022624434389,
-      "score": 45.39471131172408
+      "symbol": "SYNUSDT",
+      "quoteVolume": 31808545.42235,
+      "priceChangePercent": 12.223,
+      "cleanliness": 0.9566473988439306,
+      "score": 44.18355909665079
     },
     {
-      "symbol": "SUIUSDT",
-      "quoteVolume": 24246450.35073,
-      "priceChangePercent": -6.786,
-      "cleanliness": 0.9855595667870012,
-      "score": 43.67357712171087
+      "symbol": "SPCXBUSDT",
+      "quoteVolume": 37598792.06686,
+      "priceChangePercent": -4.906,
+      "cleanliness": 0.8894736842105224,
+      "score": 39.32329953620406
     },
     {
-      "symbol": "MEGAUSDT",
-      "quoteVolume": 398242055.540901,
-      "priceChangePercent": -10.729,
-      "cleanliness": 0.9460784313725495,
-      "score": 43.64188139117112
+      "symbol": "ETHUSDT",
+      "quoteVolume": 454973240.905002,
+      "priceChangePercent": -5.122,
+      "cleanliness": 0.8465469185506369,
+      "score": 37.99587249838368
     },
     {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 1548638130.6140368,
-      "priceChangePercent": -5.152,
-      "cleanliness": 0.9780661226918961,
-      "score": 43.425229892157084
+      "symbol": "WLDUSDT",
+      "quoteVolume": 66374816.72311,
+      "priceChangePercent": -6.229,
+      "cleanliness": 0.8403755868544619,
+      "score": 37.830324474648265
     },
     {
-      "symbol": "NEARUSDT",
-      "quoteVolume": 27676611.1245,
-      "priceChangePercent": -5.373,
-      "cleanliness": 0.9818181818181838,
-      "score": 43.117261146222546
+      "symbol": "LINKUSDT",
+      "quoteVolume": 18993871.65599,
+      "priceChangePercent": -5.759,
+      "cleanliness": 0.8466898954703815,
+      "score": 37.77887986854365
     }
   ],
-  "generatedAt": "2026-06-24T17:22:32.356Z"
+  "generatedAt": "2026-06-24T17:27:30.762Z"
 }
