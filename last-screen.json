@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "GUSDT",
-      "quoteVolume": 8896141.32202,
-      "priceChangePercent": 25.191,
-      "cleanliness": 0.9545454545454545,
-      "score": 47.82387868383618
-    },
-    {
       "symbol": "SAHARAUSDT",
-      "quoteVolume": 6062557.08411,
-      "priceChangePercent": 11.729,
-      "cleanliness": 0.8850574712643684,
-      "score": 40.95579560283873
+      "quoteVolume": 6386380.34417,
+      "priceChangePercent": 15.712,
+      "cleanliness": 0.9831932773109237,
+      "score": 46.08290752631849
     },
     {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 23574572.25093,
-      "priceChangePercent": 34.449,
-      "cleanliness": 0.6530612244897945,
-      "score": 38.66888212601782
+      "symbol": "GUSDT",
+      "quoteVolume": 9277320.24232,
+      "priceChangePercent": 31.418,
+      "cleanliness": 0.7837837837837833,
+      "score": 42.86697811581054
     },
     {
       "symbol": "NEARUSDT",
-      "quoteVolume": 25885999.6048,
-      "priceChangePercent": -2.619,
-      "cleanliness": 0.7333333333333314,
-      "score": 32.34295281539538
+      "quoteVolume": 25861449.0555,
+      "priceChangePercent": -2.672,
+      "cleanliness": 0.9411764705882414,
+      "score": 40.67245468014745
+    },
+    {
+      "symbol": "SOLUSDT",
+      "quoteVolume": 138288669.73668,
+      "priceChangePercent": -1.067,
+      "cleanliness": 0.8775510204081574,
+      "score": 37.864376796015456
     }
   ],
-  "generatedAt": "2026-06-24T07:27:32.535Z"
+  "generatedAt": "2026-06-24T07:32:30.295Z"
 }
