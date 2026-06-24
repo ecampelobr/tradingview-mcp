@@ -9,32 +9,32 @@
     },
     {
       "symbol": "ATMUSDT",
-      "quoteVolume": 9639976.64227,
-      "priceChangePercent": 25.563,
-      "cleanliness": 0.7999999999999987,
-      "score": 41.76412279448162
+      "quoteVolume": 9663310.56926,
+      "priceChangePercent": 27.669,
+      "cleanliness": 0.5238095238095233,
+      "score": 31.348618733648777
+    },
+    {
+      "symbol": "HYPERUSDT",
+      "quoteVolume": 15565112.92298,
+      "priceChangePercent": -5.685,
+      "cleanliness": 0.666666666666659,
+      "score": 30.529812349401265
     },
     {
       "symbol": "MEGAUSDT",
-      "quoteVolume": 393705323.517879,
-      "priceChangePercent": -9.336,
-      "cleanliness": 0.6363636363636478,
-      "score": 30.833896840699115
-    },
-    {
-      "symbol": "PEPEUSDT",
-      "quoteVolume": 22566777.88509484,
-      "priceChangePercent": -5.926,
-      "cleanliness": 0.6666666666666573,
-      "score": 30.650507532972448
+      "quoteVolume": 393691533.901121,
+      "priceChangePercent": -9.554,
+      "cleanliness": 0.545454545454544,
+      "score": 27.262928640876723
     },
     {
       "symbol": "SPCXBUSDT",
-      "quoteVolume": 38176744.47717,
-      "priceChangePercent": -2.317,
-      "cleanliness": 0.6250000000000246,
-      "score": 27.969639667350165
+      "quoteVolume": 38176631.19381,
+      "priceChangePercent": -2.325,
+      "cleanliness": 0.585106382978737,
+      "score": 26.37629459988834
     }
   ],
-  "generatedAt": "2026-06-24T22:41:01.108Z"
+  "generatedAt": "2026-06-24T22:42:40.914Z"
 }
