@@ -15,26 +15,26 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "BICOUSDT",
-      "quoteVolume": 8462629.803122,
-      "priceChangePercent": -18.182,
-      "cleanliness": 0.9000000000000007,
-      "score": 43.532851602936844
+      "symbol": "HEIUSDT",
+      "quoteVolume": 23427752.39097,
+      "priceChangePercent": 40.452,
+      "cleanliness": 0.742857142857142,
+      "score": 44.06080490187602
+    },
+    {
+      "symbol": "LAYERUSDT",
+      "quoteVolume": 6775088.217351,
+      "priceChangePercent": -10.114,
+      "cleanliness": 0.8749999999999968,
+      "score": 40.08347448633876
     },
     {
       "symbol": "GUSDT",
-      "quoteVolume": 8481989.6733,
+      "quoteVolume": 8607773.51066,
       "priceChangePercent": 25.194,
-      "cleanliness": 0.7142857142857137,
-      "score": 38.208177893241576
-    },
-    {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 23413540.43652,
-      "priceChangePercent": 42.645,
-      "cleanliness": 0.5769230769230779,
-      "score": 38.08126320384012
+      "cleanliness": 0.7560975609756092,
+      "score": 39.882569688394966
     }
   ],
-  "generatedAt": "2026-06-24T06:52:31.356Z"
+  "generatedAt": "2026-06-24T06:57:31.366Z"
 }
