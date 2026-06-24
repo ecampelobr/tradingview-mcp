@@ -15,26 +15,26 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "SAHARAUSDT",
-      "quoteVolume": 14558301.6411,
-      "priceChangePercent": 20.176,
-      "cleanliness": 0.8409090909090893,
-      "score": 41.83809685041739
+      "symbol": "PEPEUSDT",
+      "quoteVolume": 12066184.81022953,
+      "priceChangePercent": -5.166,
+      "cleanliness": 1,
+      "score": 43.67427099185474
     },
     {
-      "symbol": "AAVEUSDT",
-      "quoteVolume": 19197118.28443,
-      "priceChangePercent": 4.988,
-      "cleanliness": 0.9222222222222242,
-      "score": 40.5702597011391
+      "symbol": "RESOLVUSDT",
+      "quoteVolume": 9071428.87062,
+      "priceChangePercent": -19.592,
+      "cleanliness": 0.8000000000000014,
+      "score": 39.964902709880505
     },
     {
-      "symbol": "WLDUSDT",
-      "quoteVolume": 67662660.13964,
-      "priceChangePercent": -6.075,
-      "cleanliness": 0.6764705882352967,
-      "score": 31.23042824980006
+      "symbol": "NEARUSDT",
+      "quoteVolume": 23003498.3862,
+      "priceChangePercent": -2.827,
+      "cleanliness": 0.8333333333333334,
+      "score": 36.38997149997713
     }
   ],
-  "generatedAt": "2026-06-24T15:02:30.679Z"
+  "generatedAt": "2026-06-24T15:07:32.104Z"
 }
