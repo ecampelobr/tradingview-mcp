@@ -15,11 +15,11 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "MEGAUSDT",
-      "quoteVolume": 429094169.897597,
-      "priceChangePercent": 0.363,
-      "cleanliness": 0.8839050131926114,
-      "score": 38.05486631184857
+      "symbol": "SAHARAUSDT",
+      "quoteVolume": 10921007.3793,
+      "priceChangePercent": 25.108,
+      "cleanliness": 0.7403846153846145,
+      "score": 39.25926342555159
     },
     {
       "symbol": "ATAUSDT",
@@ -29,12 +29,12 @@
       "score": 37.957348171528366
     },
     {
-      "symbol": "ETHUSDT",
-      "quoteVolume": 301242349.274479,
-      "priceChangePercent": 0.958,
-      "cleanliness": 0.7861557478368091,
-      "score": 34.277304721224354
+      "symbol": "ALICEUSDT",
+      "quoteVolume": 6004166.855335,
+      "priceChangePercent": 15.811,
+      "cleanliness": 0.7441860465116301,
+      "score": 36.54427768628996
     }
   ],
-  "generatedAt": "2026-06-24T09:57:30.582Z"
+  "generatedAt": "2026-06-24T10:02:30.384Z"
 }
