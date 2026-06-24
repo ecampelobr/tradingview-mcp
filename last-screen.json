@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 1745936618.4911332,
-      "priceChangePercent": -3.901,
-      "cleanliness": 0.8866203961700316,
-      "score": 39.40772438893186
-    },
-    {
       "symbol": "MEGAUSDT",
-      "quoteVolume": 395477941.458164,
-      "priceChangePercent": -9.273,
-      "cleanliness": 0.7204301075268857,
-      "score": 34.17824098054552
+      "quoteVolume": 395385917.130723,
+      "priceChangePercent": -9.296,
+      "cleanliness": 0.7906976744186051,
+      "score": 36.99581333570538
     },
     {
       "symbol": "SAHARAUSDT",
-      "quoteVolume": 15891792.14689,
-      "priceChangePercent": 12.554,
-      "cleanliness": 0.7027027027027012,
-      "score": 34.03465997095718
+      "quoteVolume": 15895952.17246,
+      "priceChangePercent": 13.036,
+      "cleanliness": 0.729729729729727,
+      "score": 35.26037515341027
     },
     {
-      "symbol": "REUSDT",
-      "quoteVolume": 26190659.20179,
-      "priceChangePercent": -19.421,
-      "cleanliness": 0.6321070234113737,
-      "score": 33.336024865296345
+      "symbol": "BTCUSDT",
+      "quoteVolume": 1746674356.8194633,
+      "priceChangePercent": -4.035,
+      "cleanliness": 0.6757107957794085,
+      "score": 31.01159541448251
+    },
+    {
+      "symbol": "LINKUSDT",
+      "quoteVolume": 21105502.33075,
+      "priceChangePercent": -4.576,
+      "cleanliness": 0.6388888888888796,
+      "score": 29.125674263524015
     }
   ],
-  "generatedAt": "2026-06-24T19:52:34.867Z"
+  "generatedAt": "2026-06-24T19:57:35.995Z"
 }
