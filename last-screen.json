@@ -9,32 +9,32 @@
     },
     {
       "symbol": "HEIUSDT",
-      "quoteVolume": 27618874.51241,
-      "priceChangePercent": -7.884,
-      "cleanliness": 0.7435897435897434,
-      "score": 34.3411515366336
+      "quoteVolume": 27502504.12411,
+      "priceChangePercent": -8.219,
+      "cleanliness": 0.8484848484848446,
+      "score": 38.636905610936736
     },
     {
       "symbol": "IDUSDT",
-      "quoteVolume": 7750682.5102,
-      "priceChangePercent": 15.089,
-      "cleanliness": 0.5789473684210492,
-      "score": 29.75139672104016
-    },
-    {
-      "symbol": "SAHARAUSDT",
-      "quoteVolume": 15717119.7415,
-      "priceChangePercent": 13.121,
-      "cleanliness": 0.5897435897435929,
-      "score": 29.6849554783047
+      "quoteVolume": 7753181.0891,
+      "priceChangePercent": 14.793,
+      "cleanliness": 0.6315789473684189,
+      "score": 31.767901873075232
     },
     {
       "symbol": "RESOLVUSDT",
-      "quoteVolume": 7910579.59587,
-      "priceChangePercent": -18.723,
-      "cleanliness": 0.44444444444444275,
-      "score": 25.464140269201216
+      "quoteVolume": 7906080.73434,
+      "priceChangePercent": -19.068,
+      "cleanliness": 0.5555555555555572,
+      "score": 30.012010595693617
+    },
+    {
+      "symbol": "SAHARAUSDT",
+      "quoteVolume": 15739565.22424,
+      "priceChangePercent": 12.655,
+      "cleanliness": 0.5909090909090913,
+      "score": 29.59196145585085
     }
   ],
-  "generatedAt": "2026-06-24T18:32:33.591Z"
+  "generatedAt": "2026-06-24T18:37:32.148Z"
 }
