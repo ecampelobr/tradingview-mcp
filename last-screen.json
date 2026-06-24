@@ -2,17 +2,10 @@
   "candidates": [
     {
       "symbol": "PHBUSDT",
-      "quoteVolume": 1466449.0997,
-      "priceChangePercent": -69.388,
+      "quoteVolume": 1466402.3978,
+      "priceChangePercent": -70,
       "cleanliness": 1,
-      "score": 62.66628009797819
-    },
-    {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 23146588.44714,
-      "priceChangePercent": 43.814,
-      "cleanliness": 0.7619047619047616,
-      "score": 45.82973657314098
+      "score": 62.84987594862849
     },
     {
       "symbol": "A2ZUSDT",
@@ -22,19 +15,26 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "BICOUSDT",
-      "quoteVolume": 8489597.783045,
-      "priceChangePercent": -16.721,
-      "cleanliness": 0.7142857142857157,
-      "score": 35.66639470589609
+      "symbol": "ALICEUSDT",
+      "quoteVolume": 3349246.267336,
+      "priceChangePercent": 19.837,
+      "cleanliness": 0.8934010152284269,
+      "score": 43.64462473374657
+    },
+    {
+      "symbol": "HEIUSDT",
+      "quoteVolume": 23263909.55126,
+      "priceChangePercent": 41.695,
+      "cleanliness": 0.658333333333332,
+      "score": 41.05183814353437
     },
     {
       "symbol": "RESOLVUSDT",
-      "quoteVolume": 22628943.69434,
-      "priceChangePercent": -16.142,
-      "cleanliness": 0.666666666666668,
-      "score": 33.71566595121249
+      "quoteVolume": 22449630.86303,
+      "priceChangePercent": -18.533,
+      "cleanliness": 0.7000000000000011,
+      "score": 35.76526276130162
     }
   ],
-  "generatedAt": "2026-06-24T06:32:30.591Z"
+  "generatedAt": "2026-06-24T06:37:32.191Z"
 }
