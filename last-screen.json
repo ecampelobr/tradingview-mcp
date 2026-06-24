@@ -15,11 +15,18 @@
       "score": 44.63781048255937
     },
     {
+      "symbol": "ALICEUSDT",
+      "quoteVolume": 6011739.88753,
+      "priceChangePercent": 17.014,
+      "cleanliness": 0.883116883116885,
+      "score": 42.462575379131394
+    },
+    {
       "symbol": "SAHARAUSDT",
-      "quoteVolume": 10921007.3793,
-      "priceChangePercent": 25.108,
-      "cleanliness": 0.7403846153846145,
-      "score": 39.25926342555159
+      "quoteVolume": 11140327.04779,
+      "priceChangePercent": 24.848,
+      "cleanliness": 0.7684210526315791,
+      "score": 40.3053114874597
     },
     {
       "symbol": "ATAUSDT",
@@ -27,14 +34,7 @@
       "priceChangePercent": -53.846,
       "cleanliness": 0.5,
       "score": 37.957348171528366
-    },
-    {
-      "symbol": "ALICEUSDT",
-      "quoteVolume": 6004166.855335,
-      "priceChangePercent": 15.811,
-      "cleanliness": 0.7441860465116301,
-      "score": 36.54427768628996
     }
   ],
-  "generatedAt": "2026-06-24T10:02:30.384Z"
+  "generatedAt": "2026-06-24T10:07:30.849Z"
 }
