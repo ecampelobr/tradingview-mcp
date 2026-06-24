@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
+      "symbol": "SYNUSDT",
+      "quoteVolume": 26916825.67429,
+      "priceChangePercent": 7.752,
+      "cleanliness": 0.9016393442622967,
+      "score": 40.62018092304053
+    },
+    {
+      "symbol": "GUSDT",
+      "quoteVolume": 9542077.67123,
+      "priceChangePercent": 29.389,
+      "cleanliness": 0.6944444444444438,
+      "score": 38.68837066197855
+    },
+    {
       "symbol": "NEARUSDT",
-      "quoteVolume": 25546465.7406,
-      "priceChangePercent": -2.772,
-      "cleanliness": 1,
-      "score": 43.05379924767557
+      "quoteVolume": 25581241.2663,
+      "priceChangePercent": -3.117,
+      "cleanliness": 0.8636363636363686,
+      "score": 37.70293102956977
     },
     {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 1207881444.4145963,
-      "priceChangePercent": -0.576,
-      "cleanliness": 0.9557060046904958,
-      "score": 41.12564748051383
-    },
-    {
-      "symbol": "MEGAUSDT",
-      "quoteVolume": 158761231.830986,
-      "priceChangePercent": 3.29,
-      "cleanliness": 0.9310344827586176,
-      "score": 40.688602648328555
-    },
-    {
-      "symbol": "SOLUSDT",
-      "quoteVolume": 137403036.51065,
-      "priceChangePercent": -1.266,
-      "cleanliness": 0.9423076923076896,
-      "score": 40.51350659143741
+      "symbol": "BICOUSDT",
+      "quoteVolume": 6776466.635777,
+      "priceChangePercent": -25.862,
+      "cleanliness": 0.6250000000000017,
+      "score": 34.807900991320466
     }
   ],
-  "generatedAt": "2026-06-24T07:37:32.029Z"
+  "generatedAt": "2026-06-24T07:42:30.464Z"
 }
