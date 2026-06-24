@@ -8,6 +8,13 @@
       "score": 62.84987594862849
     },
     {
+      "symbol": "ATMUSDT",
+      "quoteVolume": 2624653.57442,
+      "priceChangePercent": 36.197,
+      "cleanliness": 0.8419753086419762,
+      "score": 46.46383394249921
+    },
+    {
       "symbol": "A2ZUSDT",
       "quoteVolume": 1142385.598803,
       "priceChangePercent": -53.846,
@@ -15,26 +22,19 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "ATMUSDT",
-      "quoteVolume": 2332074.46859,
-      "priceChangePercent": 28.897,
-      "cleanliness": 0.8439716312056743,
-      "score": 44.33828797253094
-    },
-    {
       "symbol": "ALICEUSDT",
-      "quoteVolume": 6496123.996799,
-      "priceChangePercent": 10.862,
-      "cleanliness": 0.7974683544303808,
-      "score": 37.20113046902844
+      "quoteVolume": 6536902.395174,
+      "priceChangePercent": 10.391,
+      "cleanliness": 0.8313253012048178,
+      "score": 38.414923648315174
     },
     {
       "symbol": "JTOUSDT",
-      "quoteVolume": 5428525.15892,
-      "priceChangePercent": 14.145,
-      "cleanliness": 0.7530612244897956,
-      "score": 36.386353536073806
+      "quoteVolume": 5436870.70045,
+      "priceChangePercent": 12.996,
+      "cleanliness": 0.636734693877552,
+      "score": 31.388792456524637
     }
   ],
-  "generatedAt": "2026-06-24T12:07:32.160Z"
+  "generatedAt": "2026-06-24T12:12:31.676Z"
 }
