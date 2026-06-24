@@ -16,10 +16,17 @@
     },
     {
       "symbol": "HEIUSDT",
-      "quoteVolume": 26958459.60924,
-      "priceChangePercent": 48.194,
-      "cleanliness": 0.6326530612244898,
-      "score": 41.99353097095075
+      "quoteVolume": 27019804.32554,
+      "priceChangePercent": 45.332,
+      "cleanliness": 0.6739130434782611,
+      "score": 42.785626399005764
+    },
+    {
+      "symbol": "BTCUSDT",
+      "quoteVolume": 911787529.9315034,
+      "priceChangePercent": 0.212,
+      "cleanliness": 0.9999544833864268,
+      "score": 42.74974742993959
     },
     {
       "symbol": "ATAUSDT",
@@ -27,14 +34,7 @@
       "priceChangePercent": -53.846,
       "cleanliness": 0.5,
       "score": 37.957348171528366
-    },
-    {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 911523971.5488734,
-      "priceChangePercent": 0.379,
-      "cleanliness": 0.800890906034638,
-      "score": 34.837266669692426
     }
   ],
-  "generatedAt": "2026-06-24T10:52:31.272Z"
+  "generatedAt": "2026-06-24T10:57:30.936Z"
 }
