@@ -9,32 +9,32 @@
     },
     {
       "symbol": "SYNUSDT",
-      "quoteVolume": 28700047.90036,
-      "priceChangePercent": 27.755,
-      "cleanliness": 0.8740000000000006,
-      "score": 45.52386478647156
-    },
-    {
-      "symbol": "A2ZUSDT",
-      "quoteVolume": 1142385.598803,
-      "priceChangePercent": -53.846,
-      "cleanliness": 0.6666666666666666,
-      "score": 44.63781048255937
+      "quoteVolume": 28764632.02995,
+      "priceChangePercent": 27.074,
+      "cleanliness": 0.7678160919540242,
+      "score": 41.07250132497326
     },
     {
       "symbol": "REUSDT",
-      "quoteVolume": 26759175.82373,
-      "priceChangePercent": -16.404,
-      "cleanliness": 0.7004048582995944,
-      "score": 35.16563615192419
+      "quoteVolume": 26837182.40518,
+      "priceChangePercent": -17.688,
+      "cleanliness": 0.8248472505091659,
+      "score": 40.528911095759284
     },
     {
       "symbol": "BTCUSDT",
-      "quoteVolume": 1014236196.467046,
-      "priceChangePercent": -1.686,
-      "cleanliness": 0.7569787319383818,
-      "score": 33.48679100926435
+      "quoteVolume": 1024179444.0266451,
+      "priceChangePercent": -1.964,
+      "cleanliness": 0.6990848805070763,
+      "score": 31.255708036783712
+    },
+    {
+      "symbol": "PAXGUSDT",
+      "quoteVolume": 28647144.254168,
+      "priceChangePercent": -2.55,
+      "cleanliness": 0.6582047685834462,
+      "score": 29.330315143831257
     }
   ],
-  "generatedAt": "2026-06-24T14:07:34.021Z"
+  "generatedAt": "2026-06-24T14:12:32.832Z"
 }
