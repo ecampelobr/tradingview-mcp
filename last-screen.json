@@ -15,26 +15,26 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "SYNUSDT",
-      "quoteVolume": 29369339.07651,
-      "priceChangePercent": 27.84,
-      "cleanliness": 0.7302904564315368,
-      "score": 39.80398650926066
-    },
-    {
-      "symbol": "HYPERUSDT",
-      "quoteVolume": 12606005.65782,
-      "priceChangePercent": -5.598,
-      "cleanliness": 0.7777777777777787,
-      "score": 34.92068436042398
+      "symbol": "SAHARAUSDT",
+      "quoteVolume": 14384141.38916,
+      "priceChangePercent": 19.423,
+      "cleanliness": 0.8518518518518516,
+      "score": 42.048339257068584
     },
     {
       "symbol": "HEIUSDT",
-      "quoteVolume": 30496497.55984,
-      "priceChangePercent": 37.556,
-      "cleanliness": 0.45098039215686414,
-      "score": 31.551290675674228
+      "quoteVolume": 30531883.86467,
+      "priceChangePercent": 38.453,
+      "cleanliness": 0.5510204081632624,
+      "score": 35.82214240706139
+    },
+    {
+      "symbol": "ATMUSDT",
+      "quoteVolume": 6015219.68164,
+      "priceChangePercent": 36.819,
+      "cleanliness": 0.4974619289340093,
+      "score": 32.97795260520637
     }
   ],
-  "generatedAt": "2026-06-24T14:37:31.321Z"
+  "generatedAt": "2026-06-24T14:42:33.215Z"
 }
