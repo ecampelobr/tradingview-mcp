@@ -16,25 +16,25 @@
     },
     {
       "symbol": "ALICEUSDT",
-      "quoteVolume": 6395198.582722,
-      "priceChangePercent": 10.091,
-      "cleanliness": 0.9639639639639654,
-      "score": 43.627614768959454
+      "quoteVolume": 6404538.27952,
+      "priceChangePercent": 11.157,
+      "cleanliness": 0.8095238095238069,
+      "score": 37.76999872867604
     },
     {
       "symbol": "AAVEUSDT",
-      "quoteVolume": 13425614.60983,
-      "priceChangePercent": 4.401,
-      "cleanliness": 0.9904761904761856,
-      "score": 43.077727871952156
+      "quoteVolume": 13719777.59893,
+      "priceChangePercent": 4.976,
+      "cleanliness": 0.8323863636363665,
+      "score": 36.92945866687594
     },
     {
-      "symbol": "SAHARAUSDT",
-      "quoteVolume": 12635222.40768,
-      "priceChangePercent": 16.84,
-      "cleanliness": 0.8076923076923087,
-      "score": 39.490167174950486
+      "symbol": "SPCXBUSDT",
+      "quoteVolume": 40548954.43982,
+      "priceChangePercent": -1.719,
+      "cleanliness": 0.750000000000003,
+      "score": 32.7980938981053
     }
   ],
-  "generatedAt": "2026-06-24T11:37:32.636Z"
+  "generatedAt": "2026-06-24T11:42:33.505Z"
 }
