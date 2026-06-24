@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "XAUTUSDT",
-      "quoteVolume": 33802198.567886,
-      "priceChangePercent": -2.426,
-      "cleanliness": 0.9991311902693515,
-      "score": 42.95173109536785
-    },
-    {
       "symbol": "ADAUSDT",
-      "quoteVolume": 39783214.03928,
-      "priceChangePercent": -3.117,
-      "cleanliness": 0.9500000000000055,
-      "score": 41.215009959904755
+      "quoteVolume": 39901639.53842,
+      "priceChangePercent": -2.787,
+      "cleanliness": 1,
+      "score": 43.11639722229896
     },
     {
       "symbol": "MEGAUSDT",
-      "quoteVolume": 394034264.904756,
-      "priceChangePercent": -10.179,
-      "cleanliness": 0.8749999999999984,
-      "score": 40.632360196810566
+      "quoteVolume": 394004341.888448,
+      "priceChangePercent": -9.953,
+      "cleanliness": 0.7846153846153819,
+      "score": 36.94916568693539
     },
     {
-      "symbol": "AAVEUSDT",
-      "quoteVolume": 29797693.60984,
-      "priceChangePercent": 8.287,
-      "cleanliness": 0.8326359832636009,
-      "score": 38.03379412562647
+      "symbol": "XAUTUSDT",
+      "quoteVolume": 33988074.99632,
+      "priceChangePercent": -2.432,
+      "cleanliness": 0.8266423357664157,
+      "score": 36.054691401018744
+    },
+    {
+      "symbol": "PAXGUSDT",
+      "quoteVolume": 32000125.752905,
+      "priceChangePercent": -2.587,
+      "cleanliness": 0.7918871252204818,
+      "score": 34.703130514318545
     }
   ],
-  "generatedAt": "2026-06-24T21:37:35.666Z"
+  "generatedAt": "2026-06-24T21:42:32.206Z"
 }
