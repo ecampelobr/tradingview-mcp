@@ -8,13 +8,6 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 25834932.70297,
-      "priceChangePercent": 47.375,
-      "cleanliness": 0.8441558441558418,
-      "score": 50.20239596661246
-    },
-    {
       "symbol": "A2ZUSDT",
       "quoteVolume": 1142385.598803,
       "priceChangePercent": -53.846,
@@ -22,19 +15,26 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "DYDXUSDT",
-      "quoteVolume": 7449878.2586752,
-      "priceChangePercent": 11.772,
-      "cleanliness": 0.8252873563218375,
-      "score": 38.60473900562346
+      "symbol": "MEGAUSDT",
+      "quoteVolume": 429094169.897597,
+      "priceChangePercent": 0.363,
+      "cleanliness": 0.8839050131926114,
+      "score": 38.05486631184857
     },
     {
-      "symbol": "MEGAUSDT",
-      "quoteVolume": 426473136.784375,
-      "priceChangePercent": 1.703,
-      "cleanliness": 0.8746355685131214,
-      "score": 38.085290244671526
+      "symbol": "ATAUSDT",
+      "quoteVolume": 1027607.4364,
+      "priceChangePercent": -53.846,
+      "cleanliness": 0.5,
+      "score": 37.957348171528366
+    },
+    {
+      "symbol": "ETHUSDT",
+      "quoteVolume": 301242349.274479,
+      "priceChangePercent": 0.958,
+      "cleanliness": 0.7861557478368091,
+      "score": 34.277304721224354
     }
   ],
-  "generatedAt": "2026-06-24T09:52:32.661Z"
+  "generatedAt": "2026-06-24T09:57:30.582Z"
 }
