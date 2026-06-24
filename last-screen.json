@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "ETHUSDT",
-      "quoteVolume": 369150681.534469,
-      "priceChangePercent": -0.601,
-      "cleanliness": 1,
-      "score": 42.7504611023691
-    },
-    {
-      "symbol": "SOLUSDT",
-      "quoteVolume": 135906956.15266,
-      "priceChangePercent": -1.113,
-      "cleanliness": 0.9772727272727478,
-      "score": 41.86478159667448
-    },
-    {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 1201155395.2761426,
-      "priceChangePercent": -0.286,
-      "cleanliness": 0.9528210587438648,
-      "score": 40.922522108664545
+      "symbol": "A2ZUSDT",
+      "quoteVolume": 1142385.598803,
+      "priceChangePercent": -53.846,
+      "cleanliness": 0.6666666666666666,
+      "score": 44.63781048255937
     },
     {
       "symbol": "BELUSDT",
-      "quoteVolume": 6439713.89564,
-      "priceChangePercent": -15.669,
-      "cleanliness": 0.7636363636363647,
-      "score": 37.28881451732535
+      "quoteVolume": 6442047.7266,
+      "priceChangePercent": -16.826,
+      "cleanliness": 0.8000000000000019,
+      "score": 39.0905071814039
+    },
+    {
+      "symbol": "SAHARAUSDT",
+      "quoteVolume": 8559488.06259,
+      "priceChangePercent": 17.414,
+      "cleanliness": 0.6293706293706289,
+      "score": 32.47875951200024
+    },
+    {
+      "symbol": "SUIUSDT",
+      "quoteVolume": 23058940.54834,
+      "priceChangePercent": 2.891,
+      "cleanliness": 0.6617647058823589,
+      "score": 29.546740040172686
     }
   ],
-  "generatedAt": "2026-06-24T08:12:31.400Z"
+  "generatedAt": "2026-06-24T08:17:31.708Z"
 }
