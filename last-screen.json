@@ -15,18 +15,11 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "XPLUSDT",
-      "quoteVolume": 28766083.89706,
-      "priceChangePercent": 4.779,
-      "cleanliness": 0.9333333333333315,
-      "score": 41.00469755615835
-    },
-    {
-      "symbol": "DYDXUSDT",
-      "quoteVolume": 7453257.3248707,
-      "priceChangePercent": 12.406,
-      "cleanliness": 0.8318739054290736,
-      "score": 39.05846005183508
+      "symbol": "RESOLVUSDT",
+      "quoteVolume": 18985114.26256,
+      "priceChangePercent": -10.331,
+      "cleanliness": 0.8571428571428579,
+      "score": 39.568538250304286
     },
     {
       "symbol": "ATAUSDT",
@@ -34,7 +27,14 @@
       "priceChangePercent": -53.846,
       "cleanliness": 0.5,
       "score": 37.957348171528366
+    },
+    {
+      "symbol": "XPLUSDT",
+      "quoteVolume": 28793823.33752,
+      "priceChangePercent": 4.659,
+      "cleanliness": 0.8571428571428543,
+      "score": 37.92120408643647
     }
   ],
-  "generatedAt": "2026-06-24T09:07:30.768Z"
+  "generatedAt": "2026-06-24T09:12:30.826Z"
 }
