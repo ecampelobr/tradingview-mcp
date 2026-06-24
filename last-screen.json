@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "A2ZUSDT",
-      "quoteVolume": 1142385.598803,
-      "priceChangePercent": -53.846,
-      "cleanliness": 0.6666666666666666,
-      "score": 44.63781048255937
-    },
-    {
       "symbol": "SYNUSDT",
-      "quoteVolume": 28313070.73716,
-      "priceChangePercent": 26.365,
-      "cleanliness": 0.8155737704918041,
-      "score": 42.76804691186865
+      "quoteVolume": 28540688.87801,
+      "priceChangePercent": 26.702,
+      "cleanliness": 0.7940000000000005,
+      "score": 42.00723933540209
     },
     {
       "symbol": "BTCUSDT",
-      "quoteVolume": 998217218.2831124,
-      "priceChangePercent": -1.715,
-      "cleanliness": 0.9635446848541845,
-      "score": 41.756054911193935
+      "quoteVolume": 1008687186.3934107,
+      "priceChangePercent": -2.186,
+      "cleanliness": 0.9623220651405952,
+      "score": 41.84980955679724
     },
     {
       "symbol": "DOGEUSDT",
-      "quoteVolume": 34939373.65682,
-      "priceChangePercent": -3.394,
-      "cleanliness": 0.8984771573604031,
-      "score": 39.22028082900781
+      "quoteVolume": 34412628.04764,
+      "priceChangePercent": -3.953,
+      "cleanliness": 0.9553072625698342,
+      "score": 41.659205854911
+    },
+    {
+      "symbol": "ETHUSDT",
+      "quoteVolume": 327132370.892141,
+      "priceChangePercent": -1.672,
+      "cleanliness": 0.9456005841548009,
+      "score": 40.88004042255479
     }
   ],
-  "generatedAt": "2026-06-24T13:57:33.345Z"
+  "generatedAt": "2026-06-24T14:02:31.428Z"
 }
