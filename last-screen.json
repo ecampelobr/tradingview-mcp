@@ -1,40 +1,40 @@
 {
   "candidates": [
     {
+      "symbol": "ATMUSDT",
+      "quoteVolume": 8538780.61785,
+      "priceChangePercent": 36.522,
+      "cleanliness": 0.654929577464789,
+      "score": 39.233201855275425
+    },
+    {
       "symbol": "RESOLVUSDT",
-      "quoteVolume": 7705774.02105,
-      "priceChangePercent": -18.565,
-      "cleanliness": 0.7000000000000021,
-      "score": 35.635544880633
+      "quoteVolume": 7702739.25719,
+      "priceChangePercent": -18.487,
+      "cleanliness": 0.666666666666668,
+      "score": 34.27876022575323
     },
     {
-      "symbol": "PAXGUSDT",
-      "quoteVolume": 31271304.268487,
-      "priceChangePercent": -3.451,
-      "cleanliness": 0.6794282797345507,
-      "score": 30.460974987955044
+      "symbol": "HYPERUSDT",
+      "quoteVolume": 15199200.38518,
+      "priceChangePercent": -8.524,
+      "cleanliness": 0.6428571428571421,
+      "score": 30.426031936509144
     },
     {
-      "symbol": "REUSDT",
-      "quoteVolume": 26362973.26778,
-      "priceChangePercent": -19.208,
-      "cleanliness": 0.5467422096317276,
-      "score": 29.85838670204916
+      "symbol": "ADAUSDT",
+      "quoteVolume": 35281022.78643,
+      "priceChangePercent": -6.587,
+      "cleanliness": 0.6538461538461481,
+      "score": 30.394208503859232
     },
     {
-      "symbol": "XAUTUSDT",
-      "quoteVolume": 32123845.630298,
-      "priceChangePercent": -3.369,
-      "cleanliness": 0.6006996501749188,
-      "score": 27.290734266073816
-    },
-    {
-      "symbol": "ZECUSDT",
-      "quoteVolume": 87179607.98815,
-      "priceChangePercent": -2.674,
-      "cleanliness": 0.500666666666666,
-      "score": 23.210991140217853
+      "symbol": "XRPUSDT",
+      "quoteVolume": 116619196.93766,
+      "priceChangePercent": -4.102,
+      "cleanliness": 0.5810055865921759,
+      "score": 26.890854477624906
     }
   ],
-  "generatedAt": "2026-06-24T19:12:32.346Z"
+  "generatedAt": "2026-06-24T19:17:32.437Z"
 }
