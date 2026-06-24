@@ -15,26 +15,26 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "DYDXUSDT",
-      "quoteVolume": 7440660.9506781,
-      "priceChangePercent": 8.083,
-      "cleanliness": 0.9678217821782199,
-      "score": 43.19925474176364
+      "symbol": "SYNUSDT",
+      "quoteVolume": 26746407.10385,
+      "priceChangePercent": 21.836,
+      "cleanliness": 0.782967032967034,
+      "score": 40.09766095388082
     },
     {
-      "symbol": "XRPUSDT",
-      "quoteVolume": 79472455.05173,
-      "priceChangePercent": -2.037,
-      "cleanliness": 0.9824561403508792,
-      "score": 42.27941060285134
+      "symbol": "ADAUSDT",
+      "quoteVolume": 28911702.61554,
+      "priceChangePercent": -3.189,
+      "cleanliness": 0.8157894736842088,
+      "score": 35.82660104780031
     },
     {
-      "symbol": "PAXGUSDT",
-      "quoteVolume": 27125505.527654,
-      "priceChangePercent": -3.144,
-      "cleanliness": 0.9598194130925496,
-      "score": 41.565989875915555
+      "symbol": "BTCUSDT",
+      "quoteVolume": 953722160.7276071,
+      "priceChangePercent": -0.362,
+      "cleanliness": 0.8250165289256232,
+      "score": 35.8030877192358
     }
   ],
-  "generatedAt": "2026-06-24T13:22:32.364Z"
+  "generatedAt": "2026-06-24T13:27:31.763Z"
 }
