@@ -9,32 +9,32 @@
     },
     {
       "symbol": "HEIUSDT",
-      "quoteVolume": 19231723.21139,
-      "priceChangePercent": 64.72,
-      "cleanliness": 0.6195652173913064,
-      "score": 46.38381415561442
+      "quoteVolume": 19371402.38154,
+      "priceChangePercent": 60.996,
+      "cleanliness": 0.6134453781512609,
+      "score": 45.022763444757416
+    },
+    {
+      "symbol": "BTCUSDT",
+      "quoteVolume": 1285662531.99366,
+      "priceChangePercent": -2.383,
+      "cleanliness": 0.953613584593088,
+      "score": 41.59218147996259
     },
     {
       "symbol": "WLDUSDT",
-      "quoteVolume": 69084647.65752,
-      "priceChangePercent": -14.323,
-      "cleanliness": 0.8850574712643619,
-      "score": 42.051013314663415
+      "quoteVolume": 69230201.33343,
+      "priceChangePercent": -14.209,
+      "cleanliness": 0.864864864864865,
+      "score": 41.209383272979686
     },
     {
-      "symbol": "MMTUSDT",
-      "quoteVolume": 7105256.73097,
-      "priceChangePercent": -16.209,
-      "cleanliness": 0.8444444444444448,
-      "score": 40.695951710190656
-    },
-    {
-      "symbol": "ZECUSDT",
-      "quoteVolume": 79188022.20869,
-      "priceChangePercent": -6.685,
-      "cleanliness": 0.9015421115065195,
-      "score": 40.43678230912374
+      "symbol": "TAOUSDT",
+      "quoteVolume": 278284038.05165,
+      "priceChangePercent": -2.875,
+      "cleanliness": 0.9354838709677454,
+      "score": 40.81520132768345
     }
   ],
-  "generatedAt": "2026-06-24T02:32:30.908Z"
+  "generatedAt": "2026-06-24T02:37:31.671Z"
 }
