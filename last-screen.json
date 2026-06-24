@@ -2,10 +2,10 @@
   "candidates": [
     {
       "symbol": "PHBUSDT",
-      "quoteVolume": 1466449.0997,
-      "priceChangePercent": -69.388,
+      "quoteVolume": 1466402.3978,
+      "priceChangePercent": -70,
       "cleanliness": 1,
-      "score": 62.66628009797819
+      "score": 62.84987594862849
     },
     {
       "symbol": "A2ZUSDT",
@@ -15,26 +15,26 @@
       "score": 44.63781048255937
     },
     {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 29337710.01932,
-      "priceChangePercent": 37.734,
-      "cleanliness": 0.714285714285715,
-      "score": 42.13185643490669
+      "symbol": "DYDXUSDT",
+      "quoteVolume": 7440660.9506781,
+      "priceChangePercent": 8.083,
+      "cleanliness": 0.9678217821782199,
+      "score": 43.19925474176364
     },
     {
-      "symbol": "XAUTUSDT",
-      "quoteVolume": 22265762.501272,
-      "priceChangePercent": -3.141,
-      "cleanliness": 0.9649637074260161,
-      "score": 41.74513956874147
+      "symbol": "XRPUSDT",
+      "quoteVolume": 79472455.05173,
+      "priceChangePercent": -2.037,
+      "cleanliness": 0.9824561403508792,
+      "score": 42.27941060285134
     },
     {
       "symbol": "PAXGUSDT",
-      "quoteVolume": 26932819.180742,
-      "priceChangePercent": -3.167,
-      "cleanliness": 0.9385317407059462,
-      "score": 40.720454172849024
+      "quoteVolume": 27125505.527654,
+      "priceChangePercent": -3.144,
+      "cleanliness": 0.9598194130925496,
+      "score": 41.565989875915555
     }
   ],
-  "generatedAt": "2026-06-24T13:17:31.690Z"
+  "generatedAt": "2026-06-24T13:22:32.364Z"
 }
