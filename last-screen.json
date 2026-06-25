@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "PEPEUSDT",
-      "quoteVolume": 22621826.08690266,
-      "priceChangePercent": -6.667,
-      "cleanliness": 1,
-      "score": 44.20645829778234
+      "symbol": "REUSDT",
+      "quoteVolume": 23923662.16251,
+      "priceChangePercent": -15.27,
+      "cleanliness": 0.8474576271186457,
+      "score": 40.692953383016736
+    },
+    {
+      "symbol": "AAVEUSDT",
+      "quoteVolume": 34924107.05563,
+      "priceChangePercent": 8.635,
+      "cleanliness": 0.7902097902097832,
+      "score": 36.461829201639475
     },
     {
       "symbol": "SAHARAUSDT",
-      "quoteVolume": 14968262.33635,
-      "priceChangePercent": 13.87,
-      "cleanliness": 0.9139784946236574,
-      "score": 42.872691200769914
+      "quoteVolume": 15034312.38014,
+      "priceChangePercent": 12.96,
+      "cleanliness": 0.6883116883116874,
+      "score": 33.57359260337558
     },
     {
-      "symbol": "SUIUSDT",
-      "quoteVolume": 32457389.3684,
-      "priceChangePercent": -4.034,
-      "cleanliness": 0.814285714285719,
-      "score": 36.03502264706942
-    },
-    {
-      "symbol": "REUSDT",
-      "quoteVolume": 23899811.90524,
-      "priceChangePercent": -14.272,
-      "cleanliness": 0.7155963302752292,
-      "score": 35.11897155591071
+      "symbol": "IDUSDT",
+      "quoteVolume": 8784380.8226,
+      "priceChangePercent": 21.203,
+      "cleanliness": 0.5882352941176455,
+      "score": 31.97342511125186
     }
   ],
-  "generatedAt": "2026-06-25T01:17:35.943Z"
+  "generatedAt": "2026-06-25T01:22:31.803Z"
 }
