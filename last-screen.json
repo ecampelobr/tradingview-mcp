@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 10187240.22513,
-      "priceChangePercent": 13.023,
-      "cleanliness": 0.9602272727272724,
-      "score": 44.41840787330176
-    },
-    {
       "symbol": "SYNUSDT",
-      "quoteVolume": 36810025.063748,
-      "priceChangePercent": 40.774,
-      "cleanliness": 0.6701686480508724,
-      "score": 41.30873575598156
+      "quoteVolume": 36968085.31692,
+      "priceChangePercent": 42.831,
+      "cleanliness": 0.6881393419961304,
+      "score": 42.64522176718515
     },
     {
-      "symbol": "BELUSDT",
-      "quoteVolume": 4393167.85251,
-      "priceChangePercent": 19.863,
-      "cleanliness": 0.7526132404181177,
-      "score": 38.056262955807625
+      "symbol": "HEIUSDT",
+      "quoteVolume": 10477503.63931,
+      "priceChangePercent": 15.625,
+      "cleanliness": 0.8048780487804869,
+      "score": 38.98869929732627
+    },
+    {
+      "symbol": "SPCXBUSDT",
+      "quoteVolume": 37271217.35777,
+      "priceChangePercent": 3.22,
+      "cleanliness": 0.8278145695364211,
+      "score": 36.34999485484882
     },
     {
       "symbol": "TRXUSDT",
-      "quoteVolume": 64534227.92735,
-      "priceChangePercent": -1.298,
+      "quoteVolume": 64674799.4771,
+      "priceChangePercent": -1.267,
       "cleanliness": 0.7916666666666676,
-      "score": 34.39900370225355
+      "score": 34.389987193927546
     }
   ],
-  "generatedAt": "2026-06-25T12:47:29.726Z"
+  "generatedAt": "2026-06-25T12:52:29.445Z"
 }
