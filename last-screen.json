@@ -2,39 +2,39 @@
   "candidates": [
     {
       "symbol": "PHBUSDT",
-      "quoteVolume": 1466449.0997,
-      "priceChangePercent": -69.388,
+      "quoteVolume": 1466402.3978,
+      "priceChangePercent": -70,
       "cleanliness": 1,
-      "score": 62.66628009797819
+      "score": 62.84987594862849
     },
     {
       "symbol": "FOGOUSDT",
-      "quoteVolume": 6263695.65804,
-      "priceChangePercent": 47.904,
-      "cleanliness": 0.8372093023255812,
-      "score": 49.8986212874104
+      "quoteVolume": 6452553.82497,
+      "priceChangePercent": 49.779,
+      "cleanliness": 0.9166666666666667,
+      "score": 53.64328615745624
     },
     {
       "symbol": "HEIUSDT",
-      "quoteVolume": 21407266.22601,
-      "priceChangePercent": 35.038,
-      "cleanliness": 0.92511013215859,
-      "score": 49.71497364937036
-    },
-    {
-      "symbol": "LUMIAUSDT",
-      "quoteVolume": 5135161.177404,
-      "priceChangePercent": 19.531,
-      "cleanliness": 0.9493670886075969,
-      "score": 45.84714976811085
+      "quoteVolume": 21439595.96124,
+      "priceChangePercent": 36.6,
+      "cleanliness": 0.7307692307692314,
+      "score": 42.41013420975658
     },
     {
       "symbol": "TNSRUSDT",
-      "quoteVolume": 9565148.16188,
-      "priceChangePercent": 12.011,
-      "cleanliness": 0.7727272727272726,
-      "score": 36.60659841955113
+      "quoteVolume": 9553802.20417,
+      "priceChangePercent": 11.667,
+      "cleanliness": 0.8636363636363629,
+      "score": 40.139607419159816
+    },
+    {
+      "symbol": "SYNUSDT",
+      "quoteVolume": 55478014.47574,
+      "priceChangePercent": 9.854,
+      "cleanliness": 0.7610576923076907,
+      "score": 35.72174396517115
     }
   ],
-  "generatedAt": "2026-06-25T21:12:30.441Z"
+  "generatedAt": "2026-06-25T21:17:30.936Z"
 }
