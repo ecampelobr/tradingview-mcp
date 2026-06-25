@@ -2,39 +2,39 @@
   "candidates": [
     {
       "symbol": "PHBUSDT",
-      "quoteVolume": 1466402.3978,
-      "priceChangePercent": -70,
+      "quoteVolume": 1466449.0997,
+      "priceChangePercent": -69.388,
       "cleanliness": 1,
-      "score": 62.84987594862849
-    },
-    {
-      "symbol": "ATMUSDT",
-      "quoteVolume": 10179593.15167,
-      "priceChangePercent": 30.901,
-      "cleanliness": 0.9589041095890426,
-      "score": 49.72878350982492
+      "score": 62.66628009797819
     },
     {
       "symbol": "AAVEUSDT",
-      "quoteVolume": 36773950.06832,
-      "priceChangePercent": 14.159,
-      "cleanliness": 0.9603399433427761,
-      "score": 44.930959818326336
+      "quoteVolume": 36906926.34535,
+      "priceChangePercent": 13.816,
+      "cleanliness": 0.8767123287671236,
+      "score": 41.48342551412034
     },
     {
-      "symbol": "SAHARAUSDT",
-      "quoteVolume": 15139436.60883,
-      "priceChangePercent": 7.486,
-      "cleanliness": 0.8846153846153892,
-      "score": 39.78444829877188
+      "symbol": "ATMUSDT",
+      "quoteVolume": 10207690.68984,
+      "priceChangePercent": 29.907,
+      "cleanliness": 0.725806451612905,
+      "score": 40.10703631503363
     },
     {
-      "symbol": "PUMPUSDT",
-      "quoteVolume": 9940583.968619,
-      "priceChangePercent": -10.383,
-      "cleanliness": 0.6666666666666727,
-      "score": 31.88079023611787
+      "symbol": "HYPERUSDT",
+      "quoteVolume": 14597231.84989,
+      "priceChangePercent": -6.026,
+      "cleanliness": 0.7142857142857227,
+      "score": 32.528509723240276
+    },
+    {
+      "symbol": "BNBUSDT",
+      "quoteVolume": 91985639.19423,
+      "priceChangePercent": -2.139,
+      "cleanliness": 0.657024793388454,
+      "score": 29.31180774470208
     }
   ],
-  "generatedAt": "2026-06-25T02:27:30.013Z"
+  "generatedAt": "2026-06-25T02:32:29.998Z"
 }
