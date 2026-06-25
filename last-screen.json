@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
+      "symbol": "HEIUSDT",
+      "quoteVolume": 17546414.06799,
+      "priceChangePercent": 50.95,
+      "cleanliness": 0.6571428571428581,
+      "score": 43.74397079785898
+    },
+    {
+      "symbol": "TNSRUSDT",
+      "quoteVolume": 8467850.68685,
+      "priceChangePercent": 26.567,
+      "cleanliness": 0.7499999999999981,
+      "score": 40.04843195745711
+    },
+    {
       "symbol": "SEIUSDT",
-      "quoteVolume": 11708662.718968,
-      "priceChangePercent": 12.583,
-      "cleanliness": 0.8533333333333256,
-      "score": 40.028785522086906
+      "quoteVolume": 11710570.032226,
+      "priceChangePercent": 11.984,
+      "cleanliness": 0.8405797101449382,
+      "score": 39.33896181648384
     },
     {
       "symbol": "BNBUSDT",
-      "quoteVolume": 97004400.27979,
-      "priceChangePercent": 1.923,
-      "cleanliness": 0.8188302425106851,
-      "score": 35.7261471309358
-    },
-    {
-      "symbol": "AVAXUSDT",
-      "quoteVolume": 28039149.86968,
-      "priceChangePercent": 3.643,
-      "cleanliness": 0.7605633802816968,
-      "score": 33.74976466385115
-    },
-    {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 17247729.41705,
-      "priceChangePercent": 50.043,
-      "cleanliness": 0.3928571428571436,
-      "score": 32.89820529338591
+      "quoteVolume": 96782070.15111,
+      "priceChangePercent": 1.615,
+      "cleanliness": 0.8498349834983377,
+      "score": 36.87363781213941
     }
   ],
-  "generatedAt": "2026-06-25T18:02:31.573Z"
+  "generatedAt": "2026-06-25T18:07:30.840Z"
 }
