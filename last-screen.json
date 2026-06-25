@@ -1,40 +1,40 @@
 {
   "candidates": [
     {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 2103483827.955348,
-      "priceChangePercent": -4.583,
-      "cleanliness": 0.9521954007765298,
-      "score": 42.2595977842856
+      "symbol": "PHBUSDT",
+      "quoteVolume": 1466402.3978,
+      "priceChangePercent": -70,
+      "cleanliness": 1,
+      "score": 62.84987594862849
     },
     {
-      "symbol": "ETHUSDT",
-      "quoteVolume": 710408052.590318,
-      "priceChangePercent": -5.801,
-      "cleanliness": 0.904495567750106,
-      "score": 40.57557507268326
-    },
-    {
-      "symbol": "SOLUSDT",
-      "quoteVolume": 265890891.62936,
-      "priceChangePercent": -6.122,
-      "cleanliness": 0.8799019607843149,
-      "score": 39.56008946948497
-    },
-    {
-      "symbol": "PUMPUSDT",
-      "quoteVolume": 11460220.917644,
-      "priceChangePercent": -13.563,
-      "cleanliness": 0.8303571428571418,
-      "score": 39.400943611155945
+      "symbol": "MUBUSDT",
+      "quoteVolume": 9130722.56417,
+      "priceChangePercent": 10.863,
+      "cleanliness": 0.742927743694616,
+      "score": 35.06416129188441
     },
     {
       "symbol": "XRPUSDT",
-      "quoteVolume": 140747708.41446,
-      "priceChangePercent": -5.118,
-      "cleanliness": 0.8803278688524575,
-      "score": 39.19304715388131
+      "quoteVolume": 145741167.5227,
+      "priceChangePercent": -4.327,
+      "cleanliness": 0.7282608695652163,
+      "score": 32.87760945590064
+    },
+    {
+      "symbol": "ATMUSDT",
+      "quoteVolume": 12168710.46337,
+      "priceChangePercent": 13.69,
+      "cleanliness": 0.6560509554140139,
+      "score": 32.474611583908406
+    },
+    {
+      "symbol": "ETHUSDT",
+      "quoteVolume": 744138393.709071,
+      "priceChangePercent": -4.633,
+      "cleanliness": 0.7006535947712421,
+      "score": 32.077539904592015
     }
   ],
-  "generatedAt": "2026-06-25T13:57:30.233Z"
+  "generatedAt": "2026-06-25T14:02:30.322Z"
 }
