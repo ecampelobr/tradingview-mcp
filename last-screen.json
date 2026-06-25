@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 20412225.69972,
-      "priceChangePercent": -14.469,
-      "cleanliness": 0.8235294117647015,
-      "score": 39.47484357910342
+      "symbol": "REUSDT",
+      "quoteVolume": 25133815.31964,
+      "priceChangePercent": -18.185,
+      "cleanliness": 0.8597560975609773,
+      "score": 42.06582142832242
     },
     {
-      "symbol": "RESOLVUSDT",
-      "quoteVolume": 7515973.69581,
-      "priceChangePercent": -13.525,
-      "cleanliness": 0.823529411764707,
-      "score": 39.0614720460382
+      "symbol": "IDUSDT",
+      "quoteVolume": 8250614.4999,
+      "priceChangePercent": 14.489,
+      "cleanliness": 0.7692307692307705,
+      "score": 37.19087665794042
     },
     {
-      "symbol": "WLDUSDT",
-      "quoteVolume": 68917055.25418,
-      "priceChangePercent": -2.832,
-      "cleanliness": 0.7981651376146811,
-      "score": 35.127703518269165
+      "symbol": "XRPUSDT",
+      "quoteVolume": 127326756.68114,
+      "priceChangePercent": -3.151,
+      "cleanliness": 0.7746478873239648,
+      "score": 34.36269139596656
     },
     {
-      "symbol": "ETHUSDT",
-      "quoteVolume": 577912628.84736,
-      "priceChangePercent": -2.734,
-      "cleanliness": 0.7273838630807047,
-      "score": 32.54411317872789
+      "symbol": "XAUTUSDT",
+      "quoteVolume": 34768140.242098,
+      "priceChangePercent": -2.1,
+      "cleanliness": 0.740815502624139,
+      "score": 32.5249745431956
     }
   ],
-  "generatedAt": "2026-06-25T00:03:44.885Z"
+  "generatedAt": "2026-06-25T00:07:51.612Z"
 }
