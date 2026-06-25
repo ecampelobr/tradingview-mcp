@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
+      "symbol": "TNSRUSDT",
+      "quoteVolume": 4459935.17239,
+      "priceChangePercent": 22.286,
+      "cleanliness": 0.8505747126436787,
+      "score": 42.70358706956182
+    },
+    {
       "symbol": "TRXUSDT",
-      "quoteVolume": 72572065.19459,
-      "priceChangePercent": -1.882,
+      "quoteVolume": 73190303.50714,
+      "priceChangePercent": -1.852,
       "cleanliness": 0.7959183673469392,
-      "score": 34.759565538490556
+      "score": 34.751670758308684
     },
     {
       "symbol": "ETHUSDT",
-      "quoteVolume": 757025160.868351,
-      "priceChangePercent": -5.466,
-      "cleanliness": 0.7181139122315585,
-      "score": 33.028089583513164
+      "quoteVolume": 766342555.977964,
+      "priceChangePercent": -4.825,
+      "cleanliness": 0.6617730095990981,
+      "score": 30.583747266909505
     },
     {
-      "symbol": "SYNUSDT",
-      "quoteVolume": 48050106.547923,
-      "priceChangePercent": 31.615,
-      "cleanliness": 0.4865663855316925,
-      "score": 31.25166372777515
-    },
-    {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 2234151059.800142,
-      "priceChangePercent": -3.904,
-      "cleanliness": 0.673348349963279,
-      "score": 30.90986775877377
+      "symbol": "ZECUSDT",
+      "quoteVolume": 117836669.70617,
+      "priceChangePercent": -3.668,
+      "cleanliness": 0.614130434782607,
+      "score": 28.087001529304267
     }
   ],
-  "generatedAt": "2026-06-25T14:07:29.579Z"
+  "generatedAt": "2026-06-25T14:12:34.386Z"
 }
