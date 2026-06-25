@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "A2ZUSDT",
-      "quoteVolume": 1142385.598803,
-      "priceChangePercent": -53.846,
-      "cleanliness": 0.6666666666666666,
-      "score": 44.63781048255937
-    },
-    {
       "symbol": "TNSRUSDT",
-      "quoteVolume": 9133970.92337,
-      "priceChangePercent": 25.369,
-      "cleanliness": 0.8260869565217375,
-      "score": 42.742376148298
+      "quoteVolume": 9292596.45702,
+      "priceChangePercent": 21.053,
+      "cleanliness": 0.8928571428571447,
+      "score": 44.12062683761431
     },
     {
-      "symbol": "ALLOUSDT",
-      "quoteVolume": 6052565.70797,
-      "priceChangePercent": -10.525,
-      "cleanliness": 0.8319999999999964,
-      "score": 38.47208185388028
+      "symbol": "SNDKBUSDT",
+      "quoteVolume": 7020272.088651,
+      "priceChangePercent": 21.296,
+      "cleanliness": 0.7609961190168162,
+      "score": 38.88255094406841
     },
     {
-      "symbol": "MUBUSDT",
-      "quoteVolume": 10772207.35464,
-      "priceChangePercent": 16.404,
-      "cleanliness": 0.7266275840789848,
-      "score": 36.09599477453081
+      "symbol": "SYNUSDT",
+      "quoteVolume": 55413294.488089,
+      "priceChangePercent": 22.935,
+      "cleanliness": 0.6511770100886582,
+      "score": 35.250664594861036
+    },
+    {
+      "symbol": "LUMIAUSDT",
+      "quoteVolume": 4998582.922549,
+      "priceChangePercent": 15.993,
+      "cleanliness": 0.6000000000000028,
+      "score": 30.807554070332223
     }
   ],
-  "generatedAt": "2026-06-25T19:57:31.070Z"
+  "generatedAt": "2026-06-25T20:02:32.320Z"
 }
