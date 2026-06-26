@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "AAVEUSDT",
-      "quoteVolume": 44727291.16394,
-      "priceChangePercent": 2.876,
-      "cleanliness": 0.7136929460580876,
-      "score": 31.705689621311343
+      "symbol": "WLDUSDT",
+      "quoteVolume": 50096970.19436,
+      "priceChangePercent": -6.603,
+      "cleanliness": 0.8354430379746839,
+      "score": 37.70856495730047
     },
     {
       "symbol": "BTCUSDT",
-      "quoteVolume": 2068076574.9724305,
-      "priceChangePercent": -1.561,
-      "cleanliness": 0.6809138225465137,
-      "score": 30.499522886481937
+      "quoteVolume": 2070082451.6497855,
+      "priceChangePercent": -1.442,
+      "cleanliness": 0.7249732169098502,
+      "score": 32.22632496953592
     },
     {
-      "symbol": "SOLUSDT",
-      "quoteVolume": 282345435.50517,
-      "priceChangePercent": 0.665,
-      "cleanliness": 0.6612903225806399,
-      "score": 29.186347134577648
+      "symbol": "ADAUSDT",
+      "quoteVolume": 26051272.65961,
+      "priceChangePercent": -3.191,
+      "cleanliness": 0.7241379310344762,
+      "score": 32.14756592468559
     },
     {
-      "symbol": "WLDUSDT",
-      "quoteVolume": 49956071.13192,
-      "priceChangePercent": -7.623,
-      "cleanliness": 0.594285714285715,
-      "score": 28.367905054025247
+      "symbol": "PEPEUSDT",
+      "quoteVolume": 28453351.75487151,
+      "priceChangePercent": -6.746,
+      "cleanliness": 0.6666666666666691,
+      "score": 30.926706696528335
     }
   ],
-  "generatedAt": "2026-06-26T04:27:30.788Z"
+  "generatedAt": "2026-06-26T04:32:30.571Z"
 }
