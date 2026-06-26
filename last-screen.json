@@ -2,39 +2,39 @@
   "candidates": [
     {
       "symbol": "HEIUSDT",
-      "quoteVolume": 29684531.02917,
-      "priceChangePercent": 31.63,
-      "cleanliness": 0.9315068493150684,
-      "score": 48.991033030238235
-    },
-    {
-      "symbol": "SUIUSDT",
-      "quoteVolume": 37871078.49608,
-      "priceChangePercent": -3.162,
-      "cleanliness": 0.9197860962566816,
-      "score": 40.013536152219885
-    },
-    {
-      "symbol": "ZECUSDT",
-      "quoteVolume": 122887988.45133,
-      "priceChangePercent": -3.69,
-      "cleanliness": 0.8387096774193529,
-      "score": 37.082239927374204
-    },
-    {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 2233901432.850222,
-      "priceChangePercent": -3.195,
-      "cleanliness": 0.8165193027196604,
-      "score": 36.42399131079269
+      "quoteVolume": 29760919.16114,
+      "priceChangePercent": 31.553,
+      "cleanliness": 0.6885245901639366,
+      "score": 39.24897750861606
     },
     {
       "symbol": "XPLUSDT",
-      "quoteVolume": 39579827.724215,
-      "priceChangePercent": 8.979,
-      "cleanliness": 0.7515657620041762,
-      "score": 35.03557265003428
+      "quoteVolume": 39610493.329742,
+      "priceChangePercent": 9.048,
+      "cleanliness": 0.7830802603036876,
+      "score": 36.316953487557896
+    },
+    {
+      "symbol": "SUIUSDT",
+      "quoteVolume": 37896814.51883,
+      "priceChangePercent": -2.775,
+      "cleanliness": 0.7431693989071015,
+      "score": 32.83285676812644
+    },
+    {
+      "symbol": "PEPEUSDT",
+      "quoteVolume": 29629811.23516995,
+      "priceChangePercent": -7.51,
+      "cleanliness": 0.6666666666666666,
+      "score": 31.16118533207573
+    },
+    {
+      "symbol": "GUSDT",
+      "quoteVolume": 13228935.32706,
+      "priceChangePercent": 40.94,
+      "cleanliness": 0.3939393939393942,
+      "score": 30.176033225566968
     }
   ],
-  "generatedAt": "2026-06-26T10:12:31.247Z"
+  "generatedAt": "2026-06-26T10:17:30.660Z"
 }
