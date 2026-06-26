@@ -9,67 +9,67 @@
     },
     {
       "symbol": "HEIUSDT",
-      "quoteVolume": 31904501.90642,
-      "priceChangePercent": 39.368,
-      "cleanliness": 0.6250000000000008,
-      "score": 39.06155559063977
+      "quoteVolume": 31926968.61857,
+      "priceChangePercent": 40.316,
+      "cleanliness": 0.7422680412371128,
+      "score": 44.036768955099035
     },
     {
       "symbol": "AAVEUSDT",
-      "quoteVolume": 43267810.00752,
-      "priceChangePercent": 7.078,
-      "cleanliness": 0.8355704697986597,
-      "score": 37.83706826615159
+      "quoteVolume": 43293634.25961,
+      "priceChangePercent": 7.203,
+      "cleanliness": 0.8590604026845634,
+      "score": 38.81424332056686
     },
     {
       "symbol": "TNSRUSDT",
-      "quoteVolume": 12860912.04642,
-      "priceChangePercent": 12.429,
-      "cleanliness": 0.7692307692307725,
-      "score": 36.63071229968331
+      "quoteVolume": 12866259.57374,
+      "priceChangePercent": 12.712,
+      "cleanliness": 0.6923076923076985,
+      "score": 33.63874338499026
     },
     {
       "symbol": "ZECUSDT",
-      "quoteVolume": 125206478.00944,
-      "priceChangePercent": -2.132,
-      "cleanliness": 0.774999999999996,
-      "score": 34.06888803977472
+      "quoteVolume": 125323954.00631,
+      "priceChangePercent": -2.183,
+      "cleanliness": 0.7382352941176431,
+      "score": 32.61372199126772
     },
     {
       "symbol": "SEIUSDT",
-      "quoteVolume": 8499862.983873,
-      "priceChangePercent": -9.983,
+      "quoteVolume": 8389529.373435,
+      "priceChangePercent": -9.623,
       "cleanliness": 0.666666666666663,
-      "score": 31.74039024417513
+      "score": 31.63068794634828
     },
     {
       "symbol": "SOLUSDT",
-      "quoteVolume": 318767883.75108,
-      "priceChangePercent": 1.827,
-      "cleanliness": 0.6749999999999925,
-      "score": 30.09914236777022
-    },
-    {
-      "symbol": "HMSTRUSDT",
-      "quoteVolume": 4177927.4151336,
-      "priceChangePercent": 22.092,
-      "cleanliness": 0.4912280701754408,
-      "score": 28.263011074177115
-    },
-    {
-      "symbol": "SYNUSDT",
-      "quoteVolume": 58077374.421478,
-      "priceChangePercent": -10.843,
-      "cleanliness": 0.5480576692030439,
-      "score": 27.50440886044983
+      "quoteVolume": 319205457.75115,
+      "priceChangePercent": 1.96,
+      "cleanliness": 0.6703296703296722,
+      "score": 29.952407905669954
     },
     {
       "symbol": "BTCUSDT",
-      "quoteVolume": 2299859952.1992583,
-      "priceChangePercent": -2.369,
-      "cleanliness": 0.5651058807508231,
-      "score": 26.123445647294005
+      "quoteVolume": 2299477364.739432,
+      "priceChangePercent": -2.326,
+      "cleanliness": 0.5997639528813684,
+      "score": 27.496846856920627
+    },
+    {
+      "symbol": "SYNUSDT",
+      "quoteVolume": 58010380.592672,
+      "priceChangePercent": -10.548,
+      "cleanliness": 0.5222266720064077,
+      "score": 26.382518594691046
+    },
+    {
+      "symbol": "HMSTRUSDT",
+      "quoteVolume": 4179492.1778726,
+      "priceChangePercent": 21.817,
+      "cleanliness": 0.42105263157894784,
+      "score": 25.373542318187152
     }
   ],
-  "generatedAt": "2026-06-26T12:27:32.490Z"
+  "generatedAt": "2026-06-26T12:29:10.806Z"
 }
