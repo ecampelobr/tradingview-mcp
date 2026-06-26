@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "NEARUSDT",
-      "quoteVolume": 43583786.2716,
-      "priceChangePercent": -6.786,
-      "cleanliness": 0.9230769230769231,
-      "score": 41.25067440993285
+      "symbol": "XPLUSDT",
+      "quoteVolume": 423672546.502846,
+      "priceChangePercent": 12.318,
+      "cleanliness": 0.6611842105263148,
+      "score": 32.73087751799048
     },
     {
       "symbol": "FOGOUSDT",
-      "quoteVolume": 8871650.90286,
-      "priceChangePercent": 10.185,
-      "cleanliness": 0.8253968253968271,
-      "score": 38.15577434910404
+      "quoteVolume": 8913056.07136,
+      "priceChangePercent": 9.656,
+      "cleanliness": 0.6470588235294109,
+      "score": 30.864160932770112
     },
     {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 1834027117.092736,
-      "priceChangePercent": -1.904,
-      "cleanliness": 0.8259514800801142,
-      "score": 36.38828092900335
+      "symbol": "NEARUSDT",
+      "quoteVolume": 43580095.515,
+      "priceChangePercent": -6.684,
+      "cleanliness": 0.647058823529414,
+      "score": 30.17933939450442
     },
     {
-      "symbol": "AVAXUSDT",
-      "quoteVolume": 24796126.63194,
-      "priceChangePercent": -3.055,
-      "cleanliness": 0.7777777777777997,
-      "score": 34.24592626479025
+      "symbol": "XLMUSDT",
+      "quoteVolume": 16931242.503,
+      "priceChangePercent": -4.357,
+      "cleanliness": 0.6315789473684149,
+      "score": 28.73886454375929
     }
   ],
-  "generatedAt": "2026-06-26T00:37:33.316Z"
+  "generatedAt": "2026-06-26T00:42:32.527Z"
 }
