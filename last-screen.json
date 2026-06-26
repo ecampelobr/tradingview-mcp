@@ -9,32 +9,32 @@
     },
     {
       "symbol": "GUSDT",
-      "quoteVolume": 10731776.09013,
-      "priceChangePercent": 39.867,
-      "cleanliness": 0.9333333333333331,
-      "score": 51.40263481420021
+      "quoteVolume": 10811485.71117,
+      "priceChangePercent": 39.604,
+      "cleanliness": 0.8965517241379324,
+      "score": 49.85343457911939
     },
     {
-      "symbol": "PEPEUSDT",
-      "quoteVolume": 28844709.21958988,
-      "priceChangePercent": -6.299,
+      "symbol": "HEIUSDT",
+      "quoteVolume": 27995591.77136,
+      "priceChangePercent": 42.582,
+      "cleanliness": 0.7486033519553086,
+      "score": 44.9528609738283
+    },
+    {
+      "symbol": "WLDUSDT",
+      "quoteVolume": 51060776.83371,
+      "priceChangePercent": -5.882,
       "cleanliness": 1,
-      "score": 44.12771984957209
+      "score": 44.0770262253498
     },
     {
-      "symbol": "XRPUSDT",
-      "quoteVolume": 161861548.67588,
-      "priceChangePercent": -3.426,
-      "cleanliness": 0.9786096256684514,
-      "score": 42.63492813414746
-    },
-    {
-      "symbol": "ETHUSDT",
-      "quoteVolume": 758006631.015149,
-      "priceChangePercent": -4.677,
-      "cleanliness": 0.945679796696314,
-      "score": 41.894193769304984
+      "symbol": "AAVEUSDT",
+      "quoteVolume": 42228554.47461,
+      "priceChangePercent": 5.648,
+      "cleanliness": 0.997118155619595,
+      "score": 43.86680808938808
     }
   ],
-  "generatedAt": "2026-06-26T07:07:30.275Z"
+  "generatedAt": "2026-06-26T07:12:30.256Z"
 }
