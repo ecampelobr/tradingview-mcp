@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "PEPEUSDT",
-      "quoteVolume": 29358117.84911927,
-      "priceChangePercent": -7.115,
-      "cleanliness": 1,
-      "score": 44.37481846284654
+      "symbol": "ETHUSDT",
+      "quoteVolume": 830425736.654155,
+      "priceChangePercent": -5.468,
+      "cleanliness": 0.9813384813384837,
+      "score": 43.56972949366525
     },
     {
-      "symbol": "SYNUSDT",
-      "quoteVolume": 59546111.298126,
-      "priceChangePercent": 4.735,
-      "cleanliness": 0.9744207847863932,
-      "score": 42.7297874129046
-    },
-    {
-      "symbol": "ZECUSDT",
-      "quoteVolume": 119225592.87516,
-      "priceChangePercent": -2.38,
-      "cleanliness": 0.9271604938271703,
-      "score": 40.22333060030729
+      "symbol": "ENAUSDT",
+      "quoteVolume": 24765645.552133,
+      "priceChangePercent": -7.602,
+      "cleanliness": 0.9565217391304335,
+      "score": 42.759624461110036
     },
     {
       "symbol": "NEARUSDT",
-      "quoteVolume": 53799950.7712,
-      "priceChangePercent": -7.008,
-      "cleanliness": 0.8888888888888888,
-      "score": 39.977190119037225
+      "quoteVolume": 53744982.2429,
+      "priceChangePercent": -6.821,
+      "cleanliness": 0.9375,
+      "score": 41.865401377119866
+    },
+    {
+      "symbol": "ZECUSDT",
+      "quoteVolume": 119304273.43224,
+      "priceChangePercent": -2.581,
+      "cleanliness": 0.9537869062901209,
+      "score": 41.348773051666875
     }
   ],
-  "generatedAt": "2026-06-26T08:57:30.988Z"
+  "generatedAt": "2026-06-26T09:02:32.079Z"
 }
