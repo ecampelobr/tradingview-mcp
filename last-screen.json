@@ -9,32 +9,32 @@
     },
     {
       "symbol": "GUSDT",
-      "quoteVolume": 9303717.05523,
-      "priceChangePercent": 32.237,
-      "cleanliness": 0.8604651162790693,
-      "score": 46.18030159940823
-    },
-    {
-      "symbol": "JTOUSDT",
-      "quoteVolume": 6676682.14596,
-      "priceChangePercent": 11.022,
-      "cleanliness": 0.9520958083832322,
-      "score": 43.43780054576375
+      "quoteVolume": 9324356.76788,
+      "priceChangePercent": 31.579,
+      "cleanliness": 0.6071428571428574,
+      "score": 35.85029995034767
     },
     {
       "symbol": "ENAUSDT",
-      "quoteVolume": 24690604.874809,
-      "priceChangePercent": -6.139,
-      "cleanliness": 0.6666666666666666,
-      "score": 30.72612618551227
+      "quoteVolume": 24571708.852669,
+      "priceChangePercent": -6.05,
+      "cleanliness": 0.7647058823529417,
+      "score": 34.620365902349576
     },
     {
-      "symbol": "XPLUSDT",
-      "quoteVolume": 421528329.031649,
-      "priceChangePercent": 9.934,
-      "cleanliness": 0.6012658227848106,
-      "score": 29.61828094147118
+      "symbol": "HEIUSDT",
+      "quoteVolume": 27657219.39113,
+      "priceChangePercent": 43.176,
+      "cleanliness": 0.3452380952380928,
+      "score": 28.99486636394993
+    },
+    {
+      "symbol": "NEARUSDT",
+      "quoteVolume": 49879415.4894,
+      "priceChangePercent": -6.999,
+      "cleanliness": 0.5862068965517302,
+      "score": 27.857352268739618
     }
   ],
-  "generatedAt": "2026-06-26T04:47:30.929Z"
+  "generatedAt": "2026-06-26T04:52:31.227Z"
 }
