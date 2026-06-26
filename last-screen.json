@@ -1,40 +1,40 @@
 {
   "candidates": [
     {
-      "symbol": "PHBUSDT",
-      "quoteVolume": 1466402.3978,
-      "priceChangePercent": -70,
-      "cleanliness": 1,
-      "score": 62.84987594862849
-    },
-    {
-      "symbol": "WLDUSDT",
-      "quoteVolume": 51230933.77337,
-      "priceChangePercent": -8.312,
-      "cleanliness": 0.7755102040816342,
-      "score": 35.82686784478287
-    },
-    {
-      "symbol": "XRPUSDT",
-      "quoteVolume": 168341431.61194,
-      "priceChangePercent": -4.071,
-      "cleanliness": 0.7686567164179334,
-      "score": 34.43542596157427
-    },
-    {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 2191508862.6278605,
-      "priceChangePercent": -2.431,
-      "cleanliness": 0.7291125784492196,
-      "score": 32.69602610736278
+      "symbol": "HEIUSDT",
+      "quoteVolume": 29219296.15952,
+      "priceChangePercent": 40.887,
+      "cleanliness": 0.6850393700787396,
+      "score": 41.90737572825414
     },
     {
       "symbol": "GUSDT",
-      "quoteVolume": 12117443.03069,
-      "priceChangePercent": 43.667,
-      "cleanliness": 0.41463414634146367,
-      "score": 31.810489149636897
+      "quoteVolume": 12140398.11637,
+      "priceChangePercent": 42.857,
+      "cleanliness": 0.6486486486486486,
+      "score": 40.92831582454369
+    },
+    {
+      "symbol": "TAOUSDT",
+      "quoteVolume": 26702176.50425,
+      "priceChangePercent": -4.054,
+      "cleanliness": 0.8250000000000028,
+      "score": 36.44416399869332
+    },
+    {
+      "symbol": "ETHUSDT",
+      "quoteVolume": 824854655.291477,
+      "priceChangePercent": -5.174,
+      "cleanliness": 0.8027043638598623,
+      "score": 36.33528778333553
+    },
+    {
+      "symbol": "WLDUSDT",
+      "quoteVolume": 51190565.55781,
+      "priceChangePercent": -8.103,
+      "cleanliness": 0.7857142857142861,
+      "score": 36.1722284068814
     }
   ],
-  "generatedAt": "2026-06-26T08:42:30.966Z"
+  "generatedAt": "2026-06-26T08:47:29.925Z"
 }
