@@ -8,68 +8,68 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "AGLDUSDT",
-      "quoteVolume": 8346090.88193,
-      "priceChangePercent": 60.508,
-      "cleanliness": 0.5284090909090909,
-      "score": 41.36520856921487
+      "symbol": "TRUMPUSDT",
+      "quoteVolume": 18396416.792686,
+      "priceChangePercent": 3.83,
+      "cleanliness": 0.8888888888888925,
+      "score": 38.88397552769703
     },
     {
-      "symbol": "JTOUSDT",
-      "quoteVolume": 12894404.70199,
-      "priceChangePercent": 25.37,
-      "cleanliness": 0.6941896024464824,
-      "score": 37.511704486897834
-    },
-    {
-      "symbol": "AAVEUSDT",
-      "quoteVolume": 45510613.03174,
-      "priceChangePercent": 17.301,
-      "cleanliness": 0.7423312883435577,
-      "score": 37.18098533940088
-    },
-    {
-      "symbol": "WLDUSDT",
-      "quoteVolume": 44586223.61374,
-      "priceChangePercent": -3.735,
-      "cleanliness": 0.7631578947368388,
-      "score": 33.94157599641839
+      "symbol": "PUNDIXUSDT",
+      "quoteVolume": 2804812.84035,
+      "priceChangePercent": 30.463,
+      "cleanliness": 0.677018633540373,
+      "score": 38.15401650769738
     },
     {
       "symbol": "XPLUSDT",
-      "quoteVolume": 37319789.248057,
-      "priceChangePercent": 11.203,
-      "cleanliness": 0.6562905317769148,
-      "score": 31.88410302583796
+      "quoteVolume": 37531599.522897,
+      "priceChangePercent": 10.295,
+      "cleanliness": 0.7894736842105263,
+      "score": 36.9397664904961
     },
     {
-      "symbol": "AVAXUSDT",
-      "quoteVolume": 18607688.26843,
-      "priceChangePercent": 4.328,
-      "cleanliness": 0.6578947368421121,
-      "score": 29.795097200218667
+      "symbol": "AGLDUSDT",
+      "quoteVolume": 8392182.6662,
+      "priceChangePercent": 61.538,
+      "cleanliness": 0.30113636363636354,
+      "score": 32.584017023927466
     },
     {
       "symbol": "HYPERUSDT",
-      "quoteVolume": 13528688.54222,
-      "priceChangePercent": 8.136,
-      "cleanliness": 0.6071428571428553,
-      "score": 28.86589099528147
+      "quoteVolume": 13540487.55453,
+      "priceChangePercent": 8.421,
+      "cleanliness": 0.6666666666666666,
+      "score": 31.332456957369402
     },
     {
       "symbol": "REUSDT",
-      "quoteVolume": 17618003.94855,
-      "priceChangePercent": -7.718,
-      "cleanliness": 0.6050420168067352,
-      "score": 28.690867683164715
+      "quoteVolume": 17552011.67982,
+      "priceChangePercent": -8.309,
+      "cleanliness": 0.5726495726495698,
+      "score": 27.57198097575116
+    },
+    {
+      "symbol": "AVAXUSDT",
+      "quoteVolume": 18608557.06836,
+      "priceChangePercent": 3.719,
+      "cleanliness": 0.6013513513513554,
+      "score": 27.350667863657968
+    },
+    {
+      "symbol": "JTOUSDT",
+      "quoteVolume": 12964500.8291,
+      "priceChangePercent": 24.798,
+      "cleanliness": 0.3626760563380276,
+      "score": 24.08026899346997
     },
     {
       "symbol": "HMSTRUSDT",
-      "quoteVolume": 5465273.7625527,
-      "priceChangePercent": 16.807,
-      "cleanliness": 0.4500000000000005,
-      "score": 25.063383576359012
+      "quoteVolume": 5476640.5228087,
+      "priceChangePercent": 16.85,
+      "cleanliness": 0.3999999999999993,
+      "score": 23.07655427065815
     }
   ],
-  "generatedAt": "2026-06-26T17:52:33.885Z"
+  "generatedAt": "2026-06-26T17:57:33.677Z"
 }
