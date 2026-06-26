@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "NEARUSDT",
-      "quoteVolume": 43723679.5898,
-      "priceChangePercent": -7.7,
-      "cleanliness": 0.7812499999999966,
-      "score": 35.852215010930344
-    },
-    {
       "symbol": "XPLUSDT",
-      "quoteVolume": 423845066.331315,
-      "priceChangePercent": 9.882,
-      "cleanliness": 0.7215189873417668,
-      "score": 34.41352163333671
+      "quoteVolume": 423782314.890107,
+      "priceChangePercent": 9.393,
+      "cleanliness": 0.8196202531645528,
+      "score": 38.19085297526819
     },
     {
       "symbol": "XLMUSDT",
-      "quoteVolume": 16902921.5129,
-      "priceChangePercent": -4.892,
-      "cleanliness": 0.7692307692307725,
-      "score": 34.40521930169089
+      "quoteVolume": 16847889.2863,
+      "priceChangePercent": -5.04,
+      "cleanliness": 0.8499999999999889,
+      "score": 37.679963649981985
     },
     {
-      "symbol": "GUSDT",
-      "quoteVolume": 6503517.35802,
-      "priceChangePercent": 36.755,
-      "cleanliness": 0.4655172413793095,
-      "score": 31.691134146289226
+      "symbol": "HEIUSDT",
+      "quoteVolume": 26650047.44973,
+      "priceChangePercent": 56.625,
+      "cleanliness": 0.3850574712643669,
+      "score": 34.617508246558735
+    },
+    {
+      "symbol": "ETHFIUSDT",
+      "quoteVolume": 6378196.8126,
+      "priceChangePercent": 12.865,
+      "cleanliness": 0.7142857142857143,
+      "score": 34.472337946281996
     }
   ],
-  "generatedAt": "2026-06-26T00:57:30.836Z"
+  "generatedAt": "2026-06-26T01:02:30.425Z"
 }
