@@ -9,32 +9,32 @@
     },
     {
       "symbol": "HEIUSDT",
-      "quoteVolume": 29924304.67011,
-      "priceChangePercent": 28.71,
-      "cleanliness": 0.78021978021978,
-      "score": 42.06459842913185
+      "quoteVolume": 29934288.40304,
+      "priceChangePercent": 29.235,
+      "cleanliness": 0.874999999999998,
+      "score": 46.01335068157083
     },
     {
       "symbol": "GUSDT",
-      "quoteVolume": 13346239.07002,
-      "priceChangePercent": 39.262,
-      "cleanliness": 0.695652173913041,
-      "score": 41.742294626540755
+      "quoteVolume": 13362983.51598,
+      "priceChangePercent": 38.926,
+      "cleanliness": 0.6956521739130448,
+      "score": 41.641657986325995
     },
     {
-      "symbol": "ZECUSDT",
-      "quoteVolume": 122604065.39382,
-      "priceChangePercent": -3.557,
-      "cleanliness": 0.7035647279549665,
-      "score": 31.636240579519683
+      "symbol": "TAOUSDT",
+      "quoteVolume": 27819075.59854,
+      "priceChangePercent": -4.241,
+      "cleanliness": 0.6999999999999981,
+      "score": 31.505602808410714
     },
     {
       "symbol": "PEPEUSDT",
-      "quoteVolume": 29635561.29904722,
-      "priceChangePercent": -7.54,
+      "quoteVolume": 29636871.00188862,
+      "priceChangePercent": -7.171,
       "cleanliness": 0.6666666666666666,
-      "score": 31.170210613830456
+      "score": 31.05951637161729
     }
   ],
-  "generatedAt": "2026-06-26T10:32:30.541Z"
+  "generatedAt": "2026-06-26T10:37:31.014Z"
 }
