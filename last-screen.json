@@ -2,39 +2,39 @@
   "candidates": [
     {
       "symbol": "PHBUSDT",
-      "quoteVolume": 1466449.0997,
-      "priceChangePercent": -69.388,
+      "quoteVolume": 1466402.3978,
+      "priceChangePercent": -70,
       "cleanliness": 1,
-      "score": 62.66628009797819
+      "score": 62.84987594862849
     },
     {
-      "symbol": "HEIUSDT",
-      "quoteVolume": 27100374.98677,
-      "priceChangePercent": 50.348,
-      "cleanliness": 0.6603773584905668,
-      "score": 43.74938692969191
+      "symbol": "REUSDT",
+      "quoteVolume": 17516175.96459,
+      "priceChangePercent": -11.95,
+      "cleanliness": 0.845730027548211,
+      "score": 39.587232891746076
     },
     {
       "symbol": "WLDUSDT",
-      "quoteVolume": 44199525.35428,
-      "priceChangePercent": -10.624,
-      "cleanliness": 0.9214659685863874,
-      "score": 42.33946402513948
+      "quoteVolume": 44992665.57625,
+      "priceChangePercent": -10.417,
+      "cleanliness": 0.8509803921568618,
+      "score": 39.460258203344594
     },
     {
-      "symbol": "XRPUSDT",
-      "quoteVolume": 143298916.02377,
-      "priceChangePercent": -4.557,
-      "cleanliness": 0.9333333333333402,
-      "score": 41.147306204898015
+      "symbol": "XLMUSDT",
+      "quoteVolume": 16479195.1292,
+      "priceChangePercent": -7.635,
+      "cleanliness": 0.8000000000000037,
+      "score": 36.45558079886837
     },
     {
-      "symbol": "AVAXUSDT",
-      "quoteVolume": 24401658.8825,
-      "priceChangePercent": -4.996,
-      "cleanliness": 0.9237288135593263,
-      "score": 40.66417834788566
+      "symbol": "HEIUSDT",
+      "quoteVolume": 27114035.71814,
+      "priceChangePercent": 52.636,
+      "cleanliness": 0.45544554455445485,
+      "score": 36.23858003132554
     }
   ],
-  "generatedAt": "2026-06-26T02:12:32.445Z"
+  "generatedAt": "2026-06-26T02:17:31.241Z"
 }
