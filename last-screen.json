@@ -8,33 +8,33 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "ETHFIUSDT",
-      "quoteVolume": 6241752.3026,
-      "priceChangePercent": 13.12,
-      "cleanliness": 0.9166666666666666,
-      "score": 42.64125862571161
+      "symbol": "GUSDT",
+      "quoteVolume": 6117089.61266,
+      "priceChangePercent": 36.184,
+      "cleanliness": 0.6309523809523805,
+      "score": 38.12925869092522
     },
     {
-      "symbol": "GUSDT",
-      "quoteVolume": 5968235.11973,
-      "priceChangePercent": 36.513,
-      "cleanliness": 0.6436781609195403,
-      "score": 38.73378021395561
+      "symbol": "ETHFIUSDT",
+      "quoteVolume": 6250339.5531,
+      "priceChangePercent": 12.865,
+      "cleanliness": 0.75,
+      "score": 35.898271083380756
     },
     {
       "symbol": "BTCUSDT",
-      "quoteVolume": 1827051974.7389448,
-      "priceChangePercent": -1.935,
-      "cleanliness": 0.7687793427229995,
-      "score": 34.11019897953317
+      "quoteVolume": 1828197105.4353557,
+      "priceChangePercent": -2.008,
+      "cleanliness": 0.7745303155180756,
+      "score": 34.36221952582096
     },
     {
       "symbol": "ETHUSDT",
-      "quoteVolume": 700280219.886316,
-      "priceChangePercent": -3.24,
-      "cleanliness": 0.5750819672131136,
-      "score": 26.6288602463566
+      "quoteVolume": 700140978.606518,
+      "priceChangePercent": -3.374,
+      "cleanliness": 0.6944262295081913,
+      "score": 31.442804829503192
     }
   ],
-  "generatedAt": "2026-06-26T00:22:32.007Z"
+  "generatedAt": "2026-06-26T00:27:51.282Z"
 }
