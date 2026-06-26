@@ -8,68 +8,68 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "SEIUSDT",
-      "quoteVolume": 8945016.86891,
-      "priceChangePercent": -10.586,
-      "cleanliness": 0.9180327868852435,
-      "score": 41.98258582458453
-    },
-    {
       "symbol": "HEIUSDT",
-      "quoteVolume": 31732103.09857,
-      "priceChangePercent": 34.526,
-      "cleanliness": 0.6147540983606545,
-      "score": 37.19841359142192
+      "quoteVolume": 31769499.1498,
+      "priceChangePercent": 33.847,
+      "cleanliness": 0.7068965517241391,
+      "score": 40.680565179417556
     },
     {
       "symbol": "AAVEUSDT",
-      "quoteVolume": 43017323.00505,
-      "priceChangePercent": 6.849,
-      "cleanliness": 0.7559322033898264,
-      "score": 34.58208114973548
-    },
-    {
-      "symbol": "DOGEUSDT",
-      "quoteVolume": 64805077.48074,
-      "priceChangePercent": -3.227,
-      "cleanliness": 0.7090909090909003,
-      "score": 31.675219073894787
-    },
-    {
-      "symbol": "TAOUSDT",
-      "quoteVolume": 27871556.19124,
-      "priceChangePercent": -3.772,
-      "cleanliness": 0.6428571428571443,
-      "score": 29.079434079672644
-    },
-    {
-      "symbol": "NEARUSDT",
-      "quoteVolume": 53251443.8265,
-      "priceChangePercent": -5.929,
-      "cleanliness": 0.612903225806453,
-      "score": 28.612728448496316
-    },
-    {
-      "symbol": "INJUSDT",
-      "quoteVolume": 12741942.65766,
-      "priceChangePercent": 7.392,
-      "cleanliness": 0.5977011494252886,
-      "score": 28.25721667090233
+      "quoteVolume": 43108705.51262,
+      "priceChangePercent": 7.359,
+      "cleanliness": 0.8829431438127066,
+      "score": 39.815795247066816
     },
     {
       "symbol": "GUSDT",
-      "quoteVolume": 14300041.27841,
-      "priceChangePercent": 15.016,
-      "cleanliness": 0.5263157894736866,
-      "score": 27.70403276627705
+      "quoteVolume": 14288730.17928,
+      "priceChangePercent": 15.335,
+      "cleanliness": 0.5294117647058837,
+      "score": 27.923468678832705
+    },
+    {
+      "symbol": "TRXUSDT",
+      "quoteVolume": 50575138.21485,
+      "priceChangePercent": -1.979,
+      "cleanliness": 0.5999999999999334,
+      "score": 26.904881123490682
+    },
+    {
+      "symbol": "SOLUSDT",
+      "quoteVolume": 318319918.42977,
+      "priceChangePercent": 1.498,
+      "cleanliness": 0.5753424657534044,
+      "score": 26.013957774590985
     },
     {
       "symbol": "SPCXBUSDT",
-      "quoteVolume": 23329029.37206,
-      "priceChangePercent": -4.569,
-      "cleanliness": 0.5956284153005442,
-      "score": 27.406205612993876
+      "quoteVolume": 23397713.8973,
+      "priceChangePercent": -4.203,
+      "cleanliness": 0.5573770491803142,
+      "score": 25.766733995072926
+    },
+    {
+      "symbol": "INJUSDT",
+      "quoteVolume": 12738951.26412,
+      "priceChangePercent": 7.788,
+      "cleanliness": 0.4942528735632165,
+      "score": 24.23805504536442
+    },
+    {
+      "symbol": "FOGOUSDT",
+      "quoteVolume": 10602838.56484,
+      "priceChangePercent": -10.246,
+      "cleanliness": 0.4,
+      "score": 21.181426644711912
+    },
+    {
+      "symbol": "XRPUSDT",
+      "quoteVolume": 172271844.46879,
+      "priceChangePercent": -3.813,
+      "cleanliness": 0.4361702127659532,
+      "score": 21.061572801723344
     }
   ],
-  "generatedAt": "2026-06-26T12:12:50.237Z"
+  "generatedAt": "2026-06-26T12:17:31.826Z"
 }
