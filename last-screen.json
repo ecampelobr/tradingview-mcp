@@ -8,68 +8,68 @@
       "score": 62.84987594862849
     },
     {
-      "symbol": "A2ZUSDT",
-      "quoteVolume": 1142385.598803,
-      "priceChangePercent": -53.846,
-      "cleanliness": 0.6666666666666666,
-      "score": 44.63781048255937
-    },
-    {
       "symbol": "AIUSDT",
-      "quoteVolume": 6459538.47033,
-      "priceChangePercent": 16.746,
-      "cleanliness": 0.6363636363636387,
-      "score": 32.52140590126221
-    },
-    {
-      "symbol": "HYPERUSDT",
-      "quoteVolume": 161378859.6286,
-      "priceChangePercent": -3.262,
-      "cleanliness": 0.7083333333333307,
-      "score": 31.77428732600299
-    },
-    {
-      "symbol": "XPLUSDT",
-      "quoteVolume": 14042369.658,
-      "priceChangePercent": -11.716,
-      "cleanliness": 0.646817248459959,
-      "score": 31.531722058825288
+      "quoteVolume": 6462737.15305,
+      "priceChangePercent": 17.703,
+      "cleanliness": 0.8181818181818193,
+      "score": 40.08129767518057
     },
     {
       "symbol": "SYNUSDT",
-      "quoteVolume": 51041455.673492,
-      "priceChangePercent": 5.159,
-      "cleanliness": 0.6907304570696279,
-      "score": 31.48929519830205
+      "quoteVolume": 51018654.208559,
+      "priceChangePercent": 6.821,
+      "cleanliness": 0.7629218282785115,
+      "score": 34.875491830667364
     },
     {
-      "symbol": "XLMUSDT",
-      "quoteVolume": 35869269.3769,
-      "priceChangePercent": 12.358,
-      "cleanliness": 0.5416666666666677,
-      "score": 27.64048342584615
+      "symbol": "HYPERUSDT",
+      "quoteVolume": 161380012.09102,
+      "priceChangePercent": -3.509,
+      "cleanliness": 0.7499999999999986,
+      "score": 33.51505492310065
     },
     {
-      "symbol": "ORDIUSDT",
-      "quoteVolume": 10459144.52912,
-      "priceChangePercent": -9.171,
-      "cleanliness": 0.5693430656934311,
-      "score": 27.63087147703134
-    },
-    {
-      "symbol": "SPCXBUSDT",
-      "quoteVolume": 83481113.17848,
-      "priceChangePercent": 4.701,
-      "cleanliness": 0.5720930232558152,
-      "score": 26.67049739969149
+      "symbol": "XPLUSDT",
+      "quoteVolume": 14072312.128629,
+      "priceChangePercent": -11.313,
+      "cleanliness": 0.6849315068493125,
+      "score": 32.935669911778795
     },
     {
       "symbol": "币安人生USDT",
-      "quoteVolume": 9433272.8148,
-      "priceChangePercent": -6.814,
-      "cleanliness": 0.53185595567867,
-      "score": 25.410836945534676
+      "quoteVolume": 9472094.79857,
+      "priceChangePercent": -7.523,
+      "cleanliness": 0.6537396121883671,
+      "score": 30.499418298305997
+    },
+    {
+      "symbol": "SPCXBUSDT",
+      "quoteVolume": 83504211.39324,
+      "priceChangePercent": 4.649,
+      "cleanliness": 0.6186046511627898,
+      "score": 28.515398560194008
+    },
+    {
+      "symbol": "ORDIUSDT",
+      "quoteVolume": 10494133.79018,
+      "priceChangePercent": -8.913,
+      "cleanliness": 0.5145985401459854,
+      "score": 25.36412558486062
+    },
+    {
+      "symbol": "RIFUSDT",
+      "quoteVolume": 6389548.131,
+      "priceChangePercent": 24.592,
+      "cleanliness": 0.3333333333333333,
+      "score": 22.75257437711173
+    },
+    {
+      "symbol": "XLMUSDT",
+      "quoteVolume": 35910376.7723,
+      "priceChangePercent": 11.725,
+      "cleanliness": 0.38888888888889167,
+      "score": 21.339621544088246
     }
   ],
-  "generatedAt": "2026-07-01T01:45:11.594Z"
+  "generatedAt": "2026-07-01T01:47:34.103Z"
 }
