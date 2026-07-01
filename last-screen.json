@@ -2,10 +2,10 @@
   "candidates": [
     {
       "symbol": "NFPUSDT",
-      "quoteVolume": 63001094.48221,
-      "priceChangePercent": 686.695,
-      "cleanliness": 0.001495886312640178,
-      "score": 208.4081398807867
+      "quoteVolume": 63415822.06533,
+      "priceChangePercent": 617.585,
+      "cleanliness": 0.6500765696784078,
+      "score": 213.61922207512413
     },
     {
       "symbol": "PHBUSDT",
@@ -16,60 +16,60 @@
     },
     {
       "symbol": "PONDUSDT",
-      "quoteVolume": 5739493.46974,
-      "priceChangePercent": 127.957,
-      "cleanliness": 0.4892086330935251,
-      "score": 59.98310739356822
+      "quoteVolume": 5872684.37216,
+      "priceChangePercent": 133.333,
+      "cleanliness": 0.43410852713178294,
+      "score": 59.394892083356
     },
     {
       "symbol": "TLMUSDT",
-      "quoteVolume": 7033664.871725,
-      "priceChangePercent": 72.071,
-      "cleanliness": 0.42857142857142855,
-      "score": 40.81831164443863
+      "quoteVolume": 7427330.251733,
+      "priceChangePercent": 97.633,
+      "cleanliness": 0.6399055489964582,
+      "score": 56.94737178035399
     },
     {
-      "symbol": "REUSDT",
-      "quoteVolume": 19061189.90352,
-      "priceChangePercent": -8.935,
-      "cleanliness": 0.8145161290322528,
-      "score": 37.44519016374433
-    },
-    {
-      "symbol": "WLDUSDT",
-      "quoteVolume": 40035900.30247,
-      "priceChangePercent": -8.758,
-      "cleanliness": 0.7954545454545434,
-      "score": 36.726316697911045
-    },
-    {
-      "symbol": "XRPUSDT",
-      "quoteVolume": 84826409.64239,
-      "priceChangePercent": 1.342,
-      "cleanliness": 0.8030303030303229,
-      "score": 34.90237144685333
+      "symbol": "ZBTUSDT",
+      "quoteVolume": 16035584.79876,
+      "priceChangePercent": 22.06,
+      "cleanliness": 0.7313432835820894,
+      "score": 38.03325678411097
     },
     {
       "symbol": "NOMUSDT",
-      "quoteVolume": 13483847.08965,
-      "priceChangePercent": 32.836,
+      "quoteVolume": 13544866.32426,
+      "priceChangePercent": 34.328,
       "cleanliness": 0.5588235294117652,
-      "score": 34.34268532212979
+      "score": 34.790873593458045
+    },
+    {
+      "symbol": "SPCXBUSDT",
+      "quoteVolume": 38865528.464,
+      "priceChangePercent": -6.937,
+      "cleanliness": 0.5941176470588222,
+      "score": 28.122675255539548
+    },
+    {
+      "symbol": "ADAUSDT",
+      "quoteVolume": 36382331.11595,
+      "priceChangePercent": 6.875,
+      "cleanliness": 0.5833333333333353,
+      "score": 27.66410048995143
+    },
+    {
+      "symbol": "WLDUSDT",
+      "quoteVolume": 40355499.06841,
+      "priceChangePercent": -9.053,
+      "cleanliness": 0.5600000000000045,
+      "score": 27.39767081675361
     },
     {
       "symbol": "ALCXUSDT",
-      "quoteVolume": 3103559.901391,
-      "priceChangePercent": 39.64,
-      "cleanliness": 0.3111111111111113,
-      "score": 26.28400248406291
-    },
-    {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 1344933893.8539288,
-      "priceChangePercent": 2.284,
-      "cleanliness": 0.5489476849067807,
-      "score": 25.38171767780175
+      "quoteVolume": 3119991.599398,
+      "priceChangePercent": 41.441,
+      "cleanliness": 0.30864197530864196,
+      "score": 26.726225039749288
     }
   ],
-  "generatedAt": "2026-07-01T20:42:30.746Z"
+  "generatedAt": "2026-07-01T20:47:31.548Z"
 }
