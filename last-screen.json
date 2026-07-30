@@ -15,61 +15,61 @@
       "score": 50.06078984644257
     },
     {
-      "symbol": "SOXLBUSDT",
-      "quoteVolume": 23847224.20553,
-      "priceChangePercent": 5.933,
-      "cleanliness": 0.9589041095890333,
-      "score": 42.34929573401595
+      "symbol": "KAITOUSDT",
+      "quoteVolume": 27224176.21825,
+      "priceChangePercent": -21.202,
+      "cleanliness": 0.7965367965367989,
+      "score": 40.45255828563907
     },
     {
-      "symbol": "BANKUSDT",
-      "quoteVolume": 80428146.3481,
-      "priceChangePercent": -56.342,
-      "cleanliness": 0.5500000000000014,
-      "score": 41.274222417850396
+      "symbol": "EULUSDT",
+      "quoteVolume": 16546542.33935,
+      "priceChangePercent": -7.243,
+      "cleanliness": 0.7090909090909071,
+      "score": 32.70214854011224
     },
     {
       "symbol": "UNIUSDT",
-      "quoteVolume": 30418328.27444,
-      "priceChangePercent": 9.785,
-      "cleanliness": 0.85074626865672,
-      "score": 39.2102913490149
-    },
-    {
-      "symbol": "MMTUSDT",
-      "quoteVolume": 8316152.9952,
-      "priceChangePercent": 36.771,
-      "cleanliness": 0.6117021276595755,
-      "score": 37.575361847563535
-    },
-    {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 1243934206.2860136,
-      "priceChangePercent": 0.332,
-      "cleanliness": 0.8574126534466291,
-      "score": 37.124545360990275
-    },
-    {
-      "symbol": "BNBUSDT",
-      "quoteVolume": 81295016.12837,
-      "priceChangePercent": 3.949,
-      "cleanliness": 0.8256410256410134,
-      "score": 36.583360202107336
+      "quoteVolume": 30494209.855,
+      "priceChangePercent": 9.835,
+      "cleanliness": 0.6808510638297792,
+      "score": 32.42980776860102
     },
     {
       "symbol": "SNXXBUSDT",
-      "quoteVolume": 7736218.4089,
-      "priceChangePercent": 23.001,
-      "cleanliness": 0.6363636363636371,
-      "score": 34.42140407122013
+      "quoteVolume": 7723499.8982,
+      "priceChangePercent": 21.573,
+      "cleanliness": 0.48148148148147857,
+      "score": 27.797503502806745
     },
     {
-      "symbol": "KAITOUSDT",
-      "quoteVolume": 27233581.78268,
-      "priceChangePercent": -20.54,
-      "cleanliness": 0.6500000000000079,
-      "score": 34.3925314291576
+      "symbol": "SKHYBUSDT",
+      "quoteVolume": 60579864.24725,
+      "priceChangePercent": 9.075,
+      "cleanliness": 0.5523809523809523,
+      "score": 27.152436583975756
+    },
+    {
+      "symbol": "SNDKBUSDT",
+      "quoteVolume": 115977631.486274,
+      "priceChangePercent": 12.577,
+      "cleanliness": 0.5162162162162137,
+      "score": 26.84106091922998
+    },
+    {
+      "symbol": "BTCUSDT",
+      "quoteVolume": 1238163850.9947858,
+      "priceChangePercent": 0.278,
+      "cleanliness": 0.5916902738432388,
+      "score": 26.478844389834528
+    },
+    {
+      "symbol": "REUSDT",
+      "quoteVolume": 13772162.86474,
+      "priceChangePercent": -14.93,
+      "cleanliness": 0.4070796460176973,
+      "score": 22.9038864856708
     }
   ],
-  "generatedAt": "2026-07-30T18:57:32.042Z"
+  "generatedAt": "2026-07-30T19:02:31.654Z"
 }
