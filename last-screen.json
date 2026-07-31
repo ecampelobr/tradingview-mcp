@@ -22,6 +22,13 @@
       "score": 44.63781048255937
     },
     {
+      "symbol": "BTCUSDT",
+      "quoteVolume": 1195110690.0430639,
+      "priceChangePercent": -3.419,
+      "cleanliness": 0.9142785689066721,
+      "score": 40.32006519559656
+    },
+    {
       "symbol": "ATAUSDT",
       "quoteVolume": 1027614.017,
       "priceChangePercent": -53.846,
@@ -29,47 +36,40 @@
       "score": 37.957349005867144
     },
     {
-      "symbol": "BTCUSDT",
-      "quoteVolume": 1183940258.1050916,
-      "priceChangePercent": -3.174,
-      "cleanliness": 0.8542716474237094,
-      "score": 37.84506483345079
-    },
-    {
       "symbol": "AXTIBUSDT",
-      "quoteVolume": 4342228.2502,
-      "priceChangePercent": 35.326,
-      "cleanliness": 0.6175572519083972,
-      "score": 37.291403870887414
+      "quoteVolume": 4404922.1023,
+      "priceChangePercent": 33.019,
+      "cleanliness": 0.5839694656488548,
+      "score": 35.25766009574862
     },
     {
-      "symbol": "ZAMAUSDT",
-      "quoteVolume": 8862967.5994,
-      "priceChangePercent": -8.989,
-      "cleanliness": 0.7522123893805286,
-      "score": 34.86946932371455
+      "symbol": "EPICUSDT",
+      "quoteVolume": 6194045.7398,
+      "priceChangePercent": -10.013,
+      "cleanliness": 0.7210682492581642,
+      "score": 33.88422229274788
     },
     {
-      "symbol": "SPCXBUSDT",
-      "quoteVolume": 18076389.6315,
-      "priceChangePercent": -6.94,
-      "cleanliness": 0.661996497373029,
-      "score": 30.738993403077842
+      "symbol": "SNXXBUSDT",
+      "quoteVolume": 15214135.9984,
+      "priceChangePercent": -4.2,
+      "cleanliness": 0.7170868347338937,
+      "score": 32.09814757757765
     },
     {
       "symbol": "SNDKBUSDT",
-      "quoteVolume": 149317094.049511,
-      "priceChangePercent": 0.643,
-      "cleanliness": 0.6350098342230961,
-      "score": 28.045526227704336
+      "quoteVolume": 148225700.882282,
+      "priceChangePercent": -1.363,
+      "cleanliness": 0.7199587899222629,
+      "score": 31.658528650662927
     },
     {
-      "symbol": "KORUBUSDT",
-      "quoteVolume": 30013796.3456,
-      "priceChangePercent": 3.536,
-      "cleanliness": 0.6153846153846156,
-      "score": 27.919380894795186
+      "symbol": "ETHUSDT",
+      "quoteVolume": 410194983.472531,
+      "priceChangePercent": -3.252,
+      "cleanliness": 0.6997530864197566,
+      "score": 31.549620560233183
     }
   ],
-  "generatedAt": "2026-07-31T14:22:30.394Z"
+  "generatedAt": "2026-07-31T14:27:31.477Z"
 }
