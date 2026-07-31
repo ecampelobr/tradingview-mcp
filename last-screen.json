@@ -15,61 +15,61 @@
       "score": 50.06078984644257
     },
     {
-      "symbol": "MIRAUSDT",
-      "quoteVolume": 17877004.52739,
-      "priceChangePercent": -4.63,
-      "cleanliness": 1,
-      "score": 43.564688425039144
+      "symbol": "AXTIBUSDT",
+      "quoteVolume": 4640533.7216,
+      "priceChangePercent": 32.843,
+      "cleanliness": 0.77205882352941,
+      "score": 42.73522332105509
     },
     {
-      "symbol": "MMTUSDT",
-      "quoteVolume": 40189553.55141,
-      "priceChangePercent": -9.379,
-      "cleanliness": 0.9475138121546958,
-      "score": 42.995486440735895
-    },
-    {
-      "symbol": "BANKUSDT",
-      "quoteVolume": 47718784.25075,
-      "priceChangePercent": -26.26,
-      "cleanliness": 0.5106382978723407,
-      "score": 30.607138726030694
-    },
-    {
-      "symbol": "UNIUSDT",
-      "quoteVolume": 40857409.02977,
-      "priceChangePercent": -1.779,
-      "cleanliness": 0.65671641791044,
-      "score": 29.08573796314066
+      "symbol": "PUMPUSDT",
+      "quoteVolume": 10498514.660558,
+      "priceChangePercent": 8.371,
+      "cleanliness": 0.7478260869565186,
+      "score": 34.530681835971606
     },
     {
       "symbol": "GIGGLEUSDT",
-      "quoteVolume": 30451414.01423,
-      "priceChangePercent": 36.376,
-      "cleanliness": 0.3777777777777782,
-      "score": 28.268993350293613
+      "quoteVolume": 31332172.72369,
+      "priceChangePercent": 31.31,
+      "cleanliness": 0.4714828897338406,
+      "score": 30.50111274295243
     },
     {
-      "symbol": "BROCCOLI714USDT",
-      "quoteVolume": 3540003.0482,
-      "priceChangePercent": 19.152,
-      "cleanliness": 0.48979591836734554,
-      "score": 27.302137825489346
+      "symbol": "BNBUSDT",
+      "quoteVolume": 81441567.8468,
+      "priceChangePercent": -0.856,
+      "cleanliness": 0.601910828025476,
+      "score": 26.706486958746193
     },
     {
       "symbol": "XECUSDT",
-      "quoteVolume": 4340106.6271302,
-      "priceChangePercent": 16.299,
-      "cleanliness": 0.4347826086956563,
-      "score": 24.272254467625082
+      "quoteVolume": 4437822.64341164,
+      "priceChangePercent": 16.751,
+      "cleanliness": 0.47619047619047444,
+      "score": 26.0670700301473
     },
     {
-      "symbol": "MUBUSDT",
-      "quoteVolume": 42549348.67012,
-      "priceChangePercent": -3.075,
-      "cleanliness": 0.4894387447193734,
-      "score": 22.788717663710017
+      "symbol": "MMTUSDT",
+      "quoteVolume": 40883305.07709,
+      "priceChangePercent": -9.946,
+      "cleanliness": 0.43888888888888794,
+      "score": 22.82281935485439
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "quoteVolume": 20181052.60559,
+      "priceChangePercent": 10.417,
+      "cleanliness": 0.3673469387755094,
+      "score": 20.010460695361864
+    },
+    {
+      "symbol": "ZECUSDT",
+      "quoteVolume": 31634706.23926,
+      "priceChangePercent": -3.082,
+      "cleanliness": 0.418470418470423,
+      "score": 19.913465880599986
     }
   ],
-  "generatedAt": "2026-07-31T15:57:30.919Z"
+  "generatedAt": "2026-07-31T16:44:43.684Z"
 }
