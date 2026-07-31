@@ -15,61 +15,61 @@
       "score": 50.06078984644257
     },
     {
-      "symbol": "EULUSDT",
-      "quoteVolume": 95865220.73839,
-      "priceChangePercent": -10.132,
-      "cleanliness": 0.8166666666666679,
-      "score": 38.10076498964909
+      "symbol": "GIGGLEUSDT",
+      "quoteVolume": 28005232.03943,
+      "priceChangePercent": 34.591,
+      "cleanliness": 0.6881091617933731,
+      "score": 40.13583822435458
     },
     {
       "symbol": "KAITOUSDT",
-      "quoteVolume": 17039615.62372,
-      "priceChangePercent": 5.953,
-      "cleanliness": 0.8197115384615373,
-      "score": 36.743799476605126
+      "quoteVolume": 16172367.01695,
+      "priceChangePercent": 6.852,
+      "cleanliness": 0.854875283446713,
+      "score": 38.41324341447435
     },
     {
-      "symbol": "GIGGLEUSDT",
-      "quoteVolume": 27827421.53287,
-      "priceChangePercent": 39.743,
-      "cleanliness": 0.5033557046979867,
-      "score": 34.29047007796278
-    },
-    {
-      "symbol": "BANKUSDT",
-      "quoteVolume": 58249666.3594,
-      "priceChangePercent": -26.23,
-      "cleanliness": 0.5227272727272718,
-      "score": 31.10767894174096
-    },
-    {
-      "symbol": "ADAUSDT",
-      "quoteVolume": 27065427.12831,
-      "priceChangePercent": 3.966,
-      "cleanliness": 0.6874999999999859,
-      "score": 30.919524465566536
-    },
-    {
-      "symbol": "SNXXBUSDT",
-      "quoteVolume": 12567850.2274,
-      "priceChangePercent": 59.016,
-      "cleanliness": 0.2692307692307696,
-      "score": 30.60380906818756
+      "symbol": "EULUSDT",
+      "quoteVolume": 95842675.11632,
+      "priceChangePercent": -9.433,
+      "cleanliness": 0.6999999999999988,
+      "score": 33.22436767811216
     },
     {
       "symbol": "KORUBUSDT",
-      "quoteVolume": 29935543.5917,
-      "priceChangePercent": 35.243,
-      "cleanliness": 0.42028985507246175,
-      "score": 29.62735034753641
+      "quoteVolume": 29900478.5926,
+      "priceChangePercent": 35.184,
+      "cleanliness": 0.5072463768115953,
+      "score": 33.087758514397215
     },
     {
-      "symbol": "AXTIBUSDT",
-      "quoteVolume": 2410535.999,
-      "priceChangePercent": 56.744,
-      "cleanliness": 0.23039215686274464,
-      "score": 28.153520360999153
+      "symbol": "BTCUSDT",
+      "quoteVolume": 1096729894.172754,
+      "priceChangePercent": -0.957,
+      "cleanliness": 0.6969858914066309,
+      "score": 30.878565560696003
+    },
+    {
+      "symbol": "ADAUSDT",
+      "quoteVolume": 27076542.27102,
+      "priceChangePercent": 4.027,
+      "cleanliness": 0.6666666666666821,
+      "score": 30.10454462764948
+    },
+    {
+      "symbol": "MMTUSDT",
+      "quoteVolume": 31457066.55358,
+      "priceChangePercent": 36.426,
+      "cleanliness": 0.4041687849517032,
+      "score": 29.343866864422154
+    },
+    {
+      "symbol": "BANKUSDT",
+      "quoteVolume": 57746161.49335,
+      "priceChangePercent": -22.565,
+      "cleanliness": 0.47058823529411886,
+      "score": 27.921486348086418
     }
   ],
-  "generatedAt": "2026-07-31T11:22:30.710Z"
+  "generatedAt": "2026-07-31T11:27:32.144Z"
 }
