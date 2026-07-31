@@ -8,13 +8,6 @@
       "score": 62.66628009797819
     },
     {
-      "symbol": "BANKUSDT",
-      "quoteVolume": 81638427.62721,
-      "priceChangePercent": -64.298,
-      "cleanliness": 0.8759124087591246,
-      "score": 56.69946473982223
-    },
-    {
       "symbol": "NFPUSDT",
       "quoteVolume": 3834002.83185,
       "priceChangePercent": -66.168,
@@ -22,54 +15,61 @@
       "score": 50.06078984644257
     },
     {
+      "symbol": "BANKUSDT",
+      "quoteVolume": 81553508.06498,
+      "priceChangePercent": -63.951,
+      "cleanliness": 0.6794871794871795,
+      "score": 48.738219973638984
+    },
+    {
       "symbol": "MMTUSDT",
-      "quoteVolume": 14516483.71725,
-      "priceChangePercent": 48.756,
-      "cleanliness": 0.6666666666666684,
-      "score": 43.44202509605669
+      "quoteVolume": 14534499.07522,
+      "priceChangePercent": 47.791,
+      "cleanliness": 0.6185567010309293,
+      "score": 41.22828806181902
     },
     {
       "symbol": "SNXXBUSDT",
-      "quoteVolume": 10865695.9991,
-      "priceChangePercent": 67.338,
-      "cleanliness": 0.5227272727272743,
-      "score": 43.221308174138485
+      "quoteVolume": 10870341.2913,
+      "priceChangePercent": 64.53,
+      "cleanliness": 0.47727272727272974,
+      "score": 40.56078204480485
     },
     {
-      "symbol": "NBISBUSDT",
-      "quoteVolume": 5208587.63805,
-      "priceChangePercent": 32.811,
-      "cleanliness": 0.6799999999999997,
-      "score": 39.05831599275821
-    },
-    {
-      "symbol": "UNIUSDT",
-      "quoteVolume": 39843152.12314,
-      "priceChangePercent": 8.791,
-      "cleanliness": 0.7267441860465128,
-      "score": 33.987173548734305
+      "symbol": "DEXEUSDT",
+      "quoteVolume": 17792759.55843,
+      "priceChangePercent": -7.642,
+      "cleanliness": 0.724409448818896,
+      "score": 33.444050945748586
     },
     {
       "symbol": "AXTIBUSDT",
-      "quoteVolume": 2207170.0946,
-      "priceChangePercent": 54.216,
-      "cleanliness": 0.346938775510203,
-      "score": 32.04550176135793
+      "quoteVolume": 2207702.5484,
+      "priceChangePercent": 54.032,
+      "cleanliness": 0.3809523809523828,
+      "score": 33.350877405783834
     },
     {
-      "symbol": "MUUBUSDT",
-      "quoteVolume": 4691166.4384,
-      "priceChangePercent": 45.619,
-      "cleanliness": 0.39682539682539747,
-      "score": 31.560100125496277
+      "symbol": "UNIUSDT",
+      "quoteVolume": 39855924.69382,
+      "priceChangePercent": 9.082,
+      "cleanliness": 0.6689655172413801,
+      "score": 31.763368556538534
     },
     {
       "symbol": "SOXLBUSDT",
-      "quoteVolume": 39540070.05223,
-      "priceChangePercent": 30.027,
-      "cleanliness": 0.4890510948905131,
-      "score": 30.84925502594288
+      "quoteVolume": 39709808.12103,
+      "priceChangePercent": 29.03,
+      "cleanliness": 0.4671532846715341,
+      "score": 29.67480072342491
+    },
+    {
+      "symbol": "NBISBUSDT",
+      "quoteVolume": 5216934.16782,
+      "priceChangePercent": 32.322,
+      "cleanliness": 0.4200000000000017,
+      "score": 28.511824606926332
     }
   ],
-  "generatedAt": "2026-07-31T03:42:31.359Z"
+  "generatedAt": "2026-07-31T03:47:30.994Z"
 }
