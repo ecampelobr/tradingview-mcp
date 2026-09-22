@@ -1,12 +1,12 @@
 {
   "blocked": [
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on 2026-07-10 following monitoring tag; token down 98% from ATH, no recovery path"},
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on 2026-05-27; extreme -69% swing is post-delisting dead-cat volatility, not a tradeable setup"},
-    {"symbol": "DEXEUSDT", "reason": "Crashed 90% from $49 ATH in July 2026 amid rug pull fears; unanswered questions still cloud recovery"}
+    {"symbol": "PHBUSDT", "reason": "Binance delisted May 27 2026; -69% is post-delisting collapse, not a tradeable recovery"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted July 10 2026; withdrawals closed Sept 9 — effectively dead on Binance"},
+    {"symbol": "DEXEUSDT", "reason": "Crashed ~90% from ATH in July 2026 amid rug pull accusations and concentrated whale selling; screen's +10% is a dead-cat bounce"}
   ],
   "boosted": [
-    {"symbol": "PUMPUSDT", "reason": "Pump.fun iOS app relisted in US & India on 2026-09-18; $322M YTD revenue, genuine positive re-listing catalyst"},
-    {"symbol": "ZECUSDT", "reason": "Grayscale Zcash spot ETF launched on NYSE; Paradigm disclosed ZEC holdings; SEC closed investigation — major institutional catalysts"}
+    {"symbol": "ZECUSDT", "reason": "Paradigm disclosed ZEC holdings Sept 17 and community approved major speed upgrade same day — dual institutional + technical catalysts"},
+    {"symbol": "PUMPUSDT", "reason": "Revenue-backed systematic buyback program (~$322M 2026 revenue); recent 4%+ surges driven by visible buyback activity; post-Sept-12 unlock headwind cleared"}
   ],
-  "updatedAt": "2026-09-22T00:00:00Z"
+  "updatedAt": "2026-09-22T20:04:30Z"
 }
