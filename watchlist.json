@@ -1,5 +1,12 @@
 {
-  "blocked": [],
-  "boosted": [],
-  "updatedAt": null
+  "blocked": [
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on 2026-07-10 following monitoring tag; token down 98% from ATH, no recovery path"},
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on 2026-05-27; extreme -69% swing is post-delisting dead-cat volatility, not a tradeable setup"},
+    {"symbol": "DEXEUSDT", "reason": "Crashed 90% from $49 ATH in July 2026 amid rug pull fears; unanswered questions still cloud recovery"}
+  ],
+  "boosted": [
+    {"symbol": "PUMPUSDT", "reason": "Pump.fun iOS app relisted in US & India on 2026-09-18; $322M YTD revenue, genuine positive re-listing catalyst"},
+    {"symbol": "ZECUSDT", "reason": "Grayscale Zcash spot ETF launched on NYSE; Paradigm disclosed ZEC holdings; SEC closed investigation — major institutional catalysts"}
+  ],
+  "updatedAt": "2026-09-22T00:00:00Z"
 }
