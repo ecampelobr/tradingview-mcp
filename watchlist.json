@@ -1,27 +1,12 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB on May 27 2026 after periodic review; ongoing collapse post-delisting with 90% amplitude volatility events"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisted NFP on July 10 2026; token down ~99% over the past year with no recovery catalyst"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Crashed 85-90% in July 2026 on $22M insider/whale spot selling and rug-pull fears; current +10% is a dead-cat bounce from near-zero"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB May 2026; token collapsed ~70% and is near-zero with minimal liquidity"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP July 10 2026 after monitoring tag; -66% crash, no recovery path"},
+    {"symbol": "DEXEUSDT", "reason": "Smart contract exploit July 21 2026 enabled unlimited token minting; 85-86% price collapse, rug-pull fears"},
+    {"symbol": "ZECUSDT", "reason": "Critical Orchard shielded pool bug disclosed May 2026 allowed undetectable ZEC minting for ~4 years; major supply integrity risk"}
   ],
   "boosted": [
-    {
-      "symbol": "ZECUSDT",
-      "reason": "Grayscale ZEC ETF launched Sep 2026 with $233M inflows; 21Shares ETP listed on Euronext Sep 22; NU7 network upgrade activating Sep 30"
-    },
-    {
-      "symbol": "PUMPUSDT",
-      "reason": "Pump.fun iOS app returned to US and India on Sep 18 2026; platform generating $322M revenue with $433M token burns; 71% monthly gain"
-    }
+    {"symbol": "AXTIBUSDT", "reason": "Underlying AXT Inc. added to S&P SmallCap 600 effective Sept 21 2026; blowout Q2 earnings (EPS $0.19 vs $0.07 expected)"}
   ],
-  "updatedAt": "2026-09-23T00:00:00Z"
+  "updatedAt": "2026-09-23T16:04:15Z"
 }
