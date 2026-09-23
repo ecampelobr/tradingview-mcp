@@ -1,12 +1,19 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted May 27 2026; -69% is post-delisting collapse, not a tradeable recovery"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted July 10 2026; withdrawals closed Sept 9 — effectively dead on Binance"},
-    {"symbol": "DEXEUSDT", "reason": "Crashed ~90% from ATH in July 2026 amid rug pull accusations and concentrated whale selling; screen's +10% is a dead-cat bounce"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance spot-delisted May 2026; -69% crash is ongoing post-delisting collapse, not a genuine setup"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance spot-delisted July 10 2026; -66% crash is direct post-delisting liquidity drain, dead-cat risk"
+    }
   ],
   "boosted": [
-    {"symbol": "ZECUSDT", "reason": "Paradigm disclosed ZEC holdings Sept 17 and community approved major speed upgrade same day — dual institutional + technical catalysts"},
-    {"symbol": "PUMPUSDT", "reason": "Revenue-backed systematic buyback program (~$322M 2026 revenue); recent 4%+ surges driven by visible buyback activity; post-Sept-12 unlock headwind cleared"}
+    {
+      "symbol": "ZECUSDT",
+      "reason": "NU7 upgrade approved Sep 17, Paradigm disclosed ZEC holdings Sep 17, price broke $1500 for first time since 2016 on Sep 19"
+    }
   ],
-  "updatedAt": "2026-09-22T20:04:30Z"
+  "updatedAt": "2026-09-23T00:00:00Z"
 }
