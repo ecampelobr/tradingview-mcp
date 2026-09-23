@@ -2,25 +2,25 @@
   "blocked": [
     {
       "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB (Phoenix) in May 2026 with cascading delistings across other exchanges; -69% is dead-cat aftermath of a fundamentally broken token, not a recovery"
+      "reason": "Binance delisted PHB on May 27 2026 after periodic review; ongoing collapse post-delisting with 90% amplitude volatility events"
     },
     {
       "symbol": "NFPUSDT",
-      "reason": "Binance confirmed full NFPrompt delisting triggering panic selling; -66% is direct delisting fallout, no recovery catalyst identified"
+      "reason": "Binance delisted NFP on July 10 2026; token down ~99% over the past year with no recovery catalyst"
     },
     {
       "symbol": "DEXEUSDT",
-      "reason": "DeXe collapsed 85% from $49 ATH to ~$2 in mid-July 2026 amid rug-pull fears; +10% current move looks like a dead-cat bounce in a severe downtrend"
+      "reason": "Crashed 85-90% in July 2026 on $22M insider/whale spot selling and rug-pull fears; current +10% is a dead-cat bounce from near-zero"
     }
   ],
   "boosted": [
     {
-      "symbol": "PUMPUSDT",
-      "reason": "Pump.fun iOS app returned to US and India on Sep 18, restoring a major user on-ramp; platform ranked #2 in crypto revenue for 2026 ($322M YTD)"
+      "symbol": "ZECUSDT",
+      "reason": "Grayscale ZEC ETF launched Sep 2026 with $233M inflows; 21Shares ETP listed on Euronext Sep 22; NU7 network upgrade activating Sep 30"
     },
     {
-      "symbol": "ZECUSDT",
-      "reason": "Multiple Sep 22 catalysts: Grayscale Zcash ETF 3-for-1 share split ($233M+ inflows), 21Shares ETP launched in Europe; NU7 network upgrade activating Sep 30"
+      "symbol": "PUMPUSDT",
+      "reason": "Pump.fun iOS app returned to US and India on Sep 18 2026; platform generating $322M revenue with $433M token burns; 71% monthly gain"
     }
   ],
   "updatedAt": "2026-09-23T00:00:00Z"
