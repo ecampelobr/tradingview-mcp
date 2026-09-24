@@ -2,30 +2,22 @@
   "blocked": [
     {
       "symbol": "PHBUSDT",
-      "reason": "Delisted from Binance in May 2026 — no exchange liquidity, ongoing post-delisting collapse (-69%)"
+      "reason": "Binance delisted PHB on May 27 2026; no spot/futures market; effectively zero liquidity"
     },
     {
       "symbol": "NFPUSDT",
-      "reason": "Delisted from Binance on July 10, 2026 — confirmed exchange removal, crash is terminal not tradeable"
+      "reason": "Binance delisted NFP on Jul 10 2026; previously hacked; Binance withdrawals closed Sep 9 2026"
     },
     {
-      "symbol": "DEXEUSDT",
-      "reason": "85% crash from ATH ($48.89→$5) in July 2026 driven by whale dumping — dead-cat bounce risk"
+      "symbol": "ZECUSDT",
+      "reason": "Critical unlimited-minting vulnerability in Orchard shielded pool disclosed May 2026; ongoing exchange delistings (OKX, Binance Dubai) due to privacy/compliance pressure in 2026"
     }
   ],
   "boosted": [
     {
-      "symbol": "ZECUSDT",
-      "reason": "Multiple institutional catalysts: Paradigm revealed ZEC holdings, Grayscale ETF 3-for-1 split, 21Shares ETP launch in Europe (all Sep 22), and NU7 upgrade activating Sep 30"
-    },
-    {
       "symbol": "AXTIBUSDT",
-      "reason": "Binance bStock added to S&P SmallCap 600 effective Sep 21 — passive fund buying pressure; strong AI/data-center substrate demand"
-    },
-    {
-      "symbol": "PUMPUSDT",
-      "reason": "Pump.fun iOS app restored to US and India on Sep 18, 2026 — restores major mobile on-ramp; platform ranked #2 in industry revenue at $322M"
+      "reason": "Tokenized AXT Inc stock; S&P SmallCap 600 inclusion effective Sep 21 2026, driven by record AI/semiconductor revenue; genuine fundamental catalyst"
     }
   ],
-  "updatedAt": "2026-09-23T20:03:52Z"
+  "updatedAt": "2026-09-24T00:04:20Z"
 }
