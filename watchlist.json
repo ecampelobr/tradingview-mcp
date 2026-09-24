@@ -1,27 +1,11 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB (Phoenix) in May 2026; -69% reflects ongoing post-delisting death spiral, hit 0.0011 USDT low in August"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisted NFPrompt on July 10 2026; -66% is post-delisting crash, OrangeX also removed pairs in March 2026"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "DEXE crashed 85-96% from $49 ATH (July 13) to ~$1.77 by July 24 amid rug pull allegations; +10% in screen is dead-cat bounce"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on May 27 2026; -69% is ongoing post-delisting decline, not a recovery"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026; -66% is post-delisting crash"},
+    {"symbol": "DEXEUSDT", "reason": "DEXE crashed 85-96% in July 2026 amid staking contract exploit / unlimited minting reports; +10% is dead-cat bounce after near-total collapse"}
   ],
   "boosted": [
-    {
-      "symbol": "PUMPUSDT",
-      "reason": "Pump.fun ranked #2 in 2026 crypto revenue ($322M); iOS app restored to US and India on Sep 18 2026, boosting user on-ramp"
-    },
-    {
-      "symbol": "ZECUSDT",
-      "reason": "ZEC up 2496% in 2026; Grayscale ETF split + 21Shares ETP both launched Sep 22; $98.2M weekly ETF inflows; NU7 upgrade activates Sep 30"
-    }
+    {"symbol": "PUMPUSDT", "reason": "Pump.fun generated $322M real revenue Jan-Sep 2026, one of crypto's largest systematic buyback programs backed by genuine venue revenue"}
   ],
   "updatedAt": "2026-09-24T00:00:00Z"
 }
