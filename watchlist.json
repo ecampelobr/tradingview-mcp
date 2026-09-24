@@ -1,10 +1,19 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB from spot in May 2026; -69% is post-delisting collapse, not a genuine recovery"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP from spot on July 10 2026; -66% is continued post-delisting decline"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted PHB in May 2026; -69% move is ongoing post-delisting structural collapse, not a recovery"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance fully delisted July 10, 2026; withdrawal deadline passed Sep 9, 2026; near-zero liquidity on remaining exchanges, down ~99% from peak"
+    }
   ],
   "boosted": [
-    {"symbol": "ZECUSDT", "reason": "Multiple strong catalysts: Paradigm disclosed ZEC investment, 21Shares launched Zcash ETP in Europe (Sep 22), first time above $1500 in token history (Sep 19)"}
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "Dexelization 2026 AI agent governance upgrade went live; UAE MiCA institutional partnership active — genuine product catalyst"
+    }
   ],
-  "updatedAt": "2026-09-24T00:00:00Z"
+  "updatedAt": "2026-09-24T16:10:00Z"
 }
