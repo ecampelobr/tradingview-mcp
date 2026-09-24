@@ -1,11 +1,10 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on May 27 2026; -69% is ongoing post-delisting decline, not a recovery"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026; -66% is post-delisting crash"},
-    {"symbol": "DEXEUSDT", "reason": "DEXE crashed 85-96% in July 2026 amid staking contract exploit / unlimited minting reports; +10% is dead-cat bounce after near-total collapse"}
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB from spot in May 2026; -69% is post-delisting collapse, not a genuine recovery"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP from spot on July 10 2026; -66% is continued post-delisting decline"}
   ],
   "boosted": [
-    {"symbol": "PUMPUSDT", "reason": "Pump.fun generated $322M real revenue Jan-Sep 2026, one of crypto's largest systematic buyback programs backed by genuine venue revenue"}
+    {"symbol": "ZECUSDT", "reason": "Multiple strong catalysts: Paradigm disclosed ZEC investment, 21Shares launched Zcash ETP in Europe (Sep 22), first time above $1500 in token history (Sep 19)"}
   ],
   "updatedAt": "2026-09-24T00:00:00Z"
 }
