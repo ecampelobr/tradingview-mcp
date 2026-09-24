@@ -1,19 +1,12 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB in May 2026; -69% move is ongoing post-delisting structural collapse, not a recovery"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance fully delisted July 10, 2026; withdrawal deadline passed Sep 9, 2026; near-zero liquidity on remaining exchanges, down ~99% from peak"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on May 27 2026; -69% reflects continued post-delisting collapse, not a recovery"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026; down 99% over past year, token in terminal freefall"},
+    {"symbol": "DEXEUSDT", "reason": "DEXE crashed 85-90% in July 2026 amid rug pull fears ($49→$1.77); current +10% is dead-cat bounce in broken structure"}
   ],
   "boosted": [
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Dexelization 2026 AI agent governance upgrade went live; UAE MiCA institutional partnership active — genuine product catalyst"
-    }
+    {"symbol": "AXTIBUSDT", "reason": "Tokenized AXT Inc. stock; genuine Q2 2026 earnings catalyst — revenue doubled YoY, gross margin 8%→44.9%, AI/data-center demand driving InP wafer orders"},
+    {"symbol": "ZECUSDT", "reason": "Zcash up 2,496% in 2026; Grayscale ETF 3-for-1 split + 21Shares ETP launch in Europe announced Sep 22; $98M weekly ETF inflows — strong institutional adoption wave"}
   ],
-  "updatedAt": "2026-09-24T16:10:00Z"
+  "updatedAt": "2026-09-24T20:05:00Z"
 }
