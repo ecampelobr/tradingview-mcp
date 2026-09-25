@@ -2,18 +2,22 @@
   "blocked": [
     {
       "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB on May 27 2026, followed by multiple other exchanges; -69% move is continued post-delisting liquidity collapse, not a recovery"
+      "reason": "Delisted from Binance spot on 2026-05-27; no longer tradeable on Binance"
     },
     {
       "symbol": "NFPUSDT",
-      "reason": "Binance placed on monitoring April 2026 then delisted; fundamental deterioration (falling engagement, token unlocks, NFT market saturation); -66% is ongoing post-delisting crash"
+      "reason": "Delisted from Binance spot 2026-07-10, withdrawals closed 2026-09-09; token effectively dead on Binance"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "90% crash from $49 ATH in July 2026 amid rug-pull fears and whale dumping; down ~90% over past month, still declining"
     }
   ],
   "boosted": [
     {
-      "symbol": "PUMPUSDT",
-      "reason": "iOS app restored to US/India App Store on Sep 18 2026 with 20 new trading pairs; 50% of new pair revenue allocated to PUMP buyback/burn; $322M YTD platform revenue backing the narrative"
+      "symbol": "AXTIBUSDT",
+      "reason": "Underlying AXTI added to S&P SmallCap 600 (effective 2026-09-21); Goldman Sachs upgraded optical module demand forecasts"
     }
   ],
-  "updatedAt": "2026-09-25T00:00:00Z"
+  "updatedAt": "2026-09-25T08:04:20Z"
 }
