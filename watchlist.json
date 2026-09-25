@@ -2,17 +2,18 @@
   "blocked": [
     {
       "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB on May 27 2026 (all spot/margin/futures); now trades only on HTX with ~$19/day volume — -69% is a dead-cat on a delisted token"
+      "reason": "Binance delisted PHB on May 27 2026, followed by multiple other exchanges; -69% move is continued post-delisting liquidity collapse, not a recovery"
     },
     {
       "symbol": "NFPUSDT",
-      "reason": "Binance delisted NFP on July 10 2026; spot trading stopped then, withdrawal deadline was September 9 2026 — token no longer tradeable on Binance"
-    },
-    {
-      "symbol": "GIGGLEUSDT",
-      "reason": "CZ officially stated 'I don't know who launched it' and Giggle Academy disavowed the token after the July 30 pump — catalyst was a false CZ association, not a genuine endorsement"
+      "reason": "Binance placed on monitoring April 2026 then delisted; fundamental deterioration (falling engagement, token unlocks, NFT market saturation); -66% is ongoing post-delisting crash"
     }
   ],
-  "boosted": [],
+  "boosted": [
+    {
+      "symbol": "PUMPUSDT",
+      "reason": "iOS app restored to US/India App Store on Sep 18 2026 with 20 new trading pairs; 50% of new pair revenue allocated to PUMP buyback/burn; $322M YTD platform revenue backing the narrative"
+    }
+  ],
   "updatedAt": "2026-09-25T00:00:00Z"
 }
