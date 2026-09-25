@@ -1,12 +1,18 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on May 27 2026; -69% reflects continued post-delisting collapse, not a recovery"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026; down 99% over past year, token in terminal freefall"},
-    {"symbol": "DEXEUSDT", "reason": "DEXE crashed 85-90% in July 2026 amid rug pull fears ($49→$1.77); current +10% is dead-cat bounce in broken structure"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted PHB on May 27 2026 (all spot/margin/futures); now trades only on HTX with ~$19/day volume — -69% is a dead-cat on a delisted token"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance delisted NFP on July 10 2026; spot trading stopped then, withdrawal deadline was September 9 2026 — token no longer tradeable on Binance"
+    },
+    {
+      "symbol": "GIGGLEUSDT",
+      "reason": "CZ officially stated 'I don't know who launched it' and Giggle Academy disavowed the token after the July 30 pump — catalyst was a false CZ association, not a genuine endorsement"
+    }
   ],
-  "boosted": [
-    {"symbol": "AXTIBUSDT", "reason": "Tokenized AXT Inc. stock; genuine Q2 2026 earnings catalyst — revenue doubled YoY, gross margin 8%→44.9%, AI/data-center demand driving InP wafer orders"},
-    {"symbol": "ZECUSDT", "reason": "Zcash up 2,496% in 2026; Grayscale ETF 3-for-1 split + 21Shares ETP launch in Europe announced Sep 22; $98M weekly ETF inflows — strong institutional adoption wave"}
-  ],
-  "updatedAt": "2026-09-24T20:05:00Z"
+  "boosted": [],
+  "updatedAt": "2026-09-25T00:00:00Z"
 }
