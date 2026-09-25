@@ -1,23 +1,11 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Delisted from Binance spot on 2026-05-27; no longer tradeable on Binance"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Delisted from Binance spot 2026-07-10, withdrawals closed 2026-09-09; token effectively dead on Binance"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "90% crash from $49 ATH in July 2026 amid rug-pull fears and whale dumping; down ~90% over past month, still declining"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot on May 27 2026; -69% reflects ongoing post-delisting collapse, not a recovery"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP spot in June 2026; -66% is continued post-delisting freefall, not a bounce"}
   ],
   "boosted": [
-    {
-      "symbol": "AXTIBUSDT",
-      "reason": "Underlying AXTI added to S&P SmallCap 600 (effective 2026-09-21); Goldman Sachs upgraded optical module demand forecasts"
-    }
+    {"symbol": "AXTIBUSDT", "reason": "Underlying AXTI added to S&P SmallCap 600 effective Sept 21 2026 + record Q2 earnings ($47.6M revenue); genuine index-inclusion catalyst"},
+    {"symbol": "ZECUSDT", "reason": "Grayscale ZEC ETF 3-for-1 split + 21Shares European ZEC ETP both launched Sept 22 2026; SEC closed investigation without enforcement earlier in 2026"}
   ],
-  "updatedAt": "2026-09-25T08:04:20Z"
+  "updatedAt": "2026-09-25T00:00:00Z"
 }
