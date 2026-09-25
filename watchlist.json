@@ -1,23 +1,12 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "PHB (Phoenix) delisted from Binance May 2026; -69% is post-delisting crash, not a real recovery"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "NFP delisted from Binance July 10 2026; Binance withdrawal deadline was Sep 9 (now expired); effectively stranded liquidity"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted Phoenix (PHB) May 2026; -69.4% is post-delisting collapse, not recovery"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFPrompt on 2026-07-10; -66.2% is dead-cat bounce risk after confirmed delisting"},
+    {"symbol": "BNBUSDT", "reason": "DOJ launched new Iran sanctions probe into Binance on 2026-09-21; fresh material regulatory headwind"}
   ],
   "boosted": [
-    {
-      "symbol": "ZECUSDT",
-      "reason": "Strong institutional catalysts Sep 22: Grayscale ZEC ETF 3-for-1 split with $233M+ inflows, 21Shares ZEC ETP launched in Europe; ZEC hit new ATH $1,650"
-    },
-    {
-      "symbol": "PUMPUSDT",
-      "reason": "Pump.fun iOS app returned to US and India Sep 18 restoring major user on-ramp; platform ranked 2nd in 2026 crypto revenue at $322M"
-    }
+    {"symbol": "PUMPUSDT", "reason": "#2 crypto revenue earner YTD ($322M), active buyback program backed by real exchange revenue"},
+    {"symbol": "ZECUSDT", "reason": "Grayscale ZEC Trust 3-for-1 split + 21Shares ETP Europe launch both on 2026-09-22; fresh institutional catalysts"}
   ],
-  "updatedAt": "2026-09-25T16:03:58Z"
+  "updatedAt": "2026-09-25T00:00:00Z"
 }
