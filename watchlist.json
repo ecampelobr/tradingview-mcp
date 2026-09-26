@@ -2,29 +2,21 @@
   "blocked": [
     {
       "symbol": "PHBUSDT",
-      "reason": "Delisted from Binance on May 27 2026; withdrawals closed same day — untradeable on exchange"
+      "reason": "Delisted from Binance May 2026 after periodic review; ongoing price collapse (-69%)"
     },
     {
       "symbol": "NFPUSDT",
-      "reason": "Delisted from Binance July 10 2026; withdrawals closed September 9 2026 — completely off Binance"
+      "reason": "Delisted from Binance July 10, 2026; withdrawals closed September 9 — pair effectively dead"
     },
     {
       "symbol": "DEXEUSDT",
-      "reason": "97% crash in July 2026 on unverified team wallet-to-exchange transfers; top 10 wallets hold 98% of supply — dead-cat bounce risk"
-    },
-    {
-      "symbol": "GIGGLEUSDT",
-      "reason": "Binance Seed Tag (high-risk flag) plus active fraud alerts and expert reservations flagged by market participants"
+      "reason": "97% crash in July 2026 amid alleged team wallet dumps to exchanges; top 10 wallets hold ~98% of supply — extreme centralization/rug risk"
     }
   ],
   "boosted": [
     {
       "symbol": "ZECUSDT",
-      "reason": "Grayscale ZEC ETF 3-for-1 share split and 21Shares ZEC ETP launched in Europe both on September 22 2026 — fresh institutional catalysts"
-    },
-    {
-      "symbol": "PUMPUSDT",
-      "reason": "Pump.fun generated $322M revenue YTD through Sept 15 2026 with $433M in token burns; fundamentals support the price move"
+      "reason": "Grayscale Zcash ETF split and 21Shares European ETP both launched September 22, 2026; strong institutional momentum with ZEC near 2026 ATH"
     }
   ],
   "updatedAt": "2026-09-26T00:00:00Z"
