@@ -1,12 +1,11 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB in May 2026; -69% is ongoing post-delisting collapse, not a recovery"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP July 10, 2026 after Monitoring Tag; -66% is the delisting crash"},
-    {"symbol": "DEXEUSDT", "reason": "Dead-cat bounce after -90% monthly crash; top wallets hold ~98% of supply — extreme manipulation risk"}
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB (Phoenix) May 2026; cascading delistings on other exchanges; continued severe volatility from delisting fallout"},
+    {"symbol": "NFPUSDT", "reason": "Confirmed Binance full delisting of NFPrompt (monitoring tag Apr 2026, full shutdown schedule); -66% crash directly tied to delisting"}
   ],
   "boosted": [
-    {"symbol": "AXTIBUSDT", "reason": "Tokenized AXT Inc. stock; underlying added to S&P SmallCap 600 on Sept 21 — genuine index-inclusion catalyst"},
-    {"symbol": "ZECUSDT", "reason": "Grayscale ZEC ETF 3-for-1 share split + 21Shares ETP Europe launch + NU7 network upgrade imminent"}
+    {"symbol": "PUMPUSDT", "reason": "Binance US listing catalyst; $322M revenue in 2026; $30M+ buyback program; active addresses hit ATH on listing"},
+    {"symbol": "ZECUSDT", "reason": "21Shares Zcash ETP launched in Europe Sept 22; Grayscale ETF $949M AUM; $98.2M weekly ETF inflows; ZEC crossed $1600 this week"}
   ],
-  "updatedAt": "2026-09-26T08:03:27Z"
+  "updatedAt": "2026-09-26T00:00:00Z"
 }
