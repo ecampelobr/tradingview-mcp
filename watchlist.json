@@ -1,27 +1,11 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance-delisted May 2026; -69% is crash continuation/dead-cat bounce, not recoverable signal"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance-delisted July 10 2026, also delisted from Bybit and Bitget; effectively a dead token"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "97% crash in July 2026 amid rug pull accusations (large insider dumps before crash); no confirmed resolution"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot/margin/futures May 27 2026; -69% is delisting-driven collapse, not recoverable"},
+    {"symbol": "NFPUSDT", "reason": "Binance spot delisting executed July 10 2026; -66% crash is ongoing post-delisting sell-off"},
+    {"symbol": "DEXEUSDT", "reason": "Crashed 85% from $48.89 ATH on July 13 to ~$4-5 due to whale dumping; top 10 wallets hold 98% of supply; +10% bounce likely dead-cat"}
   ],
   "boosted": [
-    {
-      "symbol": "PUMPUSDT",
-      "reason": "iOS app restored to US and India on Sep 18 2026; tokenomics overhaul with planned 36% token burn announced"
-    },
-    {
-      "symbol": "ZECUSDT",
-      "reason": "Grayscale Zcash Trust ETF surpassed $1B AUM; 21Shares ETP launched in Europe Sep 22; $284M September institutional inflows"
-    }
+    {"symbol": "ZECUSDT", "reason": "Genuine catalysts: 21Shares Zcash ETP launched in Europe, NU7 upgrade cutting block times 75→25s, quantum-resistant crypto planned, short liquidations ongoing"}
   ],
   "updatedAt": "2026-09-27T00:00:00Z"
 }
