@@ -1,11 +1,11 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on May 27 2026; -69% crash driven by delisting, not a genuine setup"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP July 10 2026; Binance withdrawal window closed Sept 9 — pair is effectively dead"},
-    {"symbol": "DEXEUSDT", "reason": "Top 10 wallets hold 98% of supply; crashed 97% from $49 to $1.60 in July 2026 — extreme whale manipulation risk"}
+    {"symbol": "PHBUSDT", "reason": "Binance spot delisted May 2026; post-delisting downtrend, price -98% from pre-delist levels, extreme volatility"},
+    {"symbol": "NFPUSDT", "reason": "Binance spot delisted July 10 2026; -66% is active post-delisting crash, no recovery path on Binance"},
+    {"symbol": "DEXEUSDT", "reason": "97% crash from Jul 13 ATH amid rug pull fears; bounce from $4 support unconfirmed, fundamental questions unresolved"}
   ],
   "boosted": [
-    {"symbol": "ZECUSDT", "reason": "Grayscale Zcash ETF inflows $233M (Sept 22), 21Shares ETP launched in Europe, NU7 upgrade activating within days"}
+    {"symbol": "XECUSDT", "reason": "ASTER DEX perpetuals listing catalyst drove 55%+ surge with record open interest; genuine demand catalyst"}
   ],
   "updatedAt": "2026-09-27T00:00:00Z"
 }
