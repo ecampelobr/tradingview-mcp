@@ -1,10 +1,27 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot/margin/futures on May 27 2026; -69% is post-delisting collapse not a trade"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on Jul 10 2026; Bybit/OrangeX also removed it; -66% is ongoing post-delisting decline"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance-delisted May 2026; -69% is crash continuation/dead-cat bounce, not recoverable signal"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance-delisted July 10 2026, also delisted from Bybit and Bitget; effectively a dead token"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "97% crash in July 2026 amid rug pull accusations (large insider dumps before crash); no confirmed resolution"
+    }
   ],
   "boosted": [
-    {"symbol": "AXTIBUSDT", "reason": "AXT Inc bStock: S&P SmallCap 600 addition effective Sep 21 2026 plus strong Q2 earnings ($47.6M rev, profitable)"}
+    {
+      "symbol": "PUMPUSDT",
+      "reason": "iOS app restored to US and India on Sep 18 2026; tokenomics overhaul with planned 36% token burn announced"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "reason": "Grayscale Zcash Trust ETF surpassed $1B AUM; 21Shares ETP launched in Europe Sep 22; $284M September institutional inflows"
+    }
   ],
-  "updatedAt": "2026-09-27T00:04:13Z"
+  "updatedAt": "2026-09-27T00:00:00Z"
 }
