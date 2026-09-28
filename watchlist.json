@@ -1,19 +1,12 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance-delisted May 27 2026; -69% is post-delisting collapse with sharply reduced liquidity"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance spot trading stopped Jul 10 2026, withdrawals closed Sep 9 2026; fully removed from Binance"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB in May 2026; price collapsed from $0.13 to ~$0.001, ongoing liquidity destruction"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026; crash was delisting-driven, not a tradable recovery"},
+    {"symbol": "BNBUSDT", "reason": "U.S. DOJ moved to seize ~$61M in Binance-held funds on Sep 14 over Iran sanctions violations; active regulatory overhang"}
   ],
   "boosted": [
-    {
-      "symbol": "ZECUSDT",
-      "reason": "21Shares ZEC ETP launched in Europe Sep 22; Grayscale ZCSH 3-for-1 split record date Sep 28; ZEC above $1,500 for first time since 2016"
-    }
+    {"symbol": "AXTIBUSDT", "reason": "Underlying AXT Inc. (tokenized bStock): record Q2 revenue ~$47.6M, swing to profitability, fresh S&P SmallCap 600 inclusion"},
+    {"symbol": "ZECUSDT", "reason": "Grayscale ZEC ETF 3-for-1 split + 21Shares ZEC ETP (Europe) both launched Sep 22; ZEC hit all-time high $1693 on Sep 26"}
   ],
-  "updatedAt": "2026-09-28T00:00:00Z"
+  "updatedAt": "2026-09-28T08:05:17Z"
 }
