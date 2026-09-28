@@ -1,12 +1,23 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted May 27 2026; all spot/margin/futures trading suspended"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted Jul 10 2026; withdrawal deadline Sep 9 passed; untradeable on Binance"},
-    {"symbol": "BNBUSDT", "reason": "Active US DOJ Iran sanctions probe announced Sep 21 2026; $61M forfeiture complaint filed"},
-    {"symbol": "GIGGLEUSDT", "reason": "Dead-cat bounce from -87% ATH with 0.47 cleanliness; GoPlus: creator can disable sells and mint tokens"}
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Fully delisted from Binance on 2026-07-10; withdrawal window closed 2026-09-09 — no trading or withdrawal possible"
+    },
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisting announced 2026-05-27 causing -38% crash; -69% total decline reflects post-delisting collapse"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "Team-linked wallets dumped 625k DEXE to Binance on 2026-07-21; 80-90% crash from $49 ATH; rug pull fears; top 10 wallets hold ~98% of supply"
+    }
   ],
   "boosted": [
-    {"symbol": "ZECUSDT", "reason": "Grayscale ZEC ETF 3-for-1 share split + 21Shares European ETP both launched Sep 22 2026"}
+    {
+      "symbol": "ZECUSDT",
+      "reason": "Grayscale spot Zcash ETF (ZCSH) listed 2026-08-25 with $500M+ inflows; ZEC hit multi-year high $1,693 on 2026-09-26; NU7 upgrade incoming"
+    }
   ],
   "updatedAt": "2026-09-28T00:00:00Z"
 }
