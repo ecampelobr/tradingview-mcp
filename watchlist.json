@@ -1,11 +1,19 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance spot delisted May 2026; post-delisting downtrend, price -98% from pre-delist levels, extreme volatility"},
-    {"symbol": "NFPUSDT", "reason": "Binance spot delisted July 10 2026; -66% is active post-delisting crash, no recovery path on Binance"},
-    {"symbol": "DEXEUSDT", "reason": "97% crash from Jul 13 ATH amid rug pull fears; bounce from $4 support unconfirmed, fundamental questions unresolved"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance-delisted May 27 2026; -69% is post-delisting collapse with sharply reduced liquidity"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance spot trading stopped Jul 10 2026, withdrawals closed Sep 9 2026; fully removed from Binance"
+    }
   ],
   "boosted": [
-    {"symbol": "XECUSDT", "reason": "ASTER DEX perpetuals listing catalyst drove 55%+ surge with record open interest; genuine demand catalyst"}
+    {
+      "symbol": "ZECUSDT",
+      "reason": "21Shares ZEC ETP launched in Europe Sep 22; Grayscale ZCSH 3-for-1 split record date Sep 28; ZEC above $1,500 for first time since 2016"
+    }
   ],
-  "updatedAt": "2026-09-27T00:00:00Z"
+  "updatedAt": "2026-09-28T00:00:00Z"
 }
