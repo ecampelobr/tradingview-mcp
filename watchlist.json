@@ -1,23 +1,11 @@
 {
   "blocked": [
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Fully delisted from Binance on 2026-07-10; withdrawal window closed 2026-09-09 — no trading or withdrawal possible"
-    },
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisting announced 2026-05-27 causing -38% crash; -69% total decline reflects post-delisting collapse"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Team-linked wallets dumped 625k DEXE to Binance on 2026-07-21; 80-90% crash from $49 ATH; rug pull fears; top 10 wallets hold ~98% of supply"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot May 2026; -69% is dead-cat bounce post-delisting, extreme delisting risk"},
+    {"symbol": "NFPUSDT", "reason": "Binance and Bitget both delisted NFP on July 10 2026; token essentially dead, -66% is post-delisting crash"},
+    {"symbol": "DEXEUSDT", "reason": "DEXE crashed 85-90% from $48.89 ATH in July 2026 amid rug pull fears; +10% is dead-cat bounce"}
   ],
   "boosted": [
-    {
-      "symbol": "ZECUSDT",
-      "reason": "Grayscale spot Zcash ETF (ZCSH) listed 2026-08-25 with $500M+ inflows; ZEC hit multi-year high $1,693 on 2026-09-26; NU7 upgrade incoming"
-    }
+    {"symbol": "ZECUSDT", "reason": "Grayscale ZEC ETF launched with $233M inflows + 21Shares ETP in Europe both Sep 22 2026, strong institutional catalyst"}
   ],
   "updatedAt": "2026-09-28T00:00:00Z"
 }
