@@ -1,12 +1,19 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "PHB delisted from Binance spot May 2026; token down 99%+ over last year; -69% 24h is continued dead-pair collapse, not tradeable"},
-    {"symbol": "NFPUSDT", "reason": "Binance Monitoring Tag active (delisting risk); Bitget already delisted July 2026; -66% 24h crash reflects terminal sell pressure"},
-    {"symbol": "DEXEUSDT", "reason": "Crashed 85-96% in July 2026 on staking exploit enabling unlimited token minting; rug pull fears confirmed; current +10% is dead-cat bounce from crash lows"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted PHB in May 2026; token collapsed 69%+ and reached $0.0011 low in August — ongoing dead-cat bounce with extreme illiquidity"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance delisted NFP on July 10 2026; Binance withdrawal deadline passed September 9 — token in structural freefall with no major exchange support"
+    }
   ],
   "boosted": [
-    {"symbol": "AXTIBUSDT", "reason": "Real Q2 2026 earnings catalyst: AXT Inc revenue +77% QoQ, gross margin 44.9%, S&P SmallCap 600 inclusion; tokenized stock derivative move is fundamentally driven"},
-    {"symbol": "ZECUSDT", "reason": "Strong institutional inflows: Grayscale ZEC ETF at $979M AUM (+$284M this month), 21Shares launched Europe ZEC ETP Sep 22; ZEC up 91% in 30 days on genuine demand"}
+    {
+      "symbol": "ZECUSDT",
+      "reason": "Grayscale launched Zcash ETF share split and 21Shares launched Zcash ETP in Europe on Sept 22 2026; institutional inflows exceeded $233M and price hit new highs Sept 26"
+    }
   ],
-  "updatedAt": "2026-09-29T14:00:00Z"
+  "updatedAt": "2026-09-29T00:00:00Z"
 }
