@@ -1,10 +1,12 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Delisted from Binance May 2026; continued severe price destruction (-69% in 24h); no longer tradeable on Binance spot"},
-    {"symbol": "NFPUSDT", "reason": "Terminal token decline: -99.6% YoY, -71% weekly, prior hack history; -66% daily move is a dead-cat bounce, not recovery"}
+    {"symbol": "PHBUSDT", "reason": "PHB delisted from Binance spot May 2026; token down 99%+ over last year; -69% 24h is continued dead-pair collapse, not tradeable"},
+    {"symbol": "NFPUSDT", "reason": "Binance Monitoring Tag active (delisting risk); Bitget already delisted July 2026; -66% 24h crash reflects terminal sell pressure"},
+    {"symbol": "DEXEUSDT", "reason": "Crashed 85-96% in July 2026 on staking exploit enabling unlimited token minting; rug pull fears confirmed; current +10% is dead-cat bounce from crash lows"}
   ],
   "boosted": [
-    {"symbol": "AXTIBUSDT", "reason": "Genuine catalyst: AXT Inc. added to S&P SmallCap 600 index effective Sep 21 2026, plus record Q2 earnings"}
+    {"symbol": "AXTIBUSDT", "reason": "Real Q2 2026 earnings catalyst: AXT Inc revenue +77% QoQ, gross margin 44.9%, S&P SmallCap 600 inclusion; tokenized stock derivative move is fundamentally driven"},
+    {"symbol": "ZECUSDT", "reason": "Strong institutional inflows: Grayscale ZEC ETF at $979M AUM (+$284M this month), 21Shares launched Europe ZEC ETP Sep 22; ZEC up 91% in 30 days on genuine demand"}
   ],
-  "updatedAt": "2026-09-29T12:04:52Z"
+  "updatedAt": "2026-09-29T14:00:00Z"
 }
