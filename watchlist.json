@@ -1,19 +1,10 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB (Phoenix) in May 2026; -69% crash is post-delisting death spiral with no recovery path on major exchanges"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance spot-delisted NFPrompt on July 10 2026; withdrawals closed September 9 2026 — token effectively off Binance, -66% terminal decline"
-    }
+    {"symbol": "PHBUSDT", "reason": "Delisted from Binance May 2026; continued severe price destruction (-69% in 24h); no longer tradeable on Binance spot"},
+    {"symbol": "NFPUSDT", "reason": "Terminal token decline: -99.6% YoY, -71% weekly, prior hack history; -66% daily move is a dead-cat bounce, not recovery"}
   ],
   "boosted": [
-    {
-      "symbol": "ZECUSDT",
-      "reason": "Grayscale ZEC ETF share split + 21Shares Zcash ETP both launched September 22 2026; ZEC up ~2,500% YTD with accelerating institutional adoption"
-    }
+    {"symbol": "AXTIBUSDT", "reason": "Genuine catalyst: AXT Inc. added to S&P SmallCap 600 index effective Sep 21 2026, plus record Q2 earnings"}
   ],
-  "updatedAt": "2026-09-29T00:00:00Z"
+  "updatedAt": "2026-09-29T12:04:52Z"
 }
