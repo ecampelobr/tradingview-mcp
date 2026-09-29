@@ -2,21 +2,17 @@
   "blocked": [
     {
       "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB (Phoenix) on May 27 2026; -69% is continued post-delisting collapse, not a recovery"
+      "reason": "Binance delisted PHB (Phoenix) in May 2026; -69% crash is post-delisting death spiral with no recovery path on major exchanges"
     },
     {
       "symbol": "NFPUSDT",
-      "reason": "Binance delisted NFP (NFPrompt) July 10 2026 (3 weeks ago); -66% is a direct post-delisting dump with Bitget also delisting"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "DEXE crashed 85-97% from $48.89 ATH in July 2026 amid rug-pull fears; top 10 wallets hold 98% of supply; +10% is a dead-cat bounce"
+      "reason": "Binance spot-delisted NFPrompt on July 10 2026; withdrawals closed September 9 2026 — token effectively off Binance, -66% terminal decline"
     }
   ],
   "boosted": [
     {
-      "symbol": "PUMPUSDT",
-      "reason": "Multiple genuine catalysts: $370M token burn announced, 50% revenue buyback program active, iOS app restored in US/India, $322M revenue YTD 2026"
+      "symbol": "ZECUSDT",
+      "reason": "Grayscale ZEC ETF share split + 21Shares Zcash ETP both launched September 22 2026; ZEC up ~2,500% YTD with accelerating institutional adoption"
     }
   ],
   "updatedAt": "2026-09-29T00:00:00Z"
