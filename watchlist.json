@@ -1,11 +1,27 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot May 2026; -69% is dead-cat bounce post-delisting, extreme delisting risk"},
-    {"symbol": "NFPUSDT", "reason": "Binance and Bitget both delisted NFP on July 10 2026; token essentially dead, -66% is post-delisting crash"},
-    {"symbol": "DEXEUSDT", "reason": "DEXE crashed 85-90% from $48.89 ATH in July 2026 amid rug pull fears; +10% is dead-cat bounce"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted PHB in May 2026; ongoing delisting aftermath with 96%+ daily volatility and sustained crash"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance Monitoring Tag active (delisting risk); Bitget already delisted NFP/USDT July 10 2026; down 99% from ATH"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "97% crash in July 2026 on team wallet dump-to-exchange allegations; +10% is dead-cat bounce; 98% supply in top-10 wallets"
+    }
   ],
   "boosted": [
-    {"symbol": "ZECUSDT", "reason": "Grayscale ZEC ETF launched with $233M inflows + 21Shares ETP in Europe both Sep 22 2026, strong institutional catalyst"}
+    {
+      "symbol": "PUMPUSDT",
+      "reason": "Pump.fun ranked #2 crypto revenue generator YTD 2026 ($322M); iOS app restored; multi-chain expansion underway"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "reason": "SEC investigation closed Jan 2026; Grayscale ZEC ETF with $233M inflows; 21Shares ETP launched Europe Sep 2026"
+    }
   ],
-  "updatedAt": "2026-09-28T00:00:00Z"
+  "updatedAt": "2026-09-29T00:00:00Z"
 }
