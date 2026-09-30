@@ -1,11 +1,19 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB (Phoenix) May 27 2026; -69% is delisting crash fallout, dead-cat bounce risk"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP (NFPrompt) July 10 2026; -66% is delisting crash fallout, hit all-time low Sept 16"},
-    {"symbol": "DEXEUSDT", "reason": "85-95% crash from July high amid rug pull fears; +10% is dead-cat bounce into broken structure"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted May 27 2026; near-zero liquidity and extreme volatility post-delisting"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance delisted July 10 2026; withdrawals closed Sep 9 2026 — asset frozen on Binance"
+    }
   ],
   "boosted": [
-    {"symbol": "ZECUSDT", "reason": "Multiple institutional ETP/ETF launches late Sept 2026 (Grayscale split, 21Shares, Valour); Bitcoin privacy integration proposal adds narrative"}
+    {
+      "symbol": "ZECUSDT",
+      "reason": "Grayscale Zcash ETF ($306M inflows since Aug); Valour ETP launched Sep 29 2026 — institutional adoption catalyst"
+    }
   ],
-  "updatedAt": "2026-09-30T08:03:37Z"
+  "updatedAt": "2026-09-30T00:00:00Z"
 }
