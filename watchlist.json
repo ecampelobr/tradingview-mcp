@@ -1,19 +1,12 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted May 27 2026; near-zero liquidity and extreme volatility post-delisting"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisted July 10 2026; withdrawals closed Sep 9 2026 — asset frozen on Binance"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance-delisted May 2026; -69% is direct post-delisting crash, not a recovery"},
+    {"symbol": "NFPUSDT", "reason": "Binance and Bitget both delisted July 10 2026; -66% is delisting-driven collapse"},
+    {"symbol": "DEXEUSDT", "reason": "85-97% crash in July 2026 amid rug-pull fears; top 5 wallets hold 96% of supply; +10% is a fragile dead-cat bounce"},
+    {"symbol": "ZECUSDT", "reason": "North Korean hackers funneled $3.9M from Bitget hack into Zcash pool Sep 30 2026; critical counterfeiting vuln May 2026; EU ban Jul 2027"}
   ],
   "boosted": [
-    {
-      "symbol": "ZECUSDT",
-      "reason": "Grayscale Zcash ETF ($306M inflows since Aug); Valour ETP launched Sep 29 2026 — institutional adoption catalyst"
-    }
+    {"symbol": "PUMPUSDT", "reason": "Recent Binance listing drove genuine demand spike; active addresses at ATH; platform generating $2M/day revenue"}
   ],
-  "updatedAt": "2026-09-30T00:00:00Z"
+  "updatedAt": "2026-09-30T16:04:32Z"
 }
