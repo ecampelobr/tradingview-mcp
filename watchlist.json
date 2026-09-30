@@ -1,27 +1,11 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance-delisted May 2026; post-delisting collapse with 96% daily swings; liquidity severely impaired"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisted Jul 10 2026; spot+futures ended; withdrawals closed Sep 9 — no Binance support remaining"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Team dumped 625K tokens to Binance in Jul 2026 triggering 97% crash; top 10 wallets hold 98% of supply — ongoing manipulation risk"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB (Phoenix) May 27 2026; -69% is delisting crash fallout, dead-cat bounce risk"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP (NFPrompt) July 10 2026; -66% is delisting crash fallout, hit all-time low Sept 16"},
+    {"symbol": "DEXEUSDT", "reason": "85-95% crash from July high amid rug pull fears; +10% is dead-cat bounce into broken structure"}
   ],
   "boosted": [
-    {
-      "symbol": "AXTIBUSDT",
-      "reason": "Tokenized AXT Inc. stock; record Q2 2026 earnings (164% YoY revenue growth) on AI data center demand; co-packaged optics win Sep 2026"
-    },
-    {
-      "symbol": "ZECUSDT",
-      "reason": "Grayscale ZEC ETF 3-for-1 split effective Sep 30; 21Shares ETP launched in Europe; $233M+ institutional inflows — strong recent catalyst"
-    }
+    {"symbol": "ZECUSDT", "reason": "Multiple institutional ETP/ETF launches late Sept 2026 (Grayscale split, 21Shares, Valour); Bitcoin privacy integration proposal adds narrative"}
   ],
-  "updatedAt": "2026-09-30T04:04:29Z"
+  "updatedAt": "2026-09-30T08:03:37Z"
 }
