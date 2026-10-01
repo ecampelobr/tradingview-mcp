@@ -1,19 +1,12 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisting announced May 2026; price in post-delisting collapse (ATL $0.0011 in Aug); -69% is dead-cat bounce, not recovery"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Bitget delisted Jul 2026 with Oct 2026 withdrawal deadline driving panic selling; prior 70% Coinone crash from hack; 95%+ decline since listing"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB May 2026; liquidity gutted, ongoing extreme volatility (-69% daily), terminal decline"},
+    {"symbol": "NFPUSDT", "reason": "NFPrompt down 88.71% YTD with no recovery catalyst; -66% single-day drop signals terminal decline"},
+    {"symbol": "DEXEUSDT", "reason": "Crashed 85% from ATH amid rug pull fears in late July 2026; current +10% bounce likely dead-cat"}
   ],
   "boosted": [
-    {
-      "symbol": "PUMPUSDT",
-      "reason": "Pump.fun spent $466M in buybacks removing 16.84% of supply; Binance US listing catalyst; +49.6% 7-day gain with derivatives volume +198%"
-    }
+    {"symbol": "PUMPUSDT", "reason": "Pump.fun burning 17% of supply, $15M/week platform revenue, SEC cleared buybacks as non-security; strong momentum"},
+    {"symbol": "AXTIBUSDT", "reason": "Underlying AXTI stock added to S&P SmallCap 600 on Sep 29 2026; genuine institutional catalyst driving tokenized stock demand"}
   ],
   "updatedAt": "2026-10-01T00:00:00Z"
 }
