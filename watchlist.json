@@ -1,12 +1,12 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB May 27 2026; market cap ~$186K; zombie token in continued post-delisting decline"},
-    {"symbol": "NFPUSDT", "reason": "NFPrompt spot trading suspended Binance Jul 10; withdrawals halted Sep 9 2026; effectively dead on Binance"},
-    {"symbol": "DEXEUSDT", "reason": "DEXE collapsed 85% from ATH Jul 2026 on rug-pull fears and heavy insider selling; +10% is a dead-cat bounce"}
+    {"symbol": "PHBUSDT", "reason": "Delisted from Binance in May 2026; -69% is post-delisting crash, no longer tradeable on Binance"},
+    {"symbol": "NFPUSDT", "reason": "Delisted from Binance July 10 2026; withdrawals closed Sep 9 2026; untradeable on Binance"},
+    {"symbol": "AXTIBUSDT", "reason": "Robinhood Chain rug-pull drained $18.43M across 53 token launches on Sep 27 2026; AXTI is a Robinhood Chain tokenized stock"},
+    {"symbol": "DEXEUSDT", "reason": "Crashed 85% from ATH in July 2026 amid rug-pull fears; +10% in screen is a dead-cat bounce"}
   ],
   "boosted": [
-    {"symbol": "AXTIBUSDT", "reason": "AXT Inc tokenized stock added to S&P SmallCap 600 Sep 21 2026; $87M Lumentum InP wafer deal; AI semiconductor demand surge"},
-    {"symbol": "ZECUSDT", "reason": "Valour ZEC ETP launched Sep 29 2026; Grayscale ZCSH ETF active; NU7 testnet activation Oct 6 tripling network speed"}
+    {"symbol": "PUMPUSDT", "reason": "Binance listing catalyst drove 13-17% surge; strong protocol revenue ($15M/wk) and active supply burn program"}
   ],
   "updatedAt": "2026-10-01T00:00:00Z"
 }
