@@ -1,12 +1,19 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Delisted from Binance in May 2026; -69% is post-delisting crash, no longer tradeable on Binance"},
-    {"symbol": "NFPUSDT", "reason": "Delisted from Binance July 10 2026; withdrawals closed Sep 9 2026; untradeable on Binance"},
-    {"symbol": "AXTIBUSDT", "reason": "Robinhood Chain rug-pull drained $18.43M across 53 token launches on Sep 27 2026; AXTI is a Robinhood Chain tokenized stock"},
-    {"symbol": "DEXEUSDT", "reason": "Crashed 85% from ATH in July 2026 amid rug-pull fears; +10% in screen is a dead-cat bounce"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisting announced May 2026; price in post-delisting collapse (ATL $0.0011 in Aug); -69% is dead-cat bounce, not recovery"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Bitget delisted Jul 2026 with Oct 2026 withdrawal deadline driving panic selling; prior 70% Coinone crash from hack; 95%+ decline since listing"
+    }
   ],
   "boosted": [
-    {"symbol": "PUMPUSDT", "reason": "Binance listing catalyst drove 13-17% surge; strong protocol revenue ($15M/wk) and active supply burn program"}
+    {
+      "symbol": "PUMPUSDT",
+      "reason": "Pump.fun spent $466M in buybacks removing 16.84% of supply; Binance US listing catalyst; +49.6% 7-day gain with derivatives volume +198%"
+    }
   ],
   "updatedAt": "2026-10-01T00:00:00Z"
 }
