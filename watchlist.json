@@ -1,27 +1,12 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB (Phoenix) in May 2026; -69% is delisting crash aftermath with extreme ongoing volatility"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance spot delisted NFPrompt effective July 10 2026 (after earlier hack); -66% is direct delisting consequence"
-    },
-    {
-      "symbol": "GIGGLEUSDT",
-      "reason": "Unofficial unauthorized memecoin; Giggle Academy officially states it has never issued any token and warns of scams"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Collapsed 85%+ from July 2026 ATH amid unresolved rug pull fears; +10% in screen is dead-cat bounce on broken structure"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB May 27 2026; market cap ~$186K; zombie token in continued post-delisting decline"},
+    {"symbol": "NFPUSDT", "reason": "NFPrompt spot trading suspended Binance Jul 10; withdrawals halted Sep 9 2026; effectively dead on Binance"},
+    {"symbol": "DEXEUSDT", "reason": "DEXE collapsed 85% from ATH Jul 2026 on rug-pull fears and heavy insider selling; +10% is a dead-cat bounce"}
   ],
   "boosted": [
-    {
-      "symbol": "PUMPUSDT",
-      "reason": "Pump.fun has burned $466M+ worth of tokens (29% supply removed), ranks top-3 in all-crypto protocol revenue, Binance listing catalyst still active"
-    }
+    {"symbol": "AXTIBUSDT", "reason": "AXT Inc tokenized stock added to S&P SmallCap 600 Sep 21 2026; $87M Lumentum InP wafer deal; AI semiconductor demand surge"},
+    {"symbol": "ZECUSDT", "reason": "Valour ZEC ETP launched Sep 29 2026; Grayscale ZCSH ETF active; NU7 testnet activation Oct 6 tripling network speed"}
   ],
   "updatedAt": "2026-10-01T00:00:00Z"
 }
