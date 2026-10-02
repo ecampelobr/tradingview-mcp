@@ -1,31 +1,12 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance-delisted May 2026; -69% is dead-cat bounce on zombie token now at ~$0.002 with no major exchange liquidity"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance and Bitget delisted July 2026; -66% is ongoing post-delisting collapse with near-zero major-venue liquidity"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Crashed 85% from July ATH of $48.89 amid rug-pull fears and confirmed heavy insider selling; +10% today is a dead-cat bounce"
-    },
-    {
-      "symbol": "PUMPUSDT",
-      "reason": "$34.58M token unlock (8.96B PUMP) scheduled Oct 12 — significant supply dilution risk in ~10 days"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted spot May 27 2026; -69% crash is exchange exit collapse, not recovery"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted July 10 2026 (3 weeks before screen); -88% YoY, dead-cat bounce risk"},
+    {"symbol": "DEXEUSDT", "reason": "85% crash from $48 ATH; top 10 wallets hold ~98% of supply; rug pull fears reported"}
   ],
   "boosted": [
-    {
-      "symbol": "ZECUSDT",
-      "reason": "SEC closed Zcash investigation without enforcement (Jan 2026); Valour ZEC ETP launched on Sweden exchange Sept 29; $8.4M governance funding approved Oct 1"
-    },
-    {
-      "symbol": "AXTIBUSDT",
-      "reason": "Tokenized AXT stock: S&P 600 inclusion, strong Q2 results, analyst upgrades on AI/data-center optics demand, earnings Oct 29"
-    }
+    {"symbol": "XECUSDT", "reason": "ECX fork mainnet snapshot Oct 31 2026 (1:1 BTC allocation) driving near-term demand"},
+    {"symbol": "ZECUSDT", "reason": "$8.4M security grants approved Oct 1; NU7 upgrade Nov 5; +94% past month with strong fundamentals"}
   ],
   "updatedAt": "2026-10-02T00:00:00Z"
 }
