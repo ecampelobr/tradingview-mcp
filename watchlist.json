@@ -1,9 +1,19 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on May 27 2026; ongoing crash aftermath from delisting event"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026; crash is direct post-delisting aftermath"},
-    {"symbol": "DEXEUSDT", "reason": "Suspected insider dump: project wallets sent 625K DEXE to Binance mid-July, crashed 97% from $48.89 ATH; +10% bounce is dead-cat pattern"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Delisted from Binance spot/futures May 27 2026; -69% reflects ongoing post-delisting collapse, not a tradeable bounce"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Delisted from Binance spot July 10 2026 after monitoring tag in April; -66% is a post-delisting crash with no recovery path on Binance"
+    }
   ],
-  "boosted": [],
-  "updatedAt": "2026-10-02T12:04:59Z"
+  "boosted": [
+    {
+      "symbol": "AXTIBUSDT",
+      "reason": "Underlying AXTI added to S&P SmallCap 600 effective Sept 21 2026, creating mechanical passive-fund buying; Q3 earnings catalyst Oct 29"
+    }
+  ],
+  "updatedAt": "2026-10-02T00:00:00Z"
 }
