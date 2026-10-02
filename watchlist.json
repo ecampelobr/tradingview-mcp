@@ -2,17 +2,21 @@
   "blocked": [
     {
       "symbol": "PHBUSDT",
-      "reason": "Delisted from Binance spot/futures May 27 2026; -69% reflects ongoing post-delisting collapse, not a tradeable bounce"
+      "reason": "Binance delisted PHB on May 27 2026; -69% is post-delisting crash, not a recovery — extreme liquidity risk on remaining exchanges"
     },
     {
       "symbol": "NFPUSDT",
-      "reason": "Delisted from Binance spot July 10 2026 after monitoring tag in April; -66% is a post-delisting crash with no recovery path on Binance"
+      "reason": "Bitget delisted NFP/USDT July 2026; Binance 'Monitoring Tag' signals high ongoing delisting risk; low liquidity"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "97% crash in July 2026 on unverified team wallet-to-exchange transfers; top 10 wallets hold ~98% of supply — manipulation risk, current bounce likely dead-cat"
     }
   ],
   "boosted": [
     {
-      "symbol": "AXTIBUSDT",
-      "reason": "Underlying AXTI added to S&P SmallCap 600 effective Sept 21 2026, creating mechanical passive-fund buying; Q3 earnings catalyst Oct 29"
+      "symbol": "PUMPUSDT",
+      "reason": "Active buyback/burn program ($466M total, ~30% supply removed); $2.26M daily protocol fees as of Sep 30 provide genuine fundamental support for recent +50% weekly move"
     }
   ],
   "updatedAt": "2026-10-02T00:00:00Z"
