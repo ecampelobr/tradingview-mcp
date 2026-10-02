@@ -1,12 +1,31 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB May 2026; liquidity gutted, ongoing extreme volatility (-69% daily), terminal decline"},
-    {"symbol": "NFPUSDT", "reason": "NFPrompt down 88.71% YTD with no recovery catalyst; -66% single-day drop signals terminal decline"},
-    {"symbol": "DEXEUSDT", "reason": "Crashed 85% from ATH amid rug pull fears in late July 2026; current +10% bounce likely dead-cat"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance-delisted May 2026; -69% is dead-cat bounce on zombie token now at ~$0.002 with no major exchange liquidity"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance and Bitget delisted July 2026; -66% is ongoing post-delisting collapse with near-zero major-venue liquidity"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "Crashed 85% from July ATH of $48.89 amid rug-pull fears and confirmed heavy insider selling; +10% today is a dead-cat bounce"
+    },
+    {
+      "symbol": "PUMPUSDT",
+      "reason": "$34.58M token unlock (8.96B PUMP) scheduled Oct 12 — significant supply dilution risk in ~10 days"
+    }
   ],
   "boosted": [
-    {"symbol": "PUMPUSDT", "reason": "Pump.fun burning 17% of supply, $15M/week platform revenue, SEC cleared buybacks as non-security; strong momentum"},
-    {"symbol": "AXTIBUSDT", "reason": "Underlying AXTI stock added to S&P SmallCap 600 on Sep 29 2026; genuine institutional catalyst driving tokenized stock demand"}
+    {
+      "symbol": "ZECUSDT",
+      "reason": "SEC closed Zcash investigation without enforcement (Jan 2026); Valour ZEC ETP launched on Sweden exchange Sept 29; $8.4M governance funding approved Oct 1"
+    },
+    {
+      "symbol": "AXTIBUSDT",
+      "reason": "Tokenized AXT stock: S&P 600 inclusion, strong Q2 results, analyst upgrades on AI/data-center optics demand, earnings Oct 29"
+    }
   ],
-  "updatedAt": "2026-10-01T00:00:00Z"
+  "updatedAt": "2026-10-02T00:00:00Z"
 }
