@@ -1,19 +1,9 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB spot in May 2026; -69% reflects ongoing post-delisting collapse across multiple exchanges, not a recoverable move"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisted NFP spot July 10 2026; Bitget also delisted; -66% is post-delisting distress with no liquidity recovery in sight"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on May 27 2026; ongoing crash aftermath from delisting event"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026; crash is direct post-delisting aftermath"},
+    {"symbol": "DEXEUSDT", "reason": "Suspected insider dump: project wallets sent 625K DEXE to Binance mid-July, crashed 97% from $48.89 ATH; +10% bounce is dead-cat pattern"}
   ],
-  "boosted": [
-    {
-      "symbol": "AXTIBUSDT",
-      "reason": "Underlying AXTI (AXT Inc.) added to S&P SmallCap 600 effective Sep 21 2026, driving institutional buying; AI/data-center indium phosphide demand tailwind"
-    }
-  ],
-  "updatedAt": "2026-10-02T00:00:00Z"
+  "boosted": [],
+  "updatedAt": "2026-10-02T12:04:59Z"
 }
