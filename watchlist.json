@@ -2,22 +2,26 @@
   "blocked": [
     {
       "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB on May 27 2026; -69% is post-delisting crash, not a recovery — extreme liquidity risk on remaining exchanges"
+      "reason": "Binance delisted PHB (Phoenix) on May 27 2026; token collapsed ~69%, effectively dead on Binance"
     },
     {
       "symbol": "NFPUSDT",
-      "reason": "Bitget delisted NFP/USDT July 2026; Binance 'Monitoring Tag' signals high ongoing delisting risk; low liquidity"
+      "reason": "Binance delisted NFP (NFPrompt) on July 10 2026; down 99% from peak, no liquidity or recovery thesis"
     },
     {
       "symbol": "DEXEUSDT",
-      "reason": "97% crash in July 2026 on unverified team wallet-to-exchange transfers; top 10 wallets hold ~98% of supply — manipulation risk, current bounce likely dead-cat"
+      "reason": "86% crash July 2026 from unlimited-token-minting exploit allegations; protocol trust destroyed despite team denial"
+    },
+    {
+      "symbol": "MMTUSDT",
+      "reason": "Token unlock Oct 4 2026 releases 4.93M MMT (~$839K) into market with only $461K/day volume — high dump risk"
     }
   ],
   "boosted": [
     {
-      "symbol": "PUMPUSDT",
-      "reason": "Active buyback/burn program ($466M total, ~30% supply removed); $2.26M daily protocol fees as of Sep 30 provide genuine fundamental support for recent +50% weekly move"
+      "symbol": "ZECUSDT",
+      "reason": "Grayscale Zcash ETF (ZCSH) launched August 2026, up 60%+ past month; first US privacy-coin ETF is genuine institutional catalyst"
     }
   ],
-  "updatedAt": "2026-10-02T00:00:00Z"
+  "updatedAt": "2026-10-03T00:10:00Z"
 }
