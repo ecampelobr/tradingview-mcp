@@ -1,31 +1,11 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB (Phoenix) May 27 2026; -69% crash is post-delisting fallout, extreme liquidity risk"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisted NFP (NFPrompt) July 10 2026; -66% crash reflects delisting, pair likely defunct on Binance"
-    },
-    {
-      "symbol": "ZECUSDT",
-      "reason": "North Korean hackers laundered $3.8M of Bitget hack proceeds through ZEC shielded pool Sep 30 2026; active regulatory scrutiny, European delistings coming"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Top 10 wallets hold 98% of supply; crashed 97% in July 2026 on whale wallet-to-exchange transfers; extreme manipulation risk"
-    },
-    {
-      "symbol": "MMTUSDT",
-      "reason": "Token unlock Oct 4 2026 (tomorrow); already down ~78% from peak; highly speculative with ongoing sell pressure"
-    }
+    {"symbol": "PHBUSDT", "reason": "Delisted from Binance May 27 2026; -69% crash is delisting-driven, not recoverable on Binance"},
+    {"symbol": "NFPUSDT", "reason": "Delisted from Binance July 10 2026 (announced June 26); -66% crash directly caused by delisting"},
+    {"symbol": "DEXEUSDT", "reason": "Prior 85% rug-pull crash; top 10 wallets hold ~98% of supply — extreme manipulation risk"}
   ],
   "boosted": [
-    {
-      "symbol": "AXTIBUSDT",
-      "reason": "Tokenized AXT Inc. stock; 165% revenue growth Q2 2026, S&P SmallCap 600 inclusion Sep 21 2026 on AI/InP demand"
-    }
+    {"symbol": "PUMPUSDT", "reason": "Recent Binance US listing drove +17% spike; $414M buyback/burn program active; OI up 19% in 24h"}
   ],
-  "updatedAt": "2026-10-03T12:04:25Z"
+  "updatedAt": "2026-10-03T00:00:00Z"
 }
