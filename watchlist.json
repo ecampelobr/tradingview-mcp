@@ -1,11 +1,31 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisting confirmed (effective May 27 2026), multiple exchanges followed; -69% crash directly from delisting news, severe liquidity loss"},
-    {"symbol": "NFPUSDT", "reason": "Binance Monitoring Tag (elevated delisting risk) + Bitget already delisted spot pair; token down ~89% from 2023 peak, trend remains bearish"},
-    {"symbol": "DEXEUSDT", "reason": "97% crash in July 2026 on unverified team wallet-to-exchange transfer claims; extreme supply concentration (top 10 wallets hold ~98% of supply)"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted PHB (Phoenix) May 27 2026; -69% crash is post-delisting fallout, extreme liquidity risk"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance delisted NFP (NFPrompt) July 10 2026; -66% crash reflects delisting, pair likely defunct on Binance"
+    },
+    {
+      "symbol": "ZECUSDT",
+      "reason": "North Korean hackers laundered $3.8M of Bitget hack proceeds through ZEC shielded pool Sep 30 2026; active regulatory scrutiny, European delistings coming"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "Top 10 wallets hold 98% of supply; crashed 97% in July 2026 on whale wallet-to-exchange transfers; extreme manipulation risk"
+    },
+    {
+      "symbol": "MMTUSDT",
+      "reason": "Token unlock Oct 4 2026 (tomorrow); already down ~78% from peak; highly speculative with ongoing sell pressure"
+    }
   ],
   "boosted": [
-    {"symbol": "AXTIBUSDT", "reason": "Tokenized AXT Inc. stock with strong Q2 2026 earnings (revenue +165% YoY, gross margin 45%, turned GAAP profitable); +32% move has fundamental backing"}
+    {
+      "symbol": "AXTIBUSDT",
+      "reason": "Tokenized AXT Inc. stock; 165% revenue growth Q2 2026, S&P SmallCap 600 inclusion Sep 21 2026 on AI/InP demand"
+    }
   ],
-  "updatedAt": "2026-10-03T00:00:00Z"
+  "updatedAt": "2026-10-03T12:04:25Z"
 }
