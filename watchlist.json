@@ -1,18 +1,11 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Delisted from Binance May 27 2026 (all spot/margin/futures removed); -69% drop is delisting-driven, not a tradeable setup"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisting + Bitget delisting (effective Jul 2026); persistent multi-exchange exits; -66% is structural liquidity collapse, not recoverable bounce"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Top-10 wallets hold ~98% of supply; 97% crash Jul 2026 ($49→$1.60); +10% move is likely dead-cat bounce with extreme rug/dump risk"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisting confirmed (effective May 27 2026), multiple exchanges followed; -69% crash directly from delisting news, severe liquidity loss"},
+    {"symbol": "NFPUSDT", "reason": "Binance Monitoring Tag (elevated delisting risk) + Bitget already delisted spot pair; token down ~89% from 2023 peak, trend remains bearish"},
+    {"symbol": "DEXEUSDT", "reason": "97% crash in July 2026 on unverified team wallet-to-exchange transfer claims; extreme supply concentration (top 10 wallets hold ~98% of supply)"}
   ],
-  "boosted": [],
-  "updatedAt": "2026-10-03T04:04:43Z"
+  "boosted": [
+    {"symbol": "AXTIBUSDT", "reason": "Tokenized AXT Inc. stock with strong Q2 2026 earnings (revenue +165% YoY, gross margin 45%, turned GAAP profitable); +32% move has fundamental backing"}
+  ],
+  "updatedAt": "2026-10-03T00:00:00Z"
 }
