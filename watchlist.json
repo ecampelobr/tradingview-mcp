@@ -1,13 +1,11 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Delisted from Binance May 27 2026; -69% is post-delisting dead-cat collapse"},
-    {"symbol": "NFPUSDT", "reason": "Delisted from Binance July 10 2026; -66% crash is direct result of confirmed delisting"},
-    {"symbol": "DEXEUSDT", "reason": "85% crash from $48.89 ATH in mid-July 2026 to ~$5; +10% bounce is likely dead-cat"},
-    {"symbol": "ZECUSDT", "reason": "Hackers routed $3.9M stolen Bitget funds through Zcash shielded pool in Oct 2026, triggering exchange delisting risk"}
+    {"symbol": "PHBUSDT", "reason": "Binance delisting in progress (announced May 2026); -69% crash reflects ongoing exchange exit"},
+    {"symbol": "NFPUSDT", "reason": "Binance Monitoring Tag active (pre-delisting signal); Bitget already delisted Jul 2026; -66% part of 95%+ decline"},
+    {"symbol": "DEXEUSDT", "reason": "85-90% crash Jul 2026 on alleged team wallet dump to Binance; top 10 wallets hold 98% of supply; current +10% likely dead-cat"}
   ],
   "boosted": [
-    {"symbol": "PUMPUSDT", "reason": "Pump.fun burned $466.5M (29.7% of supply) via buybacks; Binance US listing driving volume"},
-    {"symbol": "GIGGLEUSDT", "reason": "CZ-backed Giggle Academy charity token hit record $110M market cap with 50%+ 24h surge in Oct 2026"}
+    {"symbol": "AXTIBUSDT", "reason": "AXT Inc added to S&P SmallCap 600 (Sep 21); Q2 2026 revenue +165% YoY; institutional ETF demand driving genuine momentum"}
   ],
   "updatedAt": "2026-10-04T00:00:00Z"
 }
