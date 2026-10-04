@@ -1,9 +1,13 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "PHB (Phoenix) delisted from Binance May 2026; price collapsed to $0.001 by Aug 5, ongoing structural decline"},
-    {"symbol": "NFPUSDT", "reason": "NFP (NFPrompt) delisted from Binance spot July 10, 2026; -66% is the delisting crash, not a tradeable move"},
-    {"symbol": "DEXEUSDT", "reason": "DEXE crashed 97% from $49 ATH on July 13 to ~$1.60; +10.4% on screen is dead-cat bounce after collapse"}
+    {"symbol": "PHBUSDT", "reason": "Delisted from Binance May 27 2026; -69% is post-delisting dead-cat collapse"},
+    {"symbol": "NFPUSDT", "reason": "Delisted from Binance July 10 2026; -66% crash is direct result of confirmed delisting"},
+    {"symbol": "DEXEUSDT", "reason": "85% crash from $48.89 ATH in mid-July 2026 to ~$5; +10% bounce is likely dead-cat"},
+    {"symbol": "ZECUSDT", "reason": "Hackers routed $3.9M stolen Bitget funds through Zcash shielded pool in Oct 2026, triggering exchange delisting risk"}
   ],
-  "boosted": [],
+  "boosted": [
+    {"symbol": "PUMPUSDT", "reason": "Pump.fun burned $466.5M (29.7% of supply) via buybacks; Binance US listing driving volume"},
+    {"symbol": "GIGGLEUSDT", "reason": "CZ-backed Giggle Academy charity token hit record $110M market cap with 50%+ 24h surge in Oct 2026"}
+  ],
   "updatedAt": "2026-10-04T00:00:00Z"
 }
