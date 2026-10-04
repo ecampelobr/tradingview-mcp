@@ -1,11 +1,9 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB May 2026; -69% was delisting crash, token is a zombie on Binance"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP Jul 10 2026; withdrawals stopped Sep 9 2026, untradeable"},
-    {"symbol": "ZECUSDT", "reason": "Hackers routed $3.9M Bitget stolen funds through Zcash shielded pool this week; active exchange delisting risk and regulatory scrutiny"}
+    {"symbol": "PHBUSDT", "reason": "PHB (Phoenix) delisted from Binance May 2026; price collapsed to $0.001 by Aug 5, ongoing structural decline"},
+    {"symbol": "NFPUSDT", "reason": "NFP (NFPrompt) delisted from Binance spot July 10, 2026; -66% is the delisting crash, not a tradeable move"},
+    {"symbol": "DEXEUSDT", "reason": "DEXE crashed 97% from $49 ATH on July 13 to ~$1.60; +10.4% on screen is dead-cat bounce after collapse"}
   ],
-  "boosted": [
-    {"symbol": "PUMPUSDT", "reason": "Top weekly crypto performer (+30% weekly); active buyback/burn program ($466M burned, 29.6% of supply removed)"}
-  ],
-  "updatedAt": "2026-10-04T00:03:49Z"
+  "boosted": [],
+  "updatedAt": "2026-10-04T00:00:00Z"
 }
