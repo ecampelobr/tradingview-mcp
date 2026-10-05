@@ -1,19 +1,11 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "PHB (Phoenix) delisted from Binance May 27 2026; -69% reflects ongoing post-delisting collapse"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "NFP (NFPrompt) delisted from Binance July 10 2026; -66% is confirmed post-delisting collapse, touched all-time low on delisting day"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB May 27 2026; spot/margin/futures all removed"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP July 10 2026; no longer tradeable on Binance"},
+    {"symbol": "DEXEUSDT", "reason": "85-97% crash from $49 ATH on rug-pull fears (July 2026); +10% is dead-cat bounce"}
   ],
   "boosted": [
-    {
-      "symbol": "GIGGLEUSDT",
-      "reason": "CZ (Binance founder) publicly endorsed GIGGLE on July 30 2026 triggering 60%+ volume spike; Binance donates 50% of trading fees to buy-and-burn the token"
-    }
+    {"symbol": "AXTIBUSDT", "reason": "Tokenized AXT stock: S&P SmallCap 600 inclusion Sep 21 2026 + strong AI-driven earnings beat"}
   ],
-  "updatedAt": "2026-10-05T00:00:00Z"
+  "updatedAt": "2026-10-05T20:04:11Z"
 }
