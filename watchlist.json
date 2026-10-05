@@ -1,9 +1,19 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance-delisted May 2026; all withdrawals stopped Sept 9; -69% is post-delisting collapse, no liquidity on Binance"},
-    {"symbol": "NFPUSDT", "reason": "Binance-delisted July 10 spot, futures closed July 2, withdrawals stopped Sept 9; -66% is delisting collapse, no longer tradeable on Binance"},
-    {"symbol": "ZECUSDT", "reason": "Suspected North Korean hack funds laundered via ZEC shielded pool (regulatory risk); critical Orchard counterfeiting bug; large ETF outflows"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "PHB (Phoenix) delisted from Binance May 27 2026; -69% reflects ongoing post-delisting collapse"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "NFP (NFPrompt) delisted from Binance July 10 2026; -66% is confirmed post-delisting collapse, touched all-time low on delisting day"
+    }
   ],
-  "boosted": [],
+  "boosted": [
+    {
+      "symbol": "GIGGLEUSDT",
+      "reason": "CZ (Binance founder) publicly endorsed GIGGLE on July 30 2026 triggering 60%+ volume spike; Binance donates 50% of trading fees to buy-and-burn the token"
+    }
+  ],
   "updatedAt": "2026-10-05T00:00:00Z"
 }
