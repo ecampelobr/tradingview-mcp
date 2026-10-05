@@ -1,9 +1,19 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB (Phoenix) May 2026; -69% crash is delisting panic, severe liquidity loss"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP (NFPrompt) July 10 2026; -66% crash directly tied to confirmed delisting"},
-    {"symbol": "DEXEUSDT", "reason": "DEXE crashed 85-96% from $48.89 ATH after suspected insider treasury dump; +10% today is dead-cat bounce on broken chart"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted May 27 2026; post-delisting 90% 24h volatility and near-zero liquidity on Binance"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance delisted July 10 2026; ongoing price collapse from delisting-driven panic selling"
+    }
   ],
-  "boosted": [],
-  "updatedAt": "2026-10-04T10:15:00Z"
+  "boosted": [
+    {
+      "symbol": "AXTIBUSDT",
+      "reason": "Tokenized AXT Inc. added to S&P SmallCap 600 Sep 21 2026; 165% YoY revenue growth on AI data-center demand"
+    }
+  ],
+  "updatedAt": "2026-10-05T00:00:00Z"
 }
