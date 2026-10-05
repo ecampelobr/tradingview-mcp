@@ -1,10 +1,10 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on May 27 2026; trading only on secondary exchanges, structural death spiral (-69% reflects ongoing collapse)"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026 (3 weeks before screen); -66% is a delisting-driven crash, no recovery catalyst found"}
+    {"symbol": "PHBUSDT", "reason": "Binance spot delisting executed May 27 2026; -69% crash is post-delisting, not recoverable on-exchange"},
+    {"symbol": "NFPUSDT", "reason": "Binance spot delisting executed July 10 2026; -66% crash is post-delisting fallout, 3 weeks after removal"},
+    {"symbol": "DEXEUSDT", "reason": "Crashed 85% from ATH (~$49 → ~$4) July 13 2026 amid confirmed heavy insider selling and rug-pull fears; +10.4% is a dead-cat bounce"},
+    {"symbol": "MMTUSDT", "reason": "Classic 1330% pump then 78% dump since Binance debut; imminent token unlock Aug 3 2026 (3 days out) adds sell pressure"}
   ],
-  "boosted": [
-    {"symbol": "XECUSDT", "reason": "eCash NU7 network upgrade testnet activates Oct 6 with mainnet decision Oct 20; $8.39M community funding approved — genuine near-term catalyst"}
-  ],
+  "boosted": [],
   "updatedAt": "2026-10-05T00:00:00Z"
 }
