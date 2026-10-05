@@ -1,9 +1,8 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance spot delisting executed May 27 2026; -69% crash is post-delisting, not recoverable on-exchange"},
-    {"symbol": "NFPUSDT", "reason": "Binance spot delisting executed July 10 2026; -66% crash is post-delisting fallout, 3 weeks after removal"},
-    {"symbol": "DEXEUSDT", "reason": "Crashed 85% from ATH (~$49 → ~$4) July 13 2026 amid confirmed heavy insider selling and rug-pull fears; +10.4% is a dead-cat bounce"},
-    {"symbol": "MMTUSDT", "reason": "Classic 1330% pump then 78% dump since Binance debut; imminent token unlock Aug 3 2026 (3 days out) adds sell pressure"}
+    {"symbol": "PHBUSDT", "reason": "Binance-delisted May 2026; all withdrawals stopped Sept 9; -69% is post-delisting collapse, no liquidity on Binance"},
+    {"symbol": "NFPUSDT", "reason": "Binance-delisted July 10 spot, futures closed July 2, withdrawals stopped Sept 9; -66% is delisting collapse, no longer tradeable on Binance"},
+    {"symbol": "ZECUSDT", "reason": "Suspected North Korean hack funds laundered via ZEC shielded pool (regulatory risk); critical Orchard counterfeiting bug; large ETF outflows"}
   ],
   "boosted": [],
   "updatedAt": "2026-10-05T00:00:00Z"
