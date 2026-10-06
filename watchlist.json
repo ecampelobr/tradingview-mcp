@@ -1,11 +1,12 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB (May 27 2026); -69% is ongoing post-delisting crash, not a trade"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026 (3 weeks ago); -66% driven by confirmed delisting"},
-    {"symbol": "DEXEUSDT", "reason": "Dead-cat bounce after 90%+ crash from ATH; rug pull allegations, top 10 wallets hold ~98% of supply"}
+    {"symbol": "PHBUSDT", "reason": "Binance delisting announcement triggered ~70% crash; extreme liquidity risk, asset being removed from exchange"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP from spot trading July 10 2026 following monitoring tag; effectively no Binance liquidity"},
+    {"symbol": "DEXEUSDT", "reason": "Crashed 90%+ from $49 ATH in July 2026 amid rug pull fears; current +10% bounce is dead-cat pattern post-collapse"},
+    {"symbol": "PUMPUSDT", "reason": "~9B token unlock scheduled Oct 12 2026 (6 days out); near-term dilution sell pressure expected"}
   ],
   "boosted": [
-    {"symbol": "GIGGLEUSDT", "reason": "CZ (Binance founder) publicly endorsed on July 30 2026, confirmed positive catalyst driving rally"}
+    {"symbol": "XECUSDT", "reason": "ECX fork targeting Oct 31 (1:1 allocation to BTC holders) is a live catalyst; ASTER DEX perpetuals listing and MUSD stablecoin launch on XEC network also in play"}
   ],
   "updatedAt": "2026-10-06T00:00:00Z"
 }
