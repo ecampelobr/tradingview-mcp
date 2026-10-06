@@ -1,12 +1,11 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisting announcement triggered ~70% crash; extreme liquidity risk, asset being removed from exchange"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP from spot trading July 10 2026 following monitoring tag; effectively no Binance liquidity"},
-    {"symbol": "DEXEUSDT", "reason": "Crashed 90%+ from $49 ATH in July 2026 amid rug pull fears; current +10% bounce is dead-cat pattern post-collapse"},
-    {"symbol": "PUMPUSDT", "reason": "~9B token unlock scheduled Oct 12 2026 (6 days out); near-term dilution sell pressure expected"}
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026; token at near-zero (~$0.00045), effectively dead"},
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB in May 2026; -69% is post-delisting crash, not a trade"},
+    {"symbol": "DEXEUSDT", "reason": "Dead-cat bounce after 96% crash from July 12-13 ATH ($48.89->$1.77); FUD-driven sell-off"}
   ],
   "boosted": [
-    {"symbol": "XECUSDT", "reason": "ECX fork targeting Oct 31 (1:1 allocation to BTC holders) is a live catalyst; ASTER DEX perpetuals listing and MUSD stablecoin launch on XEC network also in play"}
+    {"symbol": "ZECUSDT", "reason": "Major bull run in progress: Grayscale ETF filing, US spot ETF approval, privacy coin renaissance, co-founder $5k EOY target"}
   ],
-  "updatedAt": "2026-10-06T00:00:00Z"
+  "updatedAt": "2026-10-06T16:03:41Z"
 }
