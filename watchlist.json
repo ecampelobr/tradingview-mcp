@@ -1,23 +1,8 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB in May 2026; -69% is post-delisting collapse with 96% amplitude swings, not a recovery"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance spot delisted NFP on July 10 2026; KuCoin futures also delisted July 8 — confirmed delisting-driven crash"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB on May 27 2026; -69% reflects post-delisting collapse, no longer a valid Binance spot pair"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP on July 10 2026 (withdrawals closed Sept 9); -66% is post-delisting fallout, token no longer tradeable on Binance"}
   ],
-  "boosted": [
-    {
-      "symbol": "GIGGLEUSDT",
-      "reason": "CZ/Binance-backed charity memecoin; Binance fee-donation to Giggle Academy + CZ posts drove a documented 130% surge"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "750%+ YTD with genuine catalysts: multi-chain DAO expansion to Solana/Polygon/Arbitrum and UAE institutional partnerships"
-    }
-  ],
+  "boosted": [],
   "updatedAt": "2026-10-07T00:00:00Z"
 }
