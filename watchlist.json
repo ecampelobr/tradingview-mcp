@@ -1,12 +1,10 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot trading May 2026; token near all-time low, liquidity destroyed"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP July 10 2026; multiple exchanges followed, effectively dead"},
-    {"symbol": "DEXEUSDT", "reason": "Crashed 85% from July 2026 ATH amid rug pull fears; +10% is dead-cat bounce"}
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot on May 27 2026 after failed asset review; -69% crash is delisting aftermath not recovery"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP spot on July 10 2026 after monitoring tag since April; -66% crash is delisting-driven, withdrawal window closed Sep 9 2026"}
   ],
   "boosted": [
-    {"symbol": "PUMPUSDT", "reason": "Top weekly performer Oct 3 2026; Binance US debut pushed price to 2-month high; strong Q3 revenue"},
-    {"symbol": "AXTIBUSDT", "reason": "S&P SmallCap 600 inclusion Sep 29 2026 forces passive fund buying; record Q2 AI/InP demand"}
+    {"symbol": "ZECUSDT", "reason": "SEC formally closed Zcash probe with no enforcement action, removing major regulatory overhang; ZEC jumped 10-14% on the news"}
   ],
   "updatedAt": "2026-10-07T00:00:00Z"
 }
