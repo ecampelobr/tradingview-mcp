@@ -1,12 +1,12 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot May 13 2026; -69% is continued post-delisting collapse, not recovery"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP spot market July 10 2026; -66% crash directly caused by delisting"},
-    {"symbol": "DEXEUSDT", "reason": "Dead-cat bounce after 90% crash from $48.89 ATH (Jul 13) to ~$1.77; +10% rebound is not a recovery"}
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot trading May 2026; token near all-time low, liquidity destroyed"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP July 10 2026; multiple exchanges followed, effectively dead"},
+    {"symbol": "DEXEUSDT", "reason": "Crashed 85% from July 2026 ATH amid rug pull fears; +10% is dead-cat bounce"}
   ],
   "boosted": [
-    {"symbol": "AXTIBUSDT", "reason": "New Binance bStocks listing Jul 22 2026; AXT Inc. stock +600% YTD driven by AI infrastructure demand"},
-    {"symbol": "XECUSDT", "reason": "Multiple Jul catalysts: ASTER DEX perp futures listing, CMC Weekly Top Gainers Jul 17, Ironwood protocol upgrade shipped"}
+    {"symbol": "PUMPUSDT", "reason": "Top weekly performer Oct 3 2026; Binance US debut pushed price to 2-month high; strong Q3 revenue"},
+    {"symbol": "AXTIBUSDT", "reason": "S&P SmallCap 600 inclusion Sep 29 2026 forces passive fund buying; record Q2 AI/InP demand"}
   ],
   "updatedAt": "2026-10-07T00:00:00Z"
 }
