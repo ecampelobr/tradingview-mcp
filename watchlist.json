@@ -1,19 +1,12 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB (Phoenix) in May 2026; -69% drop is post-delisting crash with 79-90% daily volatility and severe liquidity loss"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance spot-delisted NFP (NFPrompt) on July 10 2026 (already off exchange at screen time); -66% reflects delisting selloff"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot May 13 2026; -69% is continued post-delisting collapse, not recovery"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP spot market July 10 2026; -66% crash directly caused by delisting"},
+    {"symbol": "DEXEUSDT", "reason": "Dead-cat bounce after 90% crash from $48.89 ATH (Jul 13) to ~$1.77; +10% rebound is not a recovery"}
   ],
   "boosted": [
-    {
-      "symbol": "ZECUSDT",
-      "reason": "SEC closed Zcash Foundation investigation without action (Jan 2026) + Grayscale filed for ZEC ETF on NYSE Arca"
-    }
+    {"symbol": "AXTIBUSDT", "reason": "New Binance bStocks listing Jul 22 2026; AXT Inc. stock +600% YTD driven by AI infrastructure demand"},
+    {"symbol": "XECUSDT", "reason": "Multiple Jul catalysts: ASTER DEX perp futures listing, CMC Weekly Top Gainers Jul 17, Ironwood protocol upgrade shipped"}
   ],
-  "updatedAt": "2026-10-07T08:03:56Z"
+  "updatedAt": "2026-10-07T00:00:00Z"
 }
