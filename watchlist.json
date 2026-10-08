@@ -1,11 +1,9 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB (Phoenix) spot trading May 2026; -69% reflects post-delisting collapse with no liquidity recovery"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFPrompt (NFP) on July 10 2026 after monitoring tag; token now near zero ($0.00045), multiple exchanges followed"}
+    {"symbol": "PHBUSDT", "reason": "Binance spot delisted May 27 2026; -69% crash consistent with delisting event"},
+    {"symbol": "NFPUSDT", "reason": "Binance spot delisted July 10 2026; -66% crash consistent with delisting sell-off"},
+    {"symbol": "GIGGLEUSDT", "reason": "Meme coin with no project backing; CZ and Giggle Academy publicly denied affiliation"}
   ],
-  "boosted": [
-    {"symbol": "AXTIBUSDT", "reason": "Underlying AXT Inc Q2 2026 revenue $47.6M (+77% vs Q1), AI/data-center demand catalyst; Q3 earnings due Oct 29 2026"},
-    {"symbol": "ZECUSDT", "reason": "Zcash ETF approved for NYSE Arca listing (pending SEC effectiveness), institutional accumulation by Cypherpunk Technologies, ZEC above $1,000 in Sept 2026"}
-  ],
-  "updatedAt": "2026-10-08T08:03:57Z"
+  "boosted": [],
+  "updatedAt": "2026-10-08T00:00:00Z"
 }
