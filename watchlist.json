@@ -1,19 +1,8 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB spot in May 2026; -69% crash is post-delisting liquidity collapse, not a tradeable setup"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisted NFPrompt spot Jul 10 2026; -66% crash reflects post-delisting illiquidity, extremely high slippage risk"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot trading May 27 2026; pair no longer active"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP spot trading July 10 2026; withdrawals closed Sep 9; pair dead"}
   ],
-  "boosted": [
-    {
-      "symbol": "ZECUSDT",
-      "reason": "ETF filing on NYSE Arca (ticker ZCSH), SEC closed investigation Jan 2026, institutional accumulation by Cypherpunk Technologies; strong Sep 2026 rally above $1,000"
-    }
-  ],
+  "boosted": [],
   "updatedAt": "2026-10-09T00:00:00Z"
 }
