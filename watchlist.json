@@ -1,18 +1,11 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB in May 2026 after periodic review; -69% reflects ongoing post-delisting crash, high dead-cat bounce risk"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance announced NFP delisting June 26 2026, spot trading ended July 10 2026; token in terminal decline, -66% is post-delisting collapse"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "DEXE crashed 90% from ~$49 ATH to ~$1.77 by late July 2026 on FUD/profit-taking; +10% reading is likely a dead-cat bounce"
-    }
+    {"symbol": "NFPUSDT", "reason": "Delisted from Binance spot on July 10 2026 following June 26 announcement; -66% crash directly caused by delisting"},
+    {"symbol": "DEXEUSDT", "reason": "Smart contract exploit July 21 2026 enabled unlimited token minting, wiped 80-90% of market cap; current +10% gain is a dead-cat bounce"},
+    {"symbol": "PHBUSDT", "reason": "~88% YTD decline in 2026 with ongoing death spiral; -69% priceChangePercent reflects sustained collapse with no identifiable recovery catalyst"}
   ],
-  "boosted": [],
-  "updatedAt": "2026-10-09T12:00:00Z"
+  "boosted": [
+    {"symbol": "XECUSDT", "reason": "Led CoinMarketCap weekly top gainers on July 17; perpetual futures listing on Aster DEX drove volume surge and record open interest"}
+  ],
+  "updatedAt": "2026-10-09T00:00:00Z"
 }
