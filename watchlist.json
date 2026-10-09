@@ -1,8 +1,18 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted PHB spot trading May 27 2026; pair no longer active"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted NFP spot trading July 10 2026; withdrawals closed Sep 9; pair dead"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted PHB in May 2026 after periodic review; -69% reflects ongoing post-delisting crash, high dead-cat bounce risk"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance announced NFP delisting June 26 2026, spot trading ended July 10 2026; token in terminal decline, -66% is post-delisting collapse"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "DEXE crashed 90% from ~$49 ATH to ~$1.77 by late July 2026 on FUD/profit-taking; +10% reading is likely a dead-cat bounce"
+    }
   ],
   "boosted": [],
-  "updatedAt": "2026-10-09T00:00:00Z"
+  "updatedAt": "2026-10-09T12:00:00Z"
 }
