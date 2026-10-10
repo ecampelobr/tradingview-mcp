@@ -1,10 +1,14 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "~69% crash with no identifiable catalyst; no hack, no project news, no recovery driver found"},
-    {"symbol": "NFPUSDT", "reason": "~66% drop continuing year-long death spiral; -88% YTD decline and history of hack-related collapse"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Phoenix Global [OLD] undergoing 100:1 token redenomination/migration to PHX; -69% drop is a migration artifact, not a tradeable move"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Delisted from Binance spot on July 10 2026; withdrawals closed September 9; trading on residual liquidity only"
+    }
   ],
-  "boosted": [
-    {"symbol": "GIGGLEUSDT", "reason": "Confirmed Binance spot GIGGLE/USDT and USDT perpetual futures listing (up to 50x); listing-driven rally catalyst"}
-  ],
-  "updatedAt": "2026-10-10T00:03:32Z"
+  "boosted": [],
+  "updatedAt": "2026-10-10T00:00:00Z"
 }
