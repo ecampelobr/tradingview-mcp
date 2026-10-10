@@ -1,10 +1,14 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted May 2026; near-zero liquidity (~$140/day volume, $856K mcap); dead-cat bounce after structural decline"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted July 2026; terminal decline (99.9% from ATH, $258K mcap); ongoing dilutive token unlocks, project website down"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "PHB delisted from Binance spot May 2026; price in sustained post-delisting collapse, -69% drop is continued free-fall not a bounce"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "NFPrompt delisted from Binance spot July 10 2026; KuCoin Futures also delisted July 8; Binance withdrawal window closed Sept 9 — token effectively dead"
+    }
   ],
-  "boosted": [
-    {"symbol": "AXTIBUSDT", "reason": "Tokenized AXT stock; genuine catalyst: Q2 2026 earnings beat + $87M Lumentum long-term supply agreement announced"}
-  ],
-  "updatedAt": "2026-10-10T16:05:01Z"
+  "boosted": [],
+  "updatedAt": "2026-10-10T00:00:00Z"
 }
