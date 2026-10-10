@@ -1,18 +1,18 @@
 {
   "blocked": [
     {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisting confirmed May 2026; CoinSpot and Tokocrypto also delisting; token in structural exit spiral"
+      "symbol": "NFPUSDT",
+      "reason": "Binance delisted NFP on July 10 2026; withdrawals closed September 9 2026 — no liquid market"
     },
     {
-      "symbol": "NFPUSDT",
-      "reason": "Binance spot pair delisted July 10 2026; prior security breach with FBI investigation; -66% crash consistent with post-delisting collapse"
+      "symbol": "PHBUSDT",
+      "reason": "-69% crash with no confirmed recovery catalyst; high dead-cat bounce risk"
     },
     {
       "symbol": "DEXEUSDT",
-      "reason": "Reported staking contract exploit July 21 2026 allowing unlimited token minting; 85-91% crash from ATH; +10% in screener is likely dead-cat bounce"
+      "reason": "Project team wallets dumped to exchanges in July 2026, causing 40%+ crash; ongoing insider sell pressure"
     }
   ],
   "boosted": [],
-  "updatedAt": "2026-10-10T00:00:00Z"
+  "updatedAt": "2026-10-10T12:03:22Z"
 }
