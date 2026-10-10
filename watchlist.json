@@ -1,11 +1,10 @@
 {
   "blocked": [
-    {"symbol": "NFPUSDT", "reason": "Delisted from Binance spot on July 10 2026 following June 26 announcement; -66% crash directly caused by delisting"},
-    {"symbol": "DEXEUSDT", "reason": "Smart contract exploit July 21 2026 enabled unlimited token minting, wiped 80-90% of market cap; current +10% gain is a dead-cat bounce"},
-    {"symbol": "PHBUSDT", "reason": "~88% YTD decline in 2026 with ongoing death spiral; -69% priceChangePercent reflects sustained collapse with no identifiable recovery catalyst"}
+    {"symbol": "PHBUSDT", "reason": "~69% crash with no identifiable catalyst; no hack, no project news, no recovery driver found"},
+    {"symbol": "NFPUSDT", "reason": "~66% drop continuing year-long death spiral; -88% YTD decline and history of hack-related collapse"}
   ],
   "boosted": [
-    {"symbol": "XECUSDT", "reason": "Led CoinMarketCap weekly top gainers on July 17; perpetual futures listing on Aster DEX drove volume surge and record open interest"}
+    {"symbol": "GIGGLEUSDT", "reason": "Confirmed Binance spot GIGGLE/USDT and USDT perpetual futures listing (up to 50x); listing-driven rally catalyst"}
   ],
-  "updatedAt": "2026-10-09T00:00:00Z"
+  "updatedAt": "2026-10-10T00:03:32Z"
 }
