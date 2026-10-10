@@ -2,11 +2,15 @@
   "blocked": [
     {
       "symbol": "PHBUSDT",
-      "reason": "Phoenix Global [OLD] undergoing 100:1 token redenomination/migration to PHX; -69% drop is a migration artifact, not a tradeable move"
+      "reason": "Binance delisting confirmed May 2026; CoinSpot and Tokocrypto also delisting; token in structural exit spiral"
     },
     {
       "symbol": "NFPUSDT",
-      "reason": "Delisted from Binance spot on July 10 2026; withdrawals closed September 9; trading on residual liquidity only"
+      "reason": "Binance spot pair delisted July 10 2026; prior security breach with FBI investigation; -66% crash consistent with post-delisting collapse"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "Reported staking contract exploit July 21 2026 allowing unlimited token minting; 85-91% crash from ATH; +10% in screener is likely dead-cat bounce"
     }
   ],
   "boosted": [],
