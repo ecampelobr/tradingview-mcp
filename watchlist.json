@@ -1,18 +1,10 @@
 {
   "blocked": [
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisted NFP on July 10 2026; withdrawals closed September 9 2026 — no liquid market"
-    },
-    {
-      "symbol": "PHBUSDT",
-      "reason": "-69% crash with no confirmed recovery catalyst; high dead-cat bounce risk"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Project team wallets dumped to exchanges in July 2026, causing 40%+ crash; ongoing insider sell pressure"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted May 2026; near-zero liquidity (~$140/day volume, $856K mcap); dead-cat bounce after structural decline"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted July 2026; terminal decline (99.9% from ATH, $258K mcap); ongoing dilutive token unlocks, project website down"}
   ],
-  "boosted": [],
-  "updatedAt": "2026-10-10T12:03:22Z"
+  "boosted": [
+    {"symbol": "AXTIBUSDT", "reason": "Tokenized AXT stock; genuine catalyst: Q2 2026 earnings beat + $87M Lumentum long-term supply agreement announced"}
+  ],
+  "updatedAt": "2026-10-10T16:05:01Z"
 }
