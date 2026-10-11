@@ -1,10 +1,18 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Delisted from Binance May 2026; active only on minor illiquid venues; death spiral"},
-    {"symbol": "NFPUSDT", "reason": "Fully delisted from Binance July 2026, withdrawals closed Sept 2026; death spiral"},
-    {"symbol": "DEXEUSDT", "reason": "Smart contract exploit July 2026 wiped ~90% of value; no confirmed recovery or post-mortem; dead-cat bounce"},
-    {"symbol": "GIGGLEUSDT", "reason": "Giggle Academy publicly disavowed the token; speculative pump with no Oct 2026 catalyst; history of social media hacks"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted PHB (Phoenix) spot trading May 2026; -69% is continued post-delisting collapse, not a recoverable move"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance delisted NFP (NFPrompt) spot Jul 10 2026, withdrawal deadline Sep 9 already passed; token effectively dead on Binance"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "Team-linked wallets dumped ~625K DEXE to Binance on Jul 21 2026; token crashed 85-96% from ATH; +10% is likely dead-cat bounce"
+    }
   ],
   "boosted": [],
-  "updatedAt": "2026-10-11T04:05:20Z"
+  "updatedAt": "2026-10-11T00:00:00Z"
 }
