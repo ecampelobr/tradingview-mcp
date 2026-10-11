@@ -1,17 +1,8 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB (Phoenix) spot trading May 2026; -69% is continued post-delisting collapse, not a recoverable move"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisted NFP (NFPrompt) spot Jul 10 2026, withdrawal deadline Sep 9 already passed; token effectively dead on Binance"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Team-linked wallets dumped ~625K DEXE to Binance on Jul 21 2026; token crashed 85-96% from ATH; +10% is likely dead-cat bounce"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted May 2026, token in terminal post-delisting decay toward zero"},
+    {"symbol": "NFPUSDT", "reason": "Binance delisted July 2026, withdrawal support ended Sep 9 2026, no buy-side liquidity"},
+    {"symbol": "DEXEUSDT", "reason": "Crashed 85-97% in July 2026 with unresolved rug-pull suspicions; team wallets moved tokens to Binance pre-crash"}
   ],
   "boosted": [],
   "updatedAt": "2026-10-11T00:00:00Z"
