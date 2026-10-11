@@ -1,14 +1,14 @@
 {
   "blocked": [
     {
-      "symbol": "PHBUSDT",
-      "reason": "PHB delisted from Binance spot May 2026; price in sustained post-delisting collapse, -69% drop is continued free-fall not a bounce"
+      "symbol": "NFPUSDT",
+      "reason": "Delisted from Binance July 10 2026 (falling activity/utility); withdrawals ended Sep 9 2026; token functionally dead"
     },
     {
-      "symbol": "NFPUSDT",
-      "reason": "NFPrompt delisted from Binance spot July 10 2026; KuCoin Futures also delisted July 8; Binance withdrawal window closed Sept 9 — token effectively dead"
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted May 2026; -69% crash follows all-time high hit Sep 30 — dead-cat bounce after delisting-driven collapse"
     }
   ],
   "boosted": [],
-  "updatedAt": "2026-10-10T00:00:00Z"
+  "updatedAt": "2026-10-11T12:00:00Z"
 }
