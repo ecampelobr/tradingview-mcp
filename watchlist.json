@@ -1,9 +1,18 @@
 {
   "blocked": [
-    {"symbol": "PHBUSDT", "reason": "Binance delisted May 2026, token in terminal post-delisting decay toward zero"},
-    {"symbol": "NFPUSDT", "reason": "Binance delisted July 2026, withdrawal support ended Sep 9 2026, no buy-side liquidity"},
-    {"symbol": "DEXEUSDT", "reason": "Crashed 85-97% in July 2026 with unresolved rug-pull suspicions; team wallets moved tokens to Binance pre-crash"}
+    {
+      "symbol": "PHBUSDT",
+      "reason": "Binance delisted PHB on May 27 2026 after monitoring tag; token is no longer tradeable on Binance spot, down ~91% from highs"
+    },
+    {
+      "symbol": "NFPUSDT",
+      "reason": "Binance delisted NFP on Jul 10 2026; KuCoin further delisted Oct 14 2026; down ~97% since delisting announcement"
+    },
+    {
+      "symbol": "DEXEUSDT",
+      "reason": "Crashed 85% in Jul 2026 amid unresolved market-maker manipulation allegations; team denies exploit but cause unconfirmed; recovery fragile"
+    }
   ],
   "boosted": [],
-  "updatedAt": "2026-10-11T00:00:00Z"
+  "updatedAt": "2026-10-19T00:00:00Z"
 }
