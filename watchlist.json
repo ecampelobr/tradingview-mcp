@@ -1,18 +1,13 @@
 {
   "blocked": [
-    {
-      "symbol": "PHBUSDT",
-      "reason": "Binance delisted PHB on May 27 2026 after monitoring tag; token is no longer tradeable on Binance spot, down ~91% from highs"
-    },
-    {
-      "symbol": "NFPUSDT",
-      "reason": "Binance delisted NFP on Jul 10 2026; KuCoin further delisted Oct 14 2026; down ~97% since delisting announcement"
-    },
-    {
-      "symbol": "DEXEUSDT",
-      "reason": "Crashed 85% in Jul 2026 amid unresolved market-maker manipulation allegations; team denies exploit but cause unconfirmed; recovery fragile"
-    }
+    {"symbol": "PHBUSDT", "reason": "Binance delisted May 2026; near-zero liquidity, dead-cat bounce after collapse"},
+    {"symbol": "NFPUSDT", "reason": "KuCoin delisted Oct 14 2026; active multi-exchange delisting pressure"},
+    {"symbol": "XECUSDT", "reason": "Dead-cat bounce off Jun 2026 all-time low; +16% not a genuine recovery"},
+    {"symbol": "DEXEUSDT", "reason": "90%+ crash Jul 2026 on team wallet dump rumors; volatile bounce from wreckage"},
+    {"symbol": "GIGGLEUSDT", "reason": "Memecoin with repeated whale pump-and-dump cycles; low cleanliness score (0.47)"}
   ],
-  "boosted": [],
-  "updatedAt": "2026-10-19T00:00:00Z"
+  "boosted": [
+    {"symbol": "ZECUSDT", "reason": "NU7 protocol upgrade due Nov 5, Grayscale ETF NYSE-approved, SEC cleared Jan 2026"}
+  ],
+  "updatedAt": "2026-10-26T12:05:00Z"
 }
